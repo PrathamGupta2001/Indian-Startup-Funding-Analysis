@@ -1,0 +1,72 @@
+# 3-Layer Sector Reclassification System
+
+## Results Summary
+
+| Metric | Value |
+|--------|-------|
+| **Total rows** | 1,100 |
+| **Reclassified** | 350 (31.8%) |
+| **Unchanged** | 750 (68.2%) |
+| **"Other" reduced** | 172 → 106 (−38%) |
+| **Coverage** | 93.2% classified into real sectors |
+
+## Layer Performance
+
+| Layer | Rows | Coverage | Confidence |
+|-------|------|----------|------------|
+| 🏷️ **Layer 1** — Name Lookup | 349 | 31.7% | 🟢 High |
+| 🔍 **Layer 2** — Regex Match | 655 | 59.5% | 🟡 Medium |
+| 💰 **Layer 3** — Investor Inference | 21 | 1.9% | 🔴 Low |
+| ❓ **Fallback** — Other | 75 | 6.8% | 🔴 Low |
+
+## Key Corrections Caught
+
+The system correctly identified and fixed these common mislabellings:
+
+| Startup | Was Labelled | Now Corrected To | Layer |
+|---------|-------------|------------------|-------|
+| **Razorpay** | EdTech ❌ | **Fintech** ✅ | Name Lookup |
+| **BYJU'S** | AgriTech ❌ | **Edtech** ✅ | Name Lookup |
+| **BharatPe** | SaaS ❌ | **Fintech** ✅ | Name Lookup |
+| **Lenskart** | FinTech ❌ | **Ecommerce/D2C** ✅ | Name Lookup |
+| **Unacademy** | HealthTech ❌ | **Edtech** ✅ | Name Lookup |
+| **HealthAnalytics** | Consumer Electronics ❌ | **Healthtech** ✅ | Regex |
+
+## Sector Distribution Change
+
+![Before vs After Reclassification](file:///c:/Users/dev88/Downloads/Biodata/Mckinsey/Startup%20Project/viz_reclassification_impact.png)
+
+![Layer Usage](file:///c:/Users/dev88/Downloads/Biodata/Mckinsey/Startup%20Project/viz_reclassification_layers.png)
+
+## Files Created
+
+| File | Purpose |
+|------|---------|
+| [sector_reclassifier.py](file:///c:/Users/dev88/Downloads/Biodata/Mckinsey/Startup%20Project/sector_reclassifier.py) | The reclassification module (309 companies, 12 patterns, 35 investors) |
+| [reclassified_startup_data.csv](file:///c:/Users/dev88/Downloads/Biodata/Mckinsey/Startup%20Project/reclassified_startup_data.csv) | Cleaned dataset with `sector_final`, `sector_confidence`, and `reclassification_layer` columns |
+| viz_reclassification_impact.png | Before/after comparison chart |
+| viz_reclassification_layers.png | Layer usage bar chart |
+| viz_reclassification_confidence.png | Confidence distribution pie chart |
+
+## Notebook Integration
+
+4 new cells were added to the notebook after the data cleaning section:
+
+1. **Section header** (markdown) — explains the 3-layer approach
+2. **Import cell** — loads the reclassifier module
+3. **Apply cell** — runs reclassification, updates `sector_clean` and SQLite
+4. **Visualization cell** — generates comparison charts
+
+> [!IMPORTANT]
+> **Restart your kernel** and **Run All** to see the reclassification in action. All downstream SQL queries and charts will automatically use the corrected sectors.
+
+## How to Use
+
+```python
+# Already integrated in notebook, but you can also import standalone:
+from sector_reclassifier import reclassify_sector
+
+result = reclassify_sector('Razorpay', 'EdTech', 'Tiger Global')
+# → {'sector_final': 'Fintech', 'sector_confidence': 'high',
+#    'reclassification_layer': 'name_lookup', 'original_sector': 'EdTech'}
+```
