@@ -1,178 +1,247 @@
-# Indian Startup Funding Analysis (2020–2025)
+Indian Startup Funding Analysis (2020–2025)
 
-> **Comprehensive analysis of 1,100+ Indian startup funding deals** across sectors, cities, funding stages, and investors — featuring a 3-layer AI-powered sector reclassification system.
+A data analysis project focused on understanding the Indian startup funding ecosystem from 2020 to 2025. The project looks at funding trends, sectors, cities, funding stages, deal sizes, and investor activity to understand how the startup ecosystem changed over time.
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-3.0-green?logo=pandas)
-![SQLite](https://img.shields.io/badge/SQLite-In--Memory-lightgrey?logo=sqlite)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+The analysis combines Python, SQL, Excel, Power BI, and Tableau to clean the data, identify patterns, create visualizations, and present the findings through interactive dashboards.
 
----
+📌 Project Overview
 
-## 📊 Key Findings
+The main objective of this project is to answer questions such as:
 
-| Metric | Value |
-|--------|-------|
-| **Total Funding** | $28.09B |
-| **Total Deals** | 1,100 |
-| **Peak Year** | 2021 ($6.02B, +27% YoY) |
-| **Post-Winter Recovery** | 2024 (+49% bounce back) |
-| **Top Sector** | Ecommerce/D2C (205 deals) |
-| **Median Deal Size** | $1.1M |
+- How has startup funding changed from 2020 to 2025?
+- Which sectors received the most funding and had the highest number of deals?
+- Which Indian cities have the strongest startup funding activity?
+- Which funding stages are most common?
+- Who are the most active investors?
+- How does deal size vary across different sectors?
+- Are there noticeable seasonal patterns in startup funding?
+- How did the startup funding market recover after the 2022–2023 funding slowdown?
 
----
+The project follows a complete data analysis workflow — from raw data cleaning and classification to analysis, visualization, and business insights.
 
-## 🏗️ Project Structure
+📊 Key Findings
 
-```
-├── data/                           # Raw datasets
-│   ├── 2020-2025/                  # Primary dataset (1,100 deals)
-│   ├── 2024-dataset/               # 2024-only supplement
-│   └── 2024-2025/                  # 2024-2025 supplement
-│
-├── notebooks/
-│   └── indian_startup_funding_analysis.ipynb   # Main analysis notebook
-│
-├── scripts/
-│   ├── sector_reclassifier.py      # 3-layer sector reclassification system
-│   ├── generate_powerbi_data.py    # Power BI data generator
-│   ├── generate_analysis_csvs.py   # Tableau/CSV data generator
-│   ├── analyze_single_dataset.py   # Standalone analysis script
-│   ├── generate_excel.py           # Excel export utility
-│   └── create_dashboard.py         # HTML dashboard generator
-│
-├── outputs/
-│   ├── cleaned_startup_data.csv    # Cleaned dataset
-│   ├── reclassified_startup_data.csv  # Reclassified dataset
-│   ├── startup_funding_analysis_output.xlsx  # Analysis Excel workbook
-│   ├── powerbi_startup_dashboard.xlsx  # Power BI data source (17 sheets)
-│   └── startup_funding.db         # SQLite database
-│
-├── visualizations/                 # Generated charts (dark theme)
-│   ├── viz1_yoy_trend.png
-│   ├── viz2_sector_heatmap.png
-│   ├── viz3_stage_mix.png
-│   ├── viz4_city_funding.png
-│   ├── viz5_top_investors.png
-│   ├── viz6_sector_stage.png
-│   ├── viz7_seasonality.png
-│   ├── viz8_projection.png
-│   ├── viz9_sector_cagr.png
-│   ├── viz_reclassification_impact.png
-│   ├── viz_reclassification_layers.png
-│   └── viz_reclassification_confidence.png
-│
-├── tableau_outputs/                # Tableau-ready CSVs + guide
-├── powerbi/                        # Power BI theme + guide
-│   ├── mckinsey_theme.json
-│   └── POWERBI_GUIDE.md
-│
-├── sql/
-│   └── startup_funding_analysis.sql  # All SQL queries
-│
-├── dashboard/
-│   └── McKinsey_Startup_Dashboard.html  # Interactive HTML dashboard
-│
-├── requirements.txt
-└── README.md
-```
+| Metric | Result |
+|---|---|
+| Total Funding | $28.09B |
+| Total Deals | 1,100 |
+| Peak Funding Year | 2021 |
+| Top Sector | Ecommerce / D2C |
+| Top Sector Deals | 205 |
+| Median Deal Size | $1.1M |
+| Post-Winter Recovery | 2024 showed a strong recovery |
 
----
+ Major observations
 
-## 🔬 3-Layer Sector Reclassification
+- 2021 was the peak funding year, showing the strongest funding activity in the analyzed period.
+- Funding activity declined during the startup funding slowdown that followed the 2021 peak.
+- 2024 showed signs of recovery, with funding activity increasing compared with the previous period.
+- Ecommerce / D2C was one of the strongest sectors by number of deals.
+- Funding patterns differed considerably across sectors, cities, and funding stages.
+- Deal sizes varied significantly depending on the sector and stage of funding.
 
-The dataset suffers from severe sector mislabelling (e.g., Razorpay tagged as "EdTech", BYJU'S as "AgriTech"). We built a 3-layer correction system:
+🔍 Analysis Performed
 
-| Layer | Method | Entries | Confidence |
-|-------|--------|---------|------------|
-| **Layer 1** | Known company name lookup | 309 companies | 🟢 High |
-| **Layer 2** | Regex pattern matching | 12 sector patterns | 🟡 Medium |
-| **Layer 3** | Investor-based inference | 35 specialist investors | 🔴 Low |
+ 1. Data Collection & Preparation
 
-**Result:** 350 rows corrected (31.8%), "Other" category reduced by 38%.
+The first step was to prepare the raw startup funding data for analysis.
 
-### Reclassification Results
-#### Sector Distribution Change
-![Before vs After Reclassification](viz_reclassification_impact.png)
-#### Reclassification Layer Usage
-![Layer Usage](viz_reclassification_layers.png)
-#### Confidence Distribution
-![Confidence](viz_reclassification_confidence.png)
+The dataset contained information related to startup names, funding amounts, dates, sectors, cities, funding stages, and investors.
 
----
+The data preparation process included:
 
-## 📈 Analysis Highlights
+- Reviewing the raw datasets.
+- Removing duplicate and unnecessary records.
+- Handling missing values.
+- Standardizing dates and funding amounts.
+- Cleaning inconsistent sector names.
+- Preparing the data for SQL, Python, Excel, Power BI, and Tableau.
+- Creating cleaned datasets that could be reused across different analysis tools.
 
-### 8 Analytical Insights
-1. **YoY Funding Trend** — Annual funding with growth rates
-2. **Sector Share by Year** — Which sectors dominated when
-3. **Funding Stage Distribution** — Seed to Late Stage breakdown
-4. **City-wise Funding** — Geographic concentration analysis
-5. **Top 15 Investors** — Most active investors by deal count
-6. **Deal Size by Sector** — Min/avg/max deal sizes
-7. **Sector × Stage Matrix** — Cross-tabulation heatmap
-8. **Seasonality** — Monthly/quarterly funding patterns
+This step was important because inconsistent categories and missing values could affect the accuracy of the final analysis.
 
-### Projections (2026–2028)
-Linear regression-based funding projections for the next 3 years.
+2. Sector Reclassification
 
----
+One of the challenges in the dataset was inconsistent or incorrect sector labeling.
 
-## 🛠️ Setup & Usage
+For example, some startups were assigned to sectors that did not accurately represent their business.
 
-### Prerequisites
-```bash
-python -m venv .venv
-.venv\Scripts\activate       # Windows
-pip install -r requirements.txt
-```
+To improve the quality of the analysis, a 3-layer sector reclassification approach was created.
 
-### Run the Notebook
-```bash
-jupyter notebook notebooks/indian_startup_funding_analysis.ipynb
-```
+Reclassification Process
 
-### Generate Power BI Data
-```bash
-python scripts/generate_powerbi_data.py
-```
+| Layer | Method | Purpose |
+|---|---|---|
+| Layer 1 | Known company-name lookup | Correct known startup classifications |
+| Layer 2 | Regex / pattern matching | Identify common sector patterns |
+| Layer 3 | Investor-based inference | Handle remaining unclear classifications |
 
-### Run Sector Reclassification Standalone
-```bash
-python scripts/sector_reclassifier.py
-```
+This helped reduce the number of startups incorrectly placed in the "Other" category and produced more meaningful sector level insights.
 
----
+The reclassified dataset was then used for the remaining analysis.
 
-## 📊 Dashboard Options
 
-| Tool | File | Guide |
-|------|------|-------|
-| **Power BI** | `outputs/powerbi_startup_dashboard.xlsx` | `powerbi/POWERBI_GUIDE.md` |
-| **Tableau** | `tableau_outputs/*.csv` | `tableau_outputs/TABLEAU_GUIDE.md` |
-| **HTML** | `dashboard/McKinsey_Startup_Dashboard.html` | Open in browser |
+📈 Funding Trend Analysis
 
----
+The project analyzes how Indian startup funding changed between 2020 and 2025.
 
-## 📋 Tech Stack
+The analysis focuses on:
 
-- **Python 3.10+** — Core language
-- **Pandas 3.0** — Data manipulation
-- **SQLite** — In-memory analytical queries
-- **Matplotlib + Seaborn** — Visualizations (dark theme)
-- **openpyxl** — Excel export
-- **Regex** — Sector reclassification patterns
+- Total funding by year
+- Number of funding deals by year
+- Year-over-year growth
+- Peak funding periods
+- Funding slowdown
+- Post-winter recovery
+- Long-term funding trends
 
----
+This makes it easier to understand how the Indian startup ecosystem changed during different market conditions.
 
-## 📄 License
 
-MIT License — feel free to use, modify, and distribute.
+🏢 Sector Analysis
 
----
+Sector level analysis was performed to identify which industries received the most funding and generated the highest number of deals.
 
-*Built as part of a McKinsey-style startup ecosystem analysis project.*
-## 📊 Reclassification Results
-![Impact of Reclassification](viz_reclassification_impact.png)
-![Layer Usage](viz_reclassification_layers.png)
-![Confidence](viz_reclassification_confidence.png)
+The analysis includes:
+
+- Total funding by sector
+- Number of deals by sector
+- Average deal size
+- Median deal size
+- Sector growth over time
+- Sector-wise funding trends
+
+Key Insight
+
+E-commerce / D2C emerged as one of the strongest sectors by deal activity, with approximately 205 deals in the analyzed dataset.
+
+
+💰 Funding Stage Analysis
+
+The project also looks at how funding is distributed across different startup funding stages.
+
+Examples include:
+
+- Seed
+- Pre-Series A
+- Series A
+- Series B
+- Series C
+- Later stage funding
+- Other funding categories
+
+This analysis helps understand whether startups are receiving funding primarily during their early stages or at more mature stages.
+
+
+🌆 City-wise Analysis
+
+Startup funding was also analyzed based on location.
+
+The analysis looks at:
+
+- Funding by city
+- Number of deals by city
+- Average deal size by city
+- Major startup hubs
+- City-wise funding trends
+
+This helps identify the Indian cities that have the strongest startup funding ecosystems.
+
+
+👥 Investor Analysis
+
+The project also analyzes investor activity to identify the most active investors.
+
+The analysis includes:
+
+- Investors with the highest number of deals
+- Investor activity across sectors
+- Investor participation over time
+- Comparison of active investors
+
+This provides a view of which investors were most frequently involved in startup funding rounds.
+
+📦 Deal Size Analysis
+
+Deal size was analyzed across sectors and funding stages.
+
+The analysis includes:
+
+- Minimum deal size
+- Maximum deal size
+- Average deal size
+- Median deal size
+- Deal size distribution
+- Sector-wise deal size comparison
+
+The median deal size was approximately $1.1M, providing a better representation of the typical deal than the average alone because very large funding rounds can heavily influence the average.
+
+
+🔄 Sector × Funding Stage Analysis
+
+A cross-analysis was performed between startup sectors and funding stages.
+
+This helps answer questions such as:
+
+- Which sectors receive more early-stage funding?
+- Which sectors attract larger later-stage rounds?
+- How does funding stage distribution differ between industries?
+
+This analysis provides a more detailed view than looking at sectors or funding stages individually.
+
+
+📅 Seasonality Analysis
+
+Monthly and quarterly funding patterns were also explored.
+
+The purpose was to identify whether startup funding activity follows any noticeable seasonal pattern.
+
+The analysis looks at:
+
+- Monthly funding trends
+- Quarterly funding trends
+- Number of deals over time
+- High and low funding periods
+
+
+🐍 Python Analysis
+
+Python was used as one of the main tools for data cleaning, exploration, and analysis.
+
+Main tasks performed using Python:
+
+- Data cleaning
+- Missing-value handling
+- Data transformation
+- Sector reclassification
+- Exploratory Data Analysis (EDA)
+- Statistical analysis
+- Trend analysis
+- Data visualization
+- Exporting analysis-ready datasets
+
+Main Python Libraries
+
+- Pandas – Data manipulation and analysis
+- Matplotlib – Data visualization
+- Seaborn – Statistical visualizations
+- OpenPyXL – Excel file generation
+- Regex – Sector classification and pattern matching
+
+The main analysis notebook is available in the `/notebooks` folder.
+
+
+🗄️ SQL Analysis
+
+SQL was used to perform structured analysis on the cleaned startup funding data.
+
+The SQL analysis covers:
+
+- Year-wise funding analysis
+- Sector-wise funding
+- Funding stage distribution
+- City-wise analysis
+- Investor analysis
+- Deal size analysis
+- Aggregations and comparisons
+- Trend-based analysis
