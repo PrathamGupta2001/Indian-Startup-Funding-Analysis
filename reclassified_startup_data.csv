@@ -1,0 +1,1101 @@
+startup_name,sector,sub_vertical,city,investor,round_type,funding_usd,deal_date,sector_clean,sector_final,sector_confidence,reclassification_layer,original_sector
+Housejoy,EdTech,K12,Mumbai,Lightspeed India,Seed,199000,19-04-2023,Edtech,Edtech,medium,regex,EdTech
+Groww,Media,Streaming,Bengaluru,IFC,Seed,1668000,28-01-2025,Other,Fintech,high,name_lookup,Media
+Groww,Mobility,Ride Sharing,Hyderabad,"Nexus Venture Partners, Peak XV",Series B,38052000,14-03-2021,EV/Cleantech,Fintech,high,name_lookup,Mobility
+FarmBox,Consumer Electronics,Wearables,Gurugram,"Kalaari Capital, Y Combinator",Seed,455000,11-09-2023,Other,Deeptech,medium,regex,Consumer Electronics
+Udaan,RealEstate,Rental Tech,Mumbai,Bessemer Venture Partners,Seed,89000,31-01-2024,Proptech,Ecommerce/D2C,high,name_lookup,RealEstate
+AeroStack,EdTech,Coding Bootcamp,Delhi,"Matrix Partners India, Peak XV",Pre-Series A,143000,24-07-2021,Edtech,Edtech,medium,regex,EdTech
+Ola,Retail,Fashion,Mumbai,Tiger Global Management,Seed,62000,12-01-2023,Ecommerce/D2C,EV/Cleantech,high,name_lookup,Retail
+FinSpace,Consumer Electronics,Wearables,Gurugram,Blume Ventures,Growth,491721000,22-01-2025,Other,SaaS/Enterprise,low,investor,Consumer Electronics
+Rapido,FoodTech,Food Delivery,Kolkata,"A91 Partners, Kedaara Capital, Tiger Global Management",Seed,459000,27-11-2023,Foodtech,EV/Cleantech,high,name_lookup,FoodTech
+HyperLoop,EdTech,Test Prep,Ahmedabad,"Mirae Asset, SoftBank Vision Fund, Tiger Global",Series B,35610000,04-05-2020,Edtech,Edtech,medium,regex,EdTech
+NextSense_10,Mobility,Ride Sharing,Delhi,"IFC, Kalaari Capital, Peak XV",Seed,54000,19-05-2020,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+LogiMart,FinTech,NeoBank,Mumbai,"Falcon Edge, Peak XV",Pre-Series A,933000,10-04-2023,Fintech,Fintech,medium,regex,FinTech
+CoreFlow,SaaS,DevTools,Hyderabad,"Elevation Capital, SoftBank Vision Fund, Ventures India",Pre-Series A,680000,07-10-2023,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+Groww,FinTech,InsurTech,Ahmedabad,Falcon Edge,Debt,374000,23-07-2020,Fintech,Fintech,high,name_lookup,FinTech
+ClearDekho,Logistics,Last Mile,Pune,Y Combinator,Private Equity,151993000,05-12-2024,Logistics,Logistics,medium,regex,Logistics
+NextSense,Mobility,Micro Mobility,Hyderabad,"A91 Partners, Falcon Edge, Prosus Ventures",Series A,1643000,10-07-2024,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+Zomato,HealthTech,Pharmacy,Mumbai,"Blume Ventures, Elevation Capital",Private Equity,201485000,29-02-2024,Healthtech,Foodtech,high,name_lookup,HealthTech
+FarmTech,EdTech,UpSkilling,Noida,Accel,Series A,4142000,28-01-2025,Edtech,Edtech,medium,regex,EdTech
+Innovaccer,Enterprise,Security,Bengaluru,Ribbit Capital,Pre-Seed,54000,28-04-2024,SaaS/Enterprise,Healthtech,high,name_lookup,Enterprise
+CureFit,HealthTech,Health Analytics,Noida,Accel,Series B,11211000,22-02-2023,Healthtech,Healthtech,high,name_lookup,HealthTech
+WorkPay,Enterprise,Security,Ahmedabad,Tiger Global,Series A,5243000,30-05-2022,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+Mobikwik,Retail,E-Retail,Pune,"Accel, Bessemer Venture Partners, IFC",Seed,84000,26-05-2021,Ecommerce/D2C,Fintech,high,name_lookup,Retail
+Freshworks,AgriTech,Marketplace,Delhi,Tiger Global Management,Angel,12000,29-04-2021,Agritech,SaaS/Enterprise,high,name_lookup,AgriTech
+EduTech,FinTech,Lending,Pune,"IFC, Matrix Partners India, Zodius Capital",Series C,53939000,23-04-2022,Fintech,Fintech,medium,regex,FinTech
+AeroStack,FinTech,InsurTech,Gurugram,"Y Combinator, Zodius Capital",Seed,269000,23-02-2025,Fintech,Fintech,medium,regex,FinTech
+HomeFoods,RealEstate,PropTech,Chennai,Tiger Global Management,Seed,905000,05-11-2024,Proptech,Proptech,medium,regex,RealEstate
+QuantumSolutions,Mobility,EV,Noida,IFC,Seed,104000,26-02-2020,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+Swiggy,HealthTech,Pharmacy,Bengaluru,Kedaara Capital,Seed,333000,08-06-2022,Healthtech,Foodtech,high,name_lookup,HealthTech
+HyperLabs,Mobility,Ride Sharing,Chennai,Tiger Global,Angel,29000,24-01-2021,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+DriveEdge_29,Retail,Fashion,Gurugram,"LCatterton, Prosus Ventures, Ribbit Capital",Pre-Series A,111000,23-05-2020,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+NeoTech,Logistics,Fleet Management,Hyderabad,"A91 Partners, Kedaara Capital",Series B,26948000,30-10-2021,Logistics,Logistics,medium,regex,Logistics
+CloudLabs,FoodTech,Grocery,Delhi,"A91 Partners, Sequoia Capital India",Series A,1587000,08-09-2021,Foodtech,Foodtech,medium,regex,FoodTech
+SmartTech,Retail,Fashion,Ahmedabad,"Info Edge, Lightspeed India",Series B,5988000,10-08-2022,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+FarmBox,Retail,Fashion,Delhi,"Prosus Ventures, Ribbit Capital",Series B,69429000,04-08-2021,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+Bounce,Enterprise,Analytics,Hyderabad,Sequoia Capital India,Seed,1762000,11-02-2021,SaaS/Enterprise,EV/Cleantech,high,name_lookup,Enterprise
+HomeMart,AgriTech,Supply Chain,Kolkata,"Kedaara Capital, Lightspeed India",Pre-Series A,643000,13-07-2023,Agritech,Agritech,medium,regex,AgriTech
+NimbusLabs,HealthTech,Telemedicine,Mumbai,Bessemer Venture Partners,Series C,45633000,24-03-2021,Healthtech,Healthtech,medium,regex,HealthTech
+SmartMart_37,EdTech,Test Prep,Kolkata,"A91 Partners, Falcon Edge, SoftBank Vision Fund",Seed,72000,09-08-2022,Edtech,Edtech,medium,regex,EdTech
+Ola,AgriTech,Marketplace,Noida,"Blume Ventures, Info Edge",Pre-Series A,483000,31-01-2025,Agritech,EV/Cleantech,high,name_lookup,AgriTech
+FarmBox,Retail,E-Retail,Hyderabad,"Elevation Capital, Ribbit Capital",Series C,65870000,03-12-2022,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+Dunzo,Media,Content,Gurugram,"Accel, Nexus Venture Partners",Seed,78000,16-10-2021,Other,Ecommerce/D2C,high,name_lookup,Media
+AeroHub,Media,Social,Mumbai,"Mirae Asset, Tiger Global",Pre-Series A,313000,08-11-2021,Other,Other,low,fallback,Media
+QuantumDrive,Retail,Fashion,Bengaluru,"Sequoia Capital India, Y Combinator",Series D,54120000,16-04-2024,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+AgriFit,FoodTech,Food Delivery,Noida,"LCatterton, Mirae Asset",Series B,62216000,23-01-2023,Foodtech,Foodtech,medium,regex,FoodTech
+SkillFlow,FinTech,InsurTech,Pune,"Kedaara Capital, Zodius Capital",Series B,10246000,22-06-2024,Fintech,Fintech,medium,regex,FinTech
+FreshSolutions,Mobility,Ride Sharing,Chennai,Accel,Series A,6014000,19-09-2023,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+DriveLoop,Consumer Electronics,Audio,Bengaluru,Info Edge,Seed,158000,01-11-2021,Other,Other,low,fallback,Consumer Electronics
+BlueSpace,FoodTech,Food Delivery,Chennai,"A91 Partners, Sequoia Capital India",Seed,341000,16-06-2020,Foodtech,Foodtech,medium,regex,FoodTech
+NextFlow,E-commerce,Quick Commerce,Bengaluru,Ribbit Capital,Bridge,376000,12-02-2021,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+MediWorks,RealEstate,PropTech,Ahmedabad,"Matrix Partners India, Omidyar Network, Y Combinator",Bridge,99000,10-08-2022,Proptech,Proptech,medium,regex,RealEstate
+Porter,Retail,E-Retail,Hyderabad,A91 Partners,Seed,1788000,22-02-2020,Ecommerce/D2C,Logistics,high,name_lookup,Retail
+UrbanSolutions,Media,Social,Mumbai,"Elevation Capital, Kedaara Capital, Matrix Partners India",Series A,8159000,28-08-2024,Other,Other,low,fallback,Media
+Housejoy,Retail,Fashion,Bengaluru,"Falcon Edge, SoftBank Vision Fund, Y Combinator",Seed,1600000,27-05-2022,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+QuantumDrive,E-commerce,Fashion,Pune,"Info Edge, Kedaara Capital",Series B,59765000,24-08-2024,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+SkillFlow,Mobility,EV,Kolkata,"IFC, Matrix Partners India",Series A,5049000,06-02-2024,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+Unacademy,Logistics,Supply Chain,Gurugram,"Prosus Ventures, SoftBank Vision Fund",Series C,242794000,13-03-2023,Logistics,Edtech,high,name_lookup,Logistics
+NimbusLabs,HealthTech,Health Analytics,Gurugram,Elevation Capital,Pre-Series A,123000,13-06-2021,Healthtech,Healthtech,medium,regex,HealthTech
+SkillSolutions,Mobility,Ride Sharing,Mumbai,"A91 Partners, Matrix Partners India",Seed,103000,12-04-2022,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+FarmBox,Consumer Electronics,Wearables,Bengaluru,"Elevation Capital, Prosus Ventures",Seed,59000,29-03-2021,Other,Deeptech,medium,regex,Consumer Electronics
+Nykaa,Consumer Electronics,Smart Home,Noida,"Kedaara Capital, SoftBank Vision Fund",Seed,166000,07-03-2024,Other,Ecommerce/D2C,high,name_lookup,Consumer Electronics
+SkillFlow,EdTech,Test Prep,Gurugram,"Peak XV, Prosus Ventures",Seed,210000,01-03-2024,Edtech,Edtech,medium,regex,EdTech
+CloudLabs,Consumer Electronics,Wearables,Ahmedabad,"Accel, Elevation Capital",Bridge,136000,10-12-2022,Other,Other,low,fallback,Consumer Electronics
+CloudLabs,SaaS,DevTools,Hyderabad,Elevation Capital,Pre-Seed,135000,29-12-2022,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+Udaan,Mobility,EV,Delhi,"Accel, Sequoia Capital India",Series B,13444000,21-03-2024,EV/Cleantech,Ecommerce/D2C,high,name_lookup,Mobility
+HealthAnalytics,Consumer Electronics,Wearables,Delhi,"Accel, Tiger Global",Bridge,141000,01-06-2021,Other,Healthtech,medium,regex,Consumer Electronics
+NeoLabs_65,RealEstate,Rental Tech,Bengaluru,"Accel, Peak XV",Seed,370000,19-07-2024,Proptech,Proptech,medium,regex,RealEstate
+LogiMart,Retail,Grocery,Ahmedabad,Bessemer Venture Partners,Series A,1465000,20-06-2023,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+QuantumAnalytics,Consumer Electronics,Wearables,Ahmedabad,"Omidyar Network, Ribbit Capital",Debt,14625000,17-09-2021,Other,Agritech,low,investor,Consumer Electronics
+Practo,Retail,E-Retail,Gurugram,Matrix Partners India,Seed,66000,15-06-2020,Ecommerce/D2C,Healthtech,high,name_lookup,Retail
+Dunzo,HealthTech,Telemedicine,Chennai,"Elevation Capital, Matrix Partners India",Series A,14477000,01-05-2023,Healthtech,Ecommerce/D2C,high,name_lookup,HealthTech
+HealthAnalytics,Consumer Electronics,Audio,Gurugram,"Bessemer Venture Partners, Lightspeed India, Omidyar Network",Angel,51000,01-06-2024,Other,Healthtech,medium,regex,Consumer Electronics
+Porter,Mobility,Ride Sharing,Delhi,Tiger Global,Angel,9000,19-08-2024,EV/Cleantech,Logistics,high,name_lookup,Mobility
+Dream11,Retail,Grocery,Ahmedabad,Info Edge,Series B,5077000,11-03-2023,Ecommerce/D2C,Other,high,name_lookup,Retail
+InMobi,Media,Content,Chennai,"Accel, Mirae Asset",Bridge,1012000,21-10-2022,Other,Other,high,name_lookup,Media
+Razorpay,FoodTech,Grocery,Pune,Lightspeed India,Series A,6782000,22-02-2020,Foodtech,Fintech,high,name_lookup,FoodTech
+DataAnalytics,RealEstate,Home Services,Ahmedabad,Mirae Asset,Pre-Seed,107000,28-03-2024,Proptech,Proptech,medium,regex,RealEstate
+Ola,Logistics,Last Mile,Ahmedabad,"Mirae Asset, Tiger Global Management",Series A,8074000,25-07-2024,Logistics,EV/Cleantech,high,name_lookup,Logistics
+Freshworks,SaaS,HRTech,Mumbai,"Elevation Capital, Kedaara Capital",Series D,59295000,06-11-2021,SaaS/Enterprise,SaaS/Enterprise,high,name_lookup,SaaS
+FoodFit,Mobility,Ride Sharing,Kolkata,Nexus Venture Partners,Seed,188000,31-05-2021,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+CoreConnect,Enterprise,Analytics,Noida,Falcon Edge,Series A,1369000,21-04-2020,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+Chargebee,RealEstate,Home Services,Bengaluru,Peak XV,Seed,1207000,29-01-2023,Proptech,SaaS/Enterprise,high,name_lookup,RealEstate
+Dailyhunt,Media,Content,Mumbai,"Bessemer Venture Partners, Kedaara Capital",Pre-Seed,84000,14-07-2023,Other,Other,high,name_lookup,Media
+FreshTech,Mobility,EV,Mumbai,Info Edge,Seed,169000,19-09-2024,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+Housejoy,RealEstate,PropTech,Kolkata,"Kalaari Capital, Kedaara Capital",Angel,6000,20-08-2021,Proptech,Proptech,medium,regex,RealEstate
+AgriHive,EdTech,Coding Bootcamp,Noida,"Falcon Edge, IFC",Seed,157000,25-01-2021,Edtech,Edtech,medium,regex,EdTech
+CRED,Logistics,Supply Chain,Pune,Zodius Capital,Angel,13000,05-11-2022,Logistics,Fintech,high,name_lookup,Logistics
+HealthAnalytics,Enterprise,Automation,Ahmedabad,Info Edge,Debt,9315000,29-09-2022,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+AgriHive,Mobility,Micro Mobility,Chennai,Tiger Global Management,Series A,5621000,21-10-2021,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+MediWorks,EdTech,Coding Bootcamp,Bengaluru,"LCatterton, Tiger Global Management, Y Combinator",Seed,1319000,26-08-2022,Edtech,Edtech,medium,regex,EdTech
+WorkPay,FinTech,Lending,Noida,IFC,Bridge,285000,10-11-2021,Fintech,Fintech,medium,regex,FinTech
+Dailyhunt,E-commerce,Grocery,Kolkata,"IFC, Tiger Global Management",Pre-Seed,26000,22-10-2020,Ecommerce/D2C,Other,high,name_lookup,E-commerce
+Dunzo,Consumer Electronics,Wearables,Pune,"Accel, Prosus Ventures, SoftBank Vision Fund",Series A,6900000,25-03-2022,Other,Ecommerce/D2C,high,name_lookup,Consumer Electronics
+QuantumAnalytics,RealEstate,Rental Tech,Kolkata,"Ribbit Capital, Tiger Global",Growth,372329000,14-03-2020,Proptech,Proptech,medium,regex,RealEstate
+SmartTech,Media,Social,Chennai,"Accel, Blume Ventures, Kedaara Capital",Bridge,396000,06-04-2024,Other,Deeptech,medium,regex,Media
+Delhivery,FinTech,Payments,Pune,Y Combinator,Series C,161346000,23-08-2021,Fintech,Logistics,high,name_lookup,FinTech
+GreenConnect,FoodTech,Grocery,Delhi,"IFC, Ribbit Capital",Seed,309000,10-06-2020,Foodtech,Foodtech,medium,regex,FoodTech
+MediWorks,AgriTech,Supply Chain,Gurugram,"Matrix Partners India, Sequoia Capital India",Series A,4119000,04-06-2021,Agritech,Agritech,medium,regex,AgriTech
+InMobi,Logistics,Fleet Management,Noida,Tiger Global Management,Seed,242000,23-06-2022,Logistics,Other,high,name_lookup,Logistics
+Delhivery,RealEstate,Home Services,Hyderabad,Tiger Global Management,Series A,1071000,10-09-2021,Proptech,Logistics,high,name_lookup,RealEstate
+AgriHive,FoodTech,Grocery,Pune,Sequoia Capital India,Series A,1339000,03-12-2023,Foodtech,Foodtech,medium,regex,FoodTech
+AutoMart,AgriTech,Marketplace,Bengaluru,"LCatterton, Zodius Capital",Angel,5000,06-03-2024,Agritech,Agritech,medium,regex,AgriTech
+HomeFoods,SaaS,DevTools,Gurugram,"Nexus Venture Partners, Prosus Ventures, Ventures India",Series A,5604000,20-10-2023,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+Wakefit,RealEstate,Rental Tech,Bengaluru,Omidyar Network,Seed,159000,21-06-2022,Proptech,Ecommerce/D2C,high,name_lookup,RealEstate
+LogiSense,Logistics,Supply Chain,Chennai,"IFC, Y Combinator",Seed,326000,27-09-2020,Logistics,Logistics,medium,regex,Logistics
+AeroAnalytics,Enterprise,Analytics,Hyderabad,"Elevation Capital, Tiger Global Management",Angel,76000,17-04-2025,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+BlueSpace,Consumer Electronics,Audio,Delhi,"Kedaara Capital, Tiger Global Management",Series C,39284000,07-04-2021,Other,Other,low,fallback,Consumer Electronics
+Mobikwik,E-commerce,Fashion,Bengaluru,"Ventures India, Y Combinator",Seed,227000,10-09-2020,Ecommerce/D2C,Fintech,high,name_lookup,E-commerce
+CureFit,AgriTech,Smart Farming,Pune,"IFC, Sequoia Capital India",Seed,812000,23-04-2021,Agritech,Healthtech,high,name_lookup,AgriTech
+NeoSense,EdTech,Test Prep,Kolkata,"Kalaari Capital, Nexus Venture Partners, Peak XV",Angel,10000,10-09-2021,Edtech,Edtech,medium,regex,EdTech
+Oyo,Consumer Electronics,Audio,Mumbai,Kalaari Capital,Seed,66000,05-01-2023,Other,Proptech,high,name_lookup,Consumer Electronics
+Nykaa,RealEstate,Rental Tech,Noida,"Accel, Blume Ventures, Kalaari Capital",Pre-Series A,195000,29-02-2024,Proptech,Ecommerce/D2C,high,name_lookup,RealEstate
+NeoLabs,Logistics,Last Mile,Pune,IFC,Seed,91000,29-06-2022,Logistics,Logistics,medium,regex,Logistics
+Practo,RealEstate,Home Services,Noida,Tiger Global,Angel,81000,13-08-2023,Proptech,Healthtech,high,name_lookup,RealEstate
+SkillSolutions,E-commerce,Fashion,Mumbai,"Bessemer Venture Partners, Omidyar Network, Sequoia Capital India",Series B,46994000,07-08-2023,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+HomeMart,Retail,Fashion,Gurugram,Lightspeed India,Seed,517000,16-04-2024,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+PharmEasy,SaaS,DevTools,Ahmedabad,Tiger Global Management,Pre-Seed,149000,24-10-2024,SaaS/Enterprise,Healthtech,high,name_lookup,SaaS
+AutoStack,E-commerce,Quick Commerce,Delhi,Omidyar Network,Pre-Seed,127000,05-06-2024,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+PhonePe,HealthTech,Pharmacy,Bengaluru,"Accel, Tiger Global",Seed,100000,12-05-2022,Healthtech,Fintech,high,name_lookup,HealthTech
+EduMart,Mobility,Micro Mobility,Mumbai,"Bessemer Venture Partners, Tiger Global",Series A,11213000,29-03-2021,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+Oyo,Consumer Electronics,Smart Home,Bengaluru,"Accel, Info Edge",Seed,366000,07-09-2022,Other,Proptech,high,name_lookup,Consumer Electronics
+Ola,E-commerce,Quick Commerce,Pune,Elevation Capital,Series A,8905000,14-05-2020,Ecommerce/D2C,EV/Cleantech,high,name_lookup,E-commerce
+NeoSense,AgriTech,Marketplace,Hyderabad,"Accel, Kedaara Capital",Series A,11321000,24-05-2023,Agritech,Agritech,medium,regex,AgriTech
+GreenEdge,EdTech,Coding Bootcamp,Pune,"Kedaara Capital, SoftBank Vision Fund",Series C,47319000,27-03-2022,Edtech,Edtech,medium,regex,EdTech
+HyperLabs,SaaS,DevTools,Kolkata,Accel,Seed,75000,30-08-2024,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+Wakefit,Media,Streaming,Pune,Omidyar Network,Series C,37077000,13-02-2023,Other,Ecommerce/D2C,high,name_lookup,Media
+FreshBox,FoodTech,Food Delivery,Chennai,Tiger Global Management,Growth,154344000,16-01-2024,Foodtech,Foodtech,medium,regex,FoodTech
+FreshTech,AgriTech,Marketplace,Gurugram,IFC,Seed,1022000,14-09-2022,Agritech,Agritech,medium,regex,AgriTech
+NextFlow,SaaS,B2B SaaS,Hyderabad,"Tiger Global Management, Zodius Capital",Series A,10287000,11-07-2024,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+GrowthFlow,RealEstate,Rental Tech,Hyderabad,"LCatterton, Ventures India, Y Combinator",Pre-Seed,20000,13-07-2021,Proptech,Proptech,medium,regex,RealEstate
+BlueTech,AgriTech,Marketplace,Chennai,"Accel, Falcon Edge, Tiger Global Management",Seed,329000,26-02-2024,Agritech,Agritech,medium,regex,AgriTech
+UrbanSolutions,SaaS,DevTools,Pune,"IFC, Omidyar Network",Seed,233000,26-10-2021,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+HyperLoop,AgriTech,Supply Chain,Mumbai,"Info Edge, Mirae Asset",Seed,113000,17-09-2023,Agritech,Agritech,medium,regex,AgriTech
+SkillFlow,Mobility,Ride Sharing,Pune,"Mirae Asset, Prosus Ventures",Pre-Series A,132000,03-08-2021,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+FarmFit,AgriTech,Supply Chain,Bengaluru,Ventures India,Seed,174000,20-04-2025,Agritech,Agritech,medium,regex,AgriTech
+CloudSolutions,E-commerce,Quick Commerce,Kolkata,Y Combinator,Series B,68288000,25-12-2020,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+HomeFoods,Enterprise,Automation,Pune,"LCatterton, Sequoia Capital India, Tiger Global",Seed,165000,30-10-2024,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+HyperLabs,AgriTech,Smart Farming,Chennai,Tiger Global Management,Seed,339000,09-04-2022,Agritech,Agritech,medium,regex,AgriTech
+Lenskart,Retail,Fashion,Kolkata,Accel,Series D,252342000,26-02-2025,Ecommerce/D2C,Ecommerce/D2C,high,name_lookup,Retail
+AeroStack,AgriTech,Smart Farming,Noida,Ventures India,Seed,191000,17-11-2024,Agritech,Agritech,medium,regex,AgriTech
+HomeAnalytics,HealthTech,Telemedicine,Noida,"Bessemer Venture Partners, Lightspeed India",Series B,73980000,22-12-2022,Healthtech,Healthtech,medium,regex,HealthTech
+NextFlow,Enterprise,Automation,Delhi,Lightspeed India,Seed,1741000,26-10-2020,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+HyperLoop,RealEstate,PropTech,Delhi,"A91 Partners, Mirae Asset",Bridge,127000,10-07-2023,Proptech,Proptech,medium,regex,RealEstate
+EduMart,AgriTech,Marketplace,Ahmedabad,"Info Edge, Mirae Asset, SoftBank Vision Fund",Seed,313000,11-06-2025,Agritech,Agritech,medium,regex,AgriTech
+Oyo,Retail,Grocery,Ahmedabad,SoftBank Vision Fund,Seed,152000,05-11-2022,Ecommerce/D2C,Proptech,high,name_lookup,Retail
+EduBox_144,SaaS,HRTech,Mumbai,Omidyar Network,Series B,11014000,24-06-2025,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+ClearDekho,FoodTech,Food Delivery,Ahmedabad,"Info Edge, LCatterton, Zodius Capital",Series A,1105000,09-06-2024,Foodtech,Foodtech,medium,regex,FoodTech
+FinFoods,Consumer Electronics,Smart Home,Delhi,Zodius Capital,Bridge,474000,11-07-2022,Other,Other,low,fallback,Consumer Electronics
+DataHive,E-commerce,Grocery,Delhi,"Falcon Edge, Tiger Global Management",Pre-Seed,64000,20-12-2023,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+NextSense,Logistics,Supply Chain,Chennai,"Ribbit Capital, Tiger Global",Series C,22992000,22-10-2023,Logistics,Logistics,medium,regex,Logistics
+WorkStack_149,E-commerce,Grocery,Chennai,"Nexus Venture Partners, Omidyar Network, Tiger Global Management",Seed,140000,22-01-2024,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+HealthRise,HealthTech,Pharmacy,Hyderabad,"Kalaari Capital, Omidyar Network, Peak XV",Bridge,1426000,01-12-2023,Healthtech,Healthtech,medium,regex,HealthTech
+FreshTech,RealEstate,Home Services,Delhi,"Accel, LCatterton, Tiger Global Management",Series B,9715000,24-08-2024,Proptech,Proptech,medium,regex,RealEstate
+Innovaccer,Mobility,EV,Bengaluru,SoftBank Vision Fund,Pre-Series A,140000,04-01-2021,EV/Cleantech,Healthtech,high,name_lookup,Mobility
+Myntra,EdTech,K12,Delhi,Falcon Edge,Seed,304000,28-08-2021,Edtech,Ecommerce/D2C,high,name_lookup,EdTech
+GrowthConnect,Retail,Fashion,Delhi,Blume Ventures,Series A,14428000,11-11-2020,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+Dream11,Media,Content,Bengaluru,"Elevation Capital, Info Edge, Matrix Partners India",Pre-Series A,175000,17-10-2023,Other,Other,high,name_lookup,Media
+EduMart,EdTech,UpSkilling,Kolkata,Prosus Ventures,Angel,37000,01-02-2021,Edtech,Edtech,medium,regex,EdTech
+Dailyhunt,Consumer Electronics,Wearables,Chennai,Zodius Capital,Series A,7866000,07-05-2022,Other,Other,high,name_lookup,Consumer Electronics
+FinSense,FinTech,InsurTech,Pune,"Elevation Capital, IFC, Zodius Capital",Series A,1903000,29-07-2020,Fintech,Fintech,medium,regex,FinTech
+BharatPe,Logistics,Supply Chain,Noida,Peak XV,Seed,734000,14-06-2022,Logistics,Fintech,high,name_lookup,Logistics
+HomeAnalytics,SaaS,B2B SaaS,Chennai,Matrix Partners India,Seed,194000,25-10-2022,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+HealthRise,FinTech,WealthTech,Mumbai,Bessemer Venture Partners,Series D,214425000,24-08-2023,Fintech,Fintech,medium,regex,FinTech
+FinSense_162,Enterprise,Security,Delhi,"LCatterton, Omidyar Network",Series C,111204000,18-08-2022,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+PhonePe,Logistics,Last Mile,Delhi,"Accel, Falcon Edge",Series A,4267000,29-01-2024,Logistics,Fintech,high,name_lookup,Logistics
+SmartTech,E-commerce,Quick Commerce,Gurugram,"Accel, Info Edge",Pre-Series A,123000,13-06-2024,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+Chargebee,AgriTech,Marketplace,Bengaluru,Kedaara Capital,Series B,50673000,23-03-2023,Agritech,SaaS/Enterprise,high,name_lookup,AgriTech
+Cars24,FoodTech,Cloud Kitchen,Ahmedabad,"Blume Ventures, Prosus Ventures",Pre-Series A,209000,14-03-2023,Foodtech,Ecommerce/D2C,high,name_lookup,FoodTech
+ShareChat,E-commerce,Grocery,Noida,"IFC, Sequoia Capital India",Series A,1657000,05-11-2022,Ecommerce/D2C,Other,high,name_lookup,E-commerce
+FarmFit,SaaS,HRTech,Bengaluru,Matrix Partners India,Pre-Series A,110000,18-05-2020,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+Zomato,Retail,Fashion,Pune,"Ribbit Capital, SoftBank Vision Fund",Seed,442000,22-12-2021,Ecommerce/D2C,Foodtech,high,name_lookup,Retail
+SmartMart,Consumer Electronics,Smart Home,Delhi,"Bessemer Venture Partners, Elevation Capital, Info Edge",Series C,125287000,09-05-2020,Other,Deeptech,medium,regex,Consumer Electronics
+FarmFit,FinTech,WealthTech,Hyderabad,"Mirae Asset, Sequoia Capital India",Series A,1046000,27-07-2024,Fintech,Fintech,medium,regex,FinTech
+FinFoods,Enterprise,Analytics,Pune,Info Edge,Seed,331000,25-06-2024,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+FoodFit,FoodTech,Food Delivery,Delhi,Peak XV,Series A,1847000,15-10-2022,Foodtech,Foodtech,medium,regex,FoodTech
+NextStack,Media,Content,Mumbai,A91 Partners,Series A,5738000,11-08-2024,Other,Other,low,fallback,Media
+AgriSense,SaaS,HRTech,Hyderabad,"Blume Ventures, Info Edge",Series A,1604000,09-01-2024,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+EduMart_176,Enterprise,Security,Ahmedabad,"Peak XV, Tiger Global, Tiger Global Management",Debt,7325000,16-07-2021,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+CoreConnect,Retail,Fashion,Delhi,"Info Edge, Prosus Ventures",Bridge,208000,19-10-2020,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+FreshSolutions_178,Retail,Fashion,Pune,"Nexus Venture Partners, Sequoia Capital India",Pre-Series A,864000,28-04-2025,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+EduBox,SaaS,MarTech,Mumbai,Kalaari Capital,Series A,1451000,20-12-2022,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+QuantumSolutions,E-commerce,Quick Commerce,Delhi,"Bessemer Venture Partners, Nexus Venture Partners",Series A,2518000,03-03-2022,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+EduMart,AgriTech,Smart Farming,Kolkata,Info Edge,Seed,76000,04-10-2020,Agritech,Agritech,medium,regex,AgriTech
+Ola,E-commerce,D2C,Pune,Elevation Capital,Series B,64925000,31-01-2023,Ecommerce/D2C,EV/Cleantech,high,name_lookup,E-commerce
+NextSense,Media,Streaming,Delhi,Nexus Venture Partners,Series C,215209000,07-11-2022,Other,Other,low,fallback,Media
+CloudPay,EdTech,Coding Bootcamp,Bengaluru,Mirae Asset,Pre-Series A,181000,18-03-2023,Edtech,Edtech,medium,regex,EdTech
+LogiSense,E-commerce,Quick Commerce,Hyderabad,"Kalaari Capital, Mirae Asset",Pre-Series A,457000,08-01-2024,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+Groww,HealthTech,Pharmacy,Mumbai,"IFC, SoftBank Vision Fund",Series A,9144000,24-10-2023,Healthtech,Fintech,high,name_lookup,HealthTech
+BlueTech,HealthTech,Health Analytics,Noida,Falcon Edge,Angel,26000,23-04-2020,Healthtech,Healthtech,medium,regex,HealthTech
+Oyo,HealthTech,Diagnostics,Pune,Peak XV,Angel,24000,06-04-2021,Healthtech,Proptech,high,name_lookup,HealthTech
+HealthAnalytics,Logistics,Last Mile,Noida,Omidyar Network,Seed,122000,04-07-2023,Logistics,Logistics,medium,regex,Logistics
+Bounce,Mobility,Micro Mobility,Delhi,Blume Ventures,Series A,1287000,04-04-2023,EV/Cleantech,EV/Cleantech,high,name_lookup,Mobility
+BlueSpace,AgriTech,Supply Chain,Bengaluru,"Bessemer Venture Partners, Lightspeed India, Matrix Partners India",Seed,1369000,26-04-2025,Agritech,Agritech,medium,regex,AgriTech
+SkillRise,FinTech,InsurTech,Noida,Mirae Asset,Seed,1385000,13-05-2025,Fintech,Fintech,medium,regex,FinTech
+CoreConnect,E-commerce,Quick Commerce,Delhi,"Lightspeed India, Omidyar Network",Series A,5554000,18-09-2022,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+HyperLabs,SaaS,HRTech,Chennai,"A91 Partners, SoftBank Vision Fund",Seed,175000,28-01-2022,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+InMobi,E-commerce,D2C,Kolkata,Elevation Capital,Seed,181000,17-07-2020,Ecommerce/D2C,Other,high,name_lookup,E-commerce
+AeroHub,FoodTech,Cloud Kitchen,Delhi,"Blume Ventures, Kedaara Capital",Series C,142830000,27-03-2025,Foodtech,Foodtech,medium,regex,FoodTech
+NextSense,Mobility,EV,Kolkata,Accel,Growth,533548000,15-10-2022,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+DriveFit,EdTech,K12,Ahmedabad,Mirae Asset,Pre-Series A,771000,13-04-2020,Edtech,Edtech,medium,regex,EdTech
+CoreSpace,FinTech,Payments,Chennai,"Kalaari Capital, Tiger Global, Y Combinator",Seed,888000,25-06-2021,Fintech,Fintech,medium,regex,FinTech
+Udaan,AgriTech,Marketplace,Gurugram,Kalaari Capital,Pre-Series A,439000,14-08-2021,Agritech,Ecommerce/D2C,high,name_lookup,AgriTech
+EduBox,Logistics,Fleet Management,Ahmedabad,Kalaari Capital,Seed,68000,19-06-2025,Logistics,Logistics,medium,regex,Logistics
+BlueSpace,SaaS,DevTools,Gurugram,Tiger Global,Series A,1549000,02-04-2022,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+WorkStack,Mobility,EV,Delhi,SoftBank Vision Fund,Series A,11397000,21-11-2022,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+FoodLoop,AgriTech,Marketplace,Hyderabad,"Falcon Edge, Kedaara Capital",Series A,5167000,04-11-2022,Agritech,Agritech,medium,regex,AgriTech
+Delhivery,Consumer Electronics,Audio,Pune,"Bessemer Venture Partners, Omidyar Network",Seed,52000,12-08-2020,Other,Logistics,high,name_lookup,Consumer Electronics
+GrowthFlow,Logistics,Fleet Management,Ahmedabad,Omidyar Network,Series A,1316000,17-01-2024,Logistics,Logistics,medium,regex,Logistics
+Lenskart,Mobility,Micro Mobility,Ahmedabad,Zodius Capital,Series C,120606000,17-02-2022,EV/Cleantech,Ecommerce/D2C,high,name_lookup,Mobility
+HomeMart_208,Media,Social,Gurugram,"Nexus Venture Partners, Prosus Ventures",Pre-Seed,20000,04-10-2021,Other,Deeptech,medium,regex,Media
+Flipkart,Mobility,Micro Mobility,Kolkata,"Lightspeed India, Nexus Venture Partners, Tiger Global",Growth,76432000,15-02-2024,EV/Cleantech,Ecommerce/D2C,high,name_lookup,Mobility
+NeoSense,Consumer Electronics,Smart Home,Chennai,"LCatterton, SoftBank Vision Fund",Seed,379000,20-12-2020,Other,Ecommerce/D2C,low,investor,Consumer Electronics
+AgriFit,Enterprise,Automation,Hyderabad,Elevation Capital,Series A,6512000,28-01-2021,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+Delhivery,EdTech,UpSkilling,Hyderabad,"A91 Partners, Mirae Asset",Series B,30480000,14-11-2023,Edtech,Logistics,high,name_lookup,EdTech
+SkillSolutions,AgriTech,Marketplace,Noida,"Peak XV, Zodius Capital",Pre-Series A,168000,30-06-2025,Agritech,Agritech,medium,regex,AgriTech
+GreenConnect,Logistics,Fleet Management,Mumbai,"Lightspeed India, Matrix Partners India, Mirae Asset",Seed,692000,24-06-2022,Logistics,Logistics,medium,regex,Logistics
+SkillFlow,Media,Content,Delhi,"Matrix Partners India, Tiger Global",Seed,120000,26-02-2024,Other,Other,low,fallback,Media
+Zepto,RealEstate,PropTech,Bengaluru,"Mirae Asset, Nexus Venture Partners, Prosus Ventures",Seed,166000,07-11-2021,Proptech,Ecommerce/D2C,high,name_lookup,RealEstate
+NextSense,Consumer Electronics,Wearables,Gurugram,Elevation Capital,Series C,150998000,11-08-2021,Other,Other,low,fallback,Consumer Electronics
+HealthWorks,E-commerce,Grocery,Gurugram,LCatterton,Series A,5808000,20-01-2024,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+NoBroker,FoodTech,Cloud Kitchen,Bengaluru,"Blume Ventures, Ventures India",Debt,19590000,24-03-2022,Foodtech,Proptech,high,name_lookup,FoodTech
+Cars24,FinTech,Payments,Hyderabad,Elevation Capital,Series A,5935000,07-08-2020,Fintech,Ecommerce/D2C,high,name_lookup,FinTech
+NimbusLabs,HealthTech,Health Analytics,Hyderabad,Blume Ventures,Seed,407000,18-08-2020,Healthtech,Healthtech,medium,regex,HealthTech
+LogiRise,Media,Social,Bengaluru,A91 Partners,Series B,6483000,07-06-2024,Other,Other,low,fallback,Media
+CloudLabs,Enterprise,Automation,Chennai,Accel,Series C,54137000,21-11-2022,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+Wakefit,HealthTech,Diagnostics,Kolkata,Matrix Partners India,Seed,133000,23-05-2021,Healthtech,Ecommerce/D2C,high,name_lookup,HealthTech
+FinSpace,Logistics,Supply Chain,Hyderabad,Matrix Partners India,Series A,1936000,19-03-2023,Logistics,Logistics,medium,regex,Logistics
+ShareChat,Media,Social,Bengaluru,Blume Ventures,Series B,74232000,11-08-2022,Other,Other,high,name_lookup,Media
+AeroAnalytics,Media,Content,Mumbai,Y Combinator,Series B,14870000,10-04-2025,Other,Other,low,fallback,Media
+HomeAnalytics,HealthTech,Health Analytics,Delhi,Kalaari Capital,Series A,11198000,25-05-2023,Healthtech,Healthtech,medium,regex,HealthTech
+CoreSpace,Retail,Fashion,Gurugram,"Accel, IFC",Series C,110486000,25-10-2023,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+EduMart,SaaS,B2B SaaS,Ahmedabad,"LCatterton, Lightspeed India",Seed,938000,24-08-2024,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+WorkPay,Enterprise,Automation,Kolkata,"Accel, Falcon Edge, Omidyar Network",Seed,319000,24-02-2021,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+NimbusMart,Mobility,EV,Kolkata,"Prosus Ventures, SoftBank Vision Fund",Series A,4770000,18-02-2023,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+DataAnalytics,Enterprise,Analytics,Gurugram,"SoftBank Vision Fund, Tiger Global",Series A,3795000,02-04-2020,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+HealthWorks,E-commerce,Fashion,Bengaluru,Ventures India,Seed,103000,03-01-2021,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+QuantumDrive,FoodTech,Food Delivery,Chennai,"IFC, Nexus Venture Partners",Pre-Series A,528000,30-10-2023,Foodtech,Foodtech,medium,regex,FoodTech
+Housejoy,HealthTech,Health Analytics,Noida,Zodius Capital,Seed,141000,27-06-2025,Healthtech,Healthtech,medium,regex,HealthTech
+DataAnalytics,Consumer Electronics,Smart Home,Noida,Matrix Partners India,Pre-Series A,106000,15-02-2022,Other,Other,low,fallback,Consumer Electronics
+FoodSolutions,EdTech,Test Prep,Bengaluru,"IFC, Ventures India",Series C,114859000,08-05-2022,Edtech,Edtech,medium,regex,EdTech
+PhonePe,EdTech,K12,Mumbai,"Kedaara Capital, Omidyar Network",Seed,96000,09-03-2020,Edtech,Fintech,high,name_lookup,EdTech
+Postman,EdTech,Test Prep,Chennai,Ventures India,Series A,12766000,10-01-2023,Edtech,SaaS/Enterprise,high,name_lookup,EdTech
+NimbusMart,Logistics,Last Mile,Ahmedabad,"IFC, Matrix Partners India, Zodius Capital",Seed,1687000,09-05-2023,Logistics,Logistics,medium,regex,Logistics
+HomeAnalytics,Logistics,Last Mile,Noida,"Info Edge, LCatterton, Ribbit Capital",Bridge,1461000,06-12-2024,Logistics,Logistics,medium,regex,Logistics
+NimbusLabs_243,SaaS,MarTech,Noida,"Nexus Venture Partners, Y Combinator",Seed,196000,02-05-2022,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+FarmBox,EdTech,UpSkilling,Delhi,A91 Partners,Series C,20855000,16-02-2025,Edtech,Edtech,medium,regex,EdTech
+SkillRise,HealthTech,Health Analytics,Gurugram,"Accel, Info Edge, Y Combinator",Seed,1535000,07-11-2021,Healthtech,Healthtech,medium,regex,HealthTech
+FinFoods_246,FoodTech,Grocery,Ahmedabad,Blume Ventures,Series A,3188000,24-11-2024,Foodtech,Foodtech,medium,regex,FoodTech
+GreenEdge,Enterprise,Security,Hyderabad,Peak XV,Bridge,1769000,01-02-2020,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+Housejoy,Media,Content,Gurugram,Kalaari Capital,Series B,72324000,12-12-2023,Other,Other,low,fallback,Media
+MediWorks,Retail,Grocery,Chennai,SoftBank Vision Fund,Series A,10074000,21-08-2023,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+ShareChat,Mobility,EV,Kolkata,"SoftBank Vision Fund, Ventures India",Seed,148000,19-01-2024,EV/Cleantech,Other,high,name_lookup,Mobility
+CoreFlow,FoodTech,Cloud Kitchen,Ahmedabad,Sequoia Capital India,Growth,138147000,27-02-2024,Foodtech,Foodtech,medium,regex,FoodTech
+SkillRise,EdTech,UpSkilling,Gurugram,Mirae Asset,Pre-Series A,710000,02-09-2024,Edtech,Edtech,medium,regex,EdTech
+BlueSpace,Enterprise,Security,Kolkata,Blume Ventures,Series A,2359000,09-02-2024,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+NeoLabs,Mobility,Micro Mobility,Bengaluru,Peak XV,Series A,1582000,14-09-2024,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+Postman,Retail,E-Retail,Chennai,Tiger Global,Seed,390000,15-07-2023,Ecommerce/D2C,SaaS/Enterprise,high,name_lookup,Retail
+WorkPay_256,Mobility,EV,Pune,"LCatterton, Peak XV, Prosus Ventures",Seed,1580000,30-07-2023,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+PhonePe,FinTech,NeoBank,Noida,"Falcon Edge, Kedaara Capital",Pre-Series A,497000,04-02-2020,Fintech,Fintech,high,name_lookup,FinTech
+SmartTech_258,Enterprise,Automation,Chennai,Accel,Series C,93643000,06-02-2025,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+Wakefit,Mobility,Ride Sharing,Gurugram,Zodius Capital,Seed,72000,14-12-2022,EV/Cleantech,Ecommerce/D2C,high,name_lookup,Mobility
+NextStack,E-commerce,D2C,Chennai,"IFC, Lightspeed India, Prosus Ventures",Series A,5288000,13-05-2021,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+GreenMart,FoodTech,Food Delivery,Noida,Kedaara Capital,Series A,14601000,28-07-2023,Foodtech,Foodtech,medium,regex,FoodTech
+WorkFit,FoodTech,Grocery,Pune,LCatterton,Series A,1461000,23-10-2024,Foodtech,Foodtech,medium,regex,FoodTech
+Razorpay,EdTech,K12,Ahmedabad,Prosus Ventures,Series A,4070000,05-04-2020,Edtech,Fintech,high,name_lookup,EdTech
+QuantumSolutions,AgriTech,Marketplace,Bengaluru,Sequoia Capital India,Seed,1272000,07-10-2024,Agritech,Agritech,medium,regex,AgriTech
+FarmTech,Retail,Fashion,Chennai,A91 Partners,Angel,46000,04-09-2021,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+UrbanDrive,Mobility,EV,Chennai,"Falcon Edge, Kedaara Capital, Tiger Global Management",Series C,132064000,13-10-2020,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+Udaan,E-commerce,Fashion,Gurugram,"Peak XV, Ventures India",Series D,252031000,28-11-2021,Ecommerce/D2C,Ecommerce/D2C,high,name_lookup,E-commerce
+AutoMart,SaaS,B2B SaaS,Hyderabad,"A91 Partners, Lightspeed India",Series C,52945000,11-07-2022,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+UrbanSolutions,RealEstate,Rental Tech,Chennai,Bessemer Venture Partners,Seed,148000,20-06-2023,Proptech,Proptech,medium,regex,RealEstate
+Groww,E-commerce,D2C,Delhi,"Blume Ventures, Kalaari Capital, Y Combinator",Pre-Series A,645000,24-05-2024,Ecommerce/D2C,Fintech,high,name_lookup,E-commerce
+Bounce,FinTech,WealthTech,Kolkata,Nexus Venture Partners,Pre-Series A,646000,06-07-2021,Fintech,EV/Cleantech,high,name_lookup,FinTech
+DataEdge,Mobility,Micro Mobility,Noida,Y Combinator,Pre-Series A,736000,23-02-2020,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+Bounce,AgriTech,Marketplace,Pune,Kalaari Capital,Growth,556750000,26-01-2020,Agritech,EV/Cleantech,high,name_lookup,AgriTech
+WorkFit,Mobility,Ride Sharing,Ahmedabad,"Blume Ventures, Matrix Partners India",Series A,3994000,04-11-2023,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+NextStack,E-commerce,Marketplace,Chennai,"Bessemer Venture Partners, Y Combinator",Seed,318000,05-09-2021,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+LogiMart,Consumer Electronics,Smart Home,Ahmedabad,Elevation Capital,Seed,950000,07-08-2020,Other,Deeptech,medium,regex,Consumer Electronics
+AutoMart,AgriTech,Smart Farming,Pune,"Nexus Venture Partners, SoftBank Vision Fund, Tiger Global Management",Series A,5813000,31-05-2022,Agritech,Agritech,medium,regex,AgriTech
+CloudPay,HealthTech,Health Analytics,Pune,"A91 Partners, Matrix Partners India, Mirae Asset",Seed,666000,24-11-2023,Healthtech,Healthtech,medium,regex,HealthTech
+UrbanSolutions,Retail,Grocery,Pune,Omidyar Network,Seed,942000,28-02-2023,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+BlueTech,Mobility,Ride Sharing,Kolkata,"Bessemer Venture Partners, Zodius Capital",Bridge,1333000,05-03-2021,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+CRED,Enterprise,Security,Kolkata,Matrix Partners India,Seed,174000,12-09-2021,SaaS/Enterprise,Fintech,high,name_lookup,Enterprise
+HyperLoop,Retail,Grocery,Mumbai,"Falcon Edge, Omidyar Network",Series A,2765000,09-05-2023,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+QuantumDrive,Retail,Grocery,Noida,Accel,Series A,1290000,15-02-2025,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+LogiMart,SaaS,DevTools,Ahmedabad,"Ribbit Capital, SoftBank Vision Fund, Tiger Global Management",Pre-Seed,76000,14-08-2023,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+Paytm,E-commerce,Quick Commerce,Mumbai,"A91 Partners, Falcon Edge, Omidyar Network",Seed,57000,11-11-2022,Ecommerce/D2C,Fintech,high,name_lookup,E-commerce
+EduMart,Consumer Electronics,Smart Home,Ahmedabad,Tiger Global Management,Series B,18181000,04-11-2020,Other,Deeptech,medium,regex,Consumer Electronics
+AgriHive,FoodTech,Cloud Kitchen,Mumbai,Y Combinator,Series D,174427000,04-02-2024,Foodtech,Foodtech,medium,regex,FoodTech
+DataHive,EdTech,Coding Bootcamp,Pune,"Elevation Capital, Kedaara Capital, SoftBank Vision Fund",Series A,2173000,16-06-2022,Edtech,Edtech,medium,regex,EdTech
+Porter,FinTech,WealthTech,Mumbai,"Blume Ventures, Matrix Partners India",Series B,25728000,02-12-2020,Fintech,Logistics,high,name_lookup,FinTech
+DriveLoop,EdTech,Coding Bootcamp,Delhi,"Kalaari Capital, Ventures India",Seed,56000,08-09-2023,Edtech,Edtech,medium,regex,EdTech
+BlueRise,FoodTech,Food Delivery,Bengaluru,Ventures India,Series B,5546000,25-02-2021,Foodtech,Foodtech,medium,regex,FoodTech
+Byju's,AgriTech,Supply Chain,Noida,Info Edge,Seed,1040000,29-10-2021,Agritech,Edtech,high,name_lookup,AgriTech
+CureFit,RealEstate,Home Services,Noida,Kalaari Capital,Bridge,189000,03-10-2021,Proptech,Healthtech,high,name_lookup,RealEstate
+Porter,SaaS,HRTech,Kolkata,"Elevation Capital, Kedaara Capital, Omidyar Network",Series A,1411000,24-07-2024,SaaS/Enterprise,Logistics,high,name_lookup,SaaS
+WorkFit,SaaS,B2B SaaS,Gurugram,Kedaara Capital,Seed,343000,09-01-2021,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+UrbanDrive,HealthTech,Health Analytics,Chennai,"Kedaara Capital, Ribbit Capital",Seed,856000,25-07-2023,Healthtech,Healthtech,medium,regex,HealthTech
+NoBroker,Mobility,Ride Sharing,Kolkata,Zodius Capital,Seed,111000,18-01-2021,EV/Cleantech,Proptech,high,name_lookup,Mobility
+Udaan,Enterprise,Security,Bengaluru,"Falcon Edge, Tiger Global Management",Series A,5402000,03-02-2021,SaaS/Enterprise,Ecommerce/D2C,high,name_lookup,Enterprise
+NimbusLabs,Consumer Electronics,Wearables,Kolkata,"Sequoia Capital India, Ventures India",Series A,1260000,18-06-2020,Other,Other,low,fallback,Consumer Electronics
+Cars24,FinTech,WealthTech,Gurugram,"A91 Partners, Bessemer Venture Partners",Series A,1150000,10-12-2020,Fintech,Ecommerce/D2C,high,name_lookup,FinTech
+NimbusLabs,E-commerce,Grocery,Mumbai,A91 Partners,Seed,355000,17-01-2023,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+Razorpay,Retail,Fashion,Kolkata,Ventures India,Series A,4324000,20-05-2022,Ecommerce/D2C,Fintech,high,name_lookup,Retail
+LogiMart,FinTech,InsurTech,Hyderabad,Info Edge,Seed,525000,30-07-2024,Fintech,Fintech,medium,regex,FinTech
+Housejoy,Retail,E-Retail,Gurugram,"Kedaara Capital, Ribbit Capital, Y Combinator",Series C,142883000,19-04-2023,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+Dream11,AgriTech,Supply Chain,Gurugram,A91 Partners,Series C,281010000,07-07-2024,Agritech,Other,high,name_lookup,AgriTech
+QuantumSolutions,HealthTech,Pharmacy,Hyderabad,"Prosus Ventures, Tiger Global Management",Seed,336000,01-07-2021,Healthtech,Healthtech,medium,regex,HealthTech
+Wakefit,HealthTech,Health Analytics,Bengaluru,"IFC, Matrix Partners India, Nexus Venture Partners",Debt,744000,10-11-2024,Healthtech,Ecommerce/D2C,high,name_lookup,HealthTech
+AgriSense,Retail,Fashion,Chennai,"Info Edge, Kalaari Capital, Matrix Partners India",Series A,8614000,28-03-2023,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+Bounce,FoodTech,Grocery,Hyderabad,Info Edge,Series B,10595000,01-12-2024,Foodtech,EV/Cleantech,high,name_lookup,FoodTech
+Myntra,SaaS,B2B SaaS,Mumbai,"Prosus Ventures, Tiger Global, Y Combinator",Series B,16887000,27-07-2022,SaaS/Enterprise,Ecommerce/D2C,high,name_lookup,SaaS
+AutoMart,FoodTech,Cloud Kitchen,Kolkata,SoftBank Vision Fund,Seed,67000,23-08-2024,Foodtech,Foodtech,medium,regex,FoodTech
+LogiSense,Consumer Electronics,Wearables,Bengaluru,"Peak XV, Sequoia Capital India",Pre-Seed,21000,06-07-2023,Other,Other,low,fallback,Consumer Electronics
+NextSense,FinTech,InsurTech,Gurugram,IFC,Debt,39642000,05-02-2025,Fintech,Fintech,medium,regex,FinTech
+Oyo,HealthTech,Pharmacy,Mumbai,Y Combinator,Series B,50768000,27-05-2021,Healthtech,Proptech,high,name_lookup,HealthTech
+Dream11,FinTech,InsurTech,Hyderabad,Info Edge,Series B,34436000,26-03-2024,Fintech,Other,high,name_lookup,FinTech
+Bounce,Media,Social,Bengaluru,Omidyar Network,Seed,226000,08-06-2020,Other,EV/Cleantech,high,name_lookup,Media
+Ola,FinTech,Payments,Pune,"Kedaara Capital, Mirae Asset",Series C,31977000,27-10-2024,Fintech,EV/Cleantech,high,name_lookup,FinTech
+HomeFoods,Media,Social,Mumbai,Nexus Venture Partners,Seed,89000,09-12-2024,Other,Other,low,fallback,Media
+HyperSpace,RealEstate,PropTech,Mumbai,"Info Edge, Ribbit Capital",Series A,1969000,18-01-2020,Proptech,Proptech,medium,regex,RealEstate
+Meesho,RealEstate,Rental Tech,Delhi,"Info Edge, LCatterton, Lightspeed India",Angel,26000,15-06-2023,Proptech,Ecommerce/D2C,high,name_lookup,RealEstate
+FinSense,AgriTech,Marketplace,Chennai,Bessemer Venture Partners,Pre-Series A,518000,29-05-2022,Agritech,Agritech,medium,regex,AgriTech
+LogiMart,E-commerce,Marketplace,Noida,"Elevation Capital, Peak XV",Series A,5977000,16-01-2024,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+GrowthFlow,RealEstate,Home Services,Gurugram,Ventures India,Series A,2134000,09-11-2022,Proptech,Proptech,medium,regex,RealEstate
+Urban Company,RealEstate,PropTech,Gurugram,Mirae Asset,Series A,13274000,18-08-2020,Proptech,Proptech,high,name_lookup,RealEstate
+Groww,Mobility,Ride Sharing,Pune,"A91 Partners, IFC",Angel,46000,27-09-2020,EV/Cleantech,Fintech,high,name_lookup,Mobility
+Mobikwik,Mobility,Micro Mobility,Delhi,Sequoia Capital India,Series C,89743000,08-05-2025,EV/Cleantech,Fintech,high,name_lookup,Mobility
+CRED,FinTech,WealthTech,Gurugram,"Falcon Edge, Ribbit Capital",Pre-Seed,82000,03-05-2020,Fintech,Fintech,high,name_lookup,FinTech
+AeroAnalytics,FoodTech,Grocery,Chennai,"Elevation Capital, Ribbit Capital",Seed,235000,03-01-2023,Foodtech,Foodtech,medium,regex,FoodTech
+FreshTech_329,EdTech,K12,Noida,"Ribbit Capital, Ventures India",Seed,125000,16-04-2023,Edtech,Edtech,medium,regex,EdTech
+FreshTech,Media,Social,Bengaluru,"Nexus Venture Partners, Omidyar Network",Seed,186000,08-03-2025,Other,Agritech,low,investor,Media
+NimbusMart,Media,Streaming,Delhi,Kedaara Capital,Seed,819000,20-12-2023,Other,Deeptech,medium,regex,Media
+BharatPe,Consumer Electronics,Wearables,Noida,"Matrix Partners India, Ventures India, Y Combinator",Series A,1040000,11-08-2024,Other,Fintech,high,name_lookup,Consumer Electronics
+NextStack,E-commerce,Quick Commerce,Pune,"Kedaara Capital, Tiger Global",Series C,27387000,11-07-2021,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+Dunzo,Consumer Electronics,Wearables,Noida,Blume Ventures,Pre-Series A,111000,20-10-2022,Other,Ecommerce/D2C,high,name_lookup,Consumer Electronics
+Zomato,AgriTech,Marketplace,Mumbai,Tiger Global,Seed,58000,08-11-2022,Agritech,Foodtech,high,name_lookup,AgriTech
+UrbanStack,Consumer Electronics,Wearables,Chennai,A91 Partners,Angel,65000,01-01-2021,Other,Other,low,fallback,Consumer Electronics
+QuantumDrive,EdTech,Coding Bootcamp,Pune,"Falcon Edge, Y Combinator",Seed,670000,08-06-2020,Edtech,Edtech,medium,regex,EdTech
+Udaan,HealthTech,Diagnostics,Noida,"Mirae Asset, Tiger Global",Debt,1904000,07-05-2025,Healthtech,Ecommerce/D2C,high,name_lookup,HealthTech
+HealthAnalytics,Logistics,Supply Chain,Mumbai,Lightspeed India,Series A,1303000,17-01-2020,Logistics,Logistics,medium,regex,Logistics
+Oyo,Media,Streaming,Gurugram,"Bessemer Venture Partners, Tiger Global Management",Series A,3786000,26-04-2023,Other,Proptech,high,name_lookup,Media
+HomeMart,FoodTech,Cloud Kitchen,Gurugram,"IFC, Peak XV, Sequoia Capital India",Series A,3605000,26-07-2023,Foodtech,Foodtech,medium,regex,FoodTech
+UrbanSolutions,Media,Content,Mumbai,"Mirae Asset, Tiger Global",Seed,95000,02-05-2021,Other,Other,low,fallback,Media
+SmartCare,E-commerce,Quick Commerce,Gurugram,"Kedaara Capital, Y Combinator",Angel,18000,30-11-2022,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+WorkFit,Mobility,Ride Sharing,Chennai,Info Edge,Seed,217000,08-03-2023,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+LogiSense,Logistics,Supply Chain,Chennai,SoftBank Vision Fund,Series B,27576000,15-02-2024,Logistics,Logistics,medium,regex,Logistics
+SkillFlow,EdTech,K12,Ahmedabad,Info Edge,Seed,521000,04-08-2020,Edtech,Edtech,medium,regex,EdTech
+HyperLabs,Mobility,EV,Gurugram,IFC,Series A,1131000,06-08-2022,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+Bounce,HealthTech,Pharmacy,Ahmedabad,Nexus Venture Partners,Pre-Seed,47000,07-09-2024,Healthtech,EV/Cleantech,high,name_lookup,HealthTech
+LogiMart,FoodTech,Grocery,Bengaluru,Sequoia Capital India,Series B,28352000,16-06-2021,Foodtech,Foodtech,medium,regex,FoodTech
+CoreConnect,Mobility,Micro Mobility,Noida,Bessemer Venture Partners,Seed,320000,04-08-2022,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+FinSense,FinTech,Lending,Delhi,Prosus Ventures,Seed,1178000,31-03-2022,Fintech,Fintech,medium,regex,FinTech
+WorkFit,Logistics,Last Mile,Bengaluru,"Info Edge, LCatterton, Nexus Venture Partners",Debt,5995000,08-02-2021,Logistics,Logistics,medium,regex,Logistics
+FreshBox,Consumer Electronics,Audio,Delhi,"Kalaari Capital, Prosus Ventures, Sequoia Capital India",Angel,8000,06-06-2022,Other,Other,low,fallback,Consumer Electronics
+NoBroker,SaaS,DevTools,Delhi,Sequoia Capital India,Seed,65000,02-07-2022,SaaS/Enterprise,Proptech,high,name_lookup,SaaS
+HomeMart,Consumer Electronics,Wearables,Noida,Y Combinator,Series A,5696000,28-06-2020,Other,Deeptech,medium,regex,Consumer Electronics
+QuantumDrive,Retail,Fashion,Gurugram,"Bessemer Venture Partners, Tiger Global Management",Series B,5381000,30-06-2024,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+Licious,Consumer Electronics,Smart Home,Kolkata,"Elevation Capital, SoftBank Vision Fund",Seed,434000,04-03-2023,Other,Foodtech,high,name_lookup,Consumer Electronics
+GrowthFlow,EdTech,Test Prep,Hyderabad,"Omidyar Network, Y Combinator",Seed,1604000,24-08-2022,Edtech,Edtech,medium,regex,EdTech
+PharmEasy,HealthTech,Telemedicine,Gurugram,"LCatterton, Zodius Capital",Series B,24655000,29-06-2021,Healthtech,Healthtech,high,name_lookup,HealthTech
+NimbusMart,EdTech,Coding Bootcamp,Pune,Blume Ventures,Angel,16000,27-09-2024,Edtech,Edtech,medium,regex,EdTech
+FoodLoop,Media,Content,Ahmedabad,Peak XV,Pre-Seed,88000,05-12-2023,Other,Other,low,fallback,Media
+SmartCare,EdTech,Coding Bootcamp,Noida,Accel,Seed,271000,01-10-2022,Edtech,Edtech,medium,regex,EdTech
+PharmEasy,AgriTech,Supply Chain,Bengaluru,LCatterton,Series A,4382000,02-01-2020,Agritech,Healthtech,high,name_lookup,AgriTech
+CloudPay,SaaS,DevTools,Pune,"Kedaara Capital, Nexus Venture Partners",Seed,1612000,29-10-2020,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+FreshToHome,Enterprise,Automation,Pune,"Accel, Kalaari Capital, Peak XV",Bridge,208000,04-02-2022,SaaS/Enterprise,Foodtech,high,name_lookup,Enterprise
+Oyo,SaaS,DevTools,Delhi,"Blume Ventures, Peak XV, Ribbit Capital",Series B,71839000,13-06-2022,SaaS/Enterprise,Proptech,high,name_lookup,SaaS
+Licious,EdTech,K12,Chennai,Nexus Venture Partners,Seed,1411000,11-11-2023,Edtech,Foodtech,high,name_lookup,EdTech
+Rapido,Media,Streaming,Chennai,"Omidyar Network, Sequoia Capital India",Series D,78480000,27-04-2024,Other,EV/Cleantech,high,name_lookup,Media
+HomeAnalytics,E-commerce,Fashion,Delhi,Y Combinator,Seed,65000,08-06-2020,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+FoodLoop,E-commerce,D2C,Kolkata,Kedaara Capital,Pre-Seed,25000,05-03-2021,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+NextFlow,E-commerce,Quick Commerce,Bengaluru,"IFC, Tiger Global Management",Pre-Series A,104000,09-02-2024,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+NimbusLabs,SaaS,MarTech,Mumbai,"Prosus Ventures, Ribbit Capital",Series C,25829000,03-06-2024,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+BharatPe,Consumer Electronics,Audio,Bengaluru,Peak XV,Seed,621000,14-10-2021,Other,Fintech,high,name_lookup,Consumer Electronics
+Groww,SaaS,DevTools,Chennai,"Peak XV, Tiger Global Management",Seed,65000,02-06-2020,SaaS/Enterprise,Fintech,high,name_lookup,SaaS
+BlueSpace,AgriTech,Smart Farming,Bengaluru,Omidyar Network,Series A,2372000,31-08-2023,Agritech,Agritech,medium,regex,AgriTech
+DriveEdge,E-commerce,D2C,Gurugram,"A91 Partners, Peak XV",Bridge,1129000,18-04-2022,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+HealthAnalytics,E-commerce,Quick Commerce,Chennai,"Nexus Venture Partners, Y Combinator",Series A,1065000,16-09-2024,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+DriveLoop,Enterprise,Automation,Ahmedabad,Lightspeed India,Series A,9076000,17-07-2020,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+Cars24,E-commerce,Fashion,Mumbai,"Mirae Asset, Prosus Ventures",Seed,141000,25-03-2022,Ecommerce/D2C,Ecommerce/D2C,high,name_lookup,E-commerce
+Bounce,RealEstate,Rental Tech,Chennai,"Info Edge, Y Combinator",Seed,77000,18-12-2024,Proptech,EV/Cleantech,high,name_lookup,RealEstate
+CureFit,Consumer Electronics,Wearables,Hyderabad,"Tiger Global, Ventures India",Seed,653000,04-07-2021,Other,Healthtech,high,name_lookup,Consumer Electronics
+Wakefit,E-commerce,D2C,Noida,"Lightspeed India, Tiger Global",Pre-Series A,426000,29-03-2024,Ecommerce/D2C,Ecommerce/D2C,high,name_lookup,E-commerce
+UrbanDrive,FoodTech,Grocery,Kolkata,"Elevation Capital, Kalaari Capital",Series A,10764000,27-04-2021,Foodtech,Foodtech,medium,regex,FoodTech
+GreenMart,Mobility,Micro Mobility,Ahmedabad,"Blume Ventures, Tiger Global Management",Seed,753000,28-04-2025,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+Meesho,Retail,E-Retail,Delhi,"Info Edge, Ribbit Capital, Tiger Global Management",Pre-Seed,127000,09-06-2020,Ecommerce/D2C,Ecommerce/D2C,high,name_lookup,Retail
+Swiggy,SaaS,B2B SaaS,Mumbai,"Elevation Capital, SoftBank Vision Fund",Pre-Series A,191000,24-03-2022,SaaS/Enterprise,Foodtech,high,name_lookup,SaaS
+LogiRise,FinTech,NeoBank,Ahmedabad,Kalaari Capital,Series A,1617000,09-05-2022,Fintech,Fintech,medium,regex,FinTech
+GreenConnect,AgriTech,Supply Chain,Mumbai,IFC,Series A,7635000,25-07-2020,Agritech,Agritech,medium,regex,AgriTech
+FoodSolutions,Logistics,Supply Chain,Kolkata,Blume Ventures,Series A,8890000,26-08-2022,Logistics,Logistics,medium,regex,Logistics
+CoreConnect,AgriTech,Marketplace,Chennai,Prosus Ventures,Pre-Seed,196000,26-12-2024,Agritech,Agritech,medium,regex,AgriTech
+Postman,Media,Content,Hyderabad,Zodius Capital,Angel,17000,11-02-2020,Other,SaaS/Enterprise,high,name_lookup,Media
+Oyo,Logistics,Supply Chain,Kolkata,Tiger Global Management,Series D,117757000,03-11-2023,Logistics,Proptech,high,name_lookup,Logistics
+HomeFoods,Media,Content,Pune,"Blume Ventures, Ribbit Capital",Seed,877000,03-05-2022,Other,SaaS/Enterprise,low,investor,Media
+Meesho,Enterprise,Security,Kolkata,Zodius Capital,Series C,50332000,11-11-2024,SaaS/Enterprise,Ecommerce/D2C,high,name_lookup,Enterprise
+NextSense_395,Media,Streaming,Chennai,"IFC, Sequoia Capital India",Seed,1549000,09-10-2024,Other,Other,low,fallback,Media
+CloudLabs,EdTech,Test Prep,Gurugram,Kedaara Capital,Pre-Seed,144000,13-04-2020,Edtech,Edtech,medium,regex,EdTech
+SkillSolutions,Consumer Electronics,Smart Home,Chennai,"Omidyar Network, Sequoia Capital India, Y Combinator",Series B,16426000,10-09-2020,Other,Agritech,low,investor,Consumer Electronics
+EduTech,Consumer Electronics,Smart Home,Noida,Ventures India,Seed,798000,30-11-2020,Other,Other,low,fallback,Consumer Electronics
+Bounce,Logistics,Last Mile,Chennai,"Bessemer Venture Partners, Lightspeed India",Pre-Seed,114000,14-10-2024,Logistics,EV/Cleantech,high,name_lookup,Logistics
+HomeAnalytics,RealEstate,PropTech,Hyderabad,IFC,Series B,6655000,17-11-2022,Proptech,Proptech,medium,regex,RealEstate
+MediSpace,HealthTech,Diagnostics,Ahmedabad,Omidyar Network,Series C,230417000,03-04-2021,Healthtech,Healthtech,medium,regex,HealthTech
+BigBasket,Media,Streaming,Hyderabad,Info Edge,Pre-Series A,320000,10-02-2022,Other,Ecommerce/D2C,high,name_lookup,Media
+GreenEdge,RealEstate,Rental Tech,Ahmedabad,Falcon Edge,Pre-Series A,671000,28-07-2020,Proptech,Proptech,medium,regex,RealEstate
+NimbusWorks,AgriTech,Marketplace,Hyderabad,"Tiger Global, Tiger Global Management",Seed,163000,09-08-2020,Agritech,Agritech,medium,regex,AgriTech
+NeoSense,Logistics,Fleet Management,Hyderabad,LCatterton,Seed,1360000,25-11-2022,Logistics,Logistics,medium,regex,Logistics
+CoreConnect,RealEstate,PropTech,Bengaluru,LCatterton,Series B,14710000,28-08-2021,Proptech,Proptech,medium,regex,RealEstate
+CoreConnect,FinTech,NeoBank,Ahmedabad,"Kedaara Capital, Prosus Ventures, Ribbit Capital",Series C,20596000,03-12-2021,Fintech,Fintech,medium,regex,FinTech
+FarmBox,RealEstate,Home Services,Noida,"Accel, Blume Ventures, IFC",Seed,1411000,14-12-2020,Proptech,Proptech,medium,regex,RealEstate
+FreshSolutions,Media,Streaming,Delhi,Prosus Ventures,Bridge,70000,16-01-2025,Other,Other,low,fallback,Media
+HomeAnalytics,Media,Content,Chennai,Matrix Partners India,Series C,47487000,09-11-2021,Other,Other,low,fallback,Media
+Urban Company,Consumer Electronics,Audio,Kolkata,"Omidyar Network, Ribbit Capital",Seed,1664000,23-07-2023,Other,Proptech,high,name_lookup,Consumer Electronics
+CoreSpace,Mobility,Ride Sharing,Chennai,IFC,Series A,13122000,26-04-2022,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+WorkPay,EdTech,UpSkilling,Chennai,"IFC, Nexus Venture Partners",Debt,3529000,02-01-2025,Edtech,Edtech,medium,regex,EdTech
+BlueTech,Consumer Electronics,Wearables,Delhi,Info Edge,Seed,514000,28-04-2020,Other,Other,low,fallback,Consumer Electronics
+FarmTech,HealthTech,Diagnostics,Kolkata,Nexus Venture Partners,Series C,67366000,15-05-2024,Healthtech,Healthtech,medium,regex,HealthTech
+DriveEdge,FoodTech,Food Delivery,Kolkata,"Lightspeed India, Y Combinator",Pre-Series A,196000,18-03-2020,Foodtech,Foodtech,medium,regex,FoodTech
+UrbanStack,Retail,Fashion,Gurugram,"IFC, Lightspeed India, Ventures India",Pre-Seed,43000,09-01-2020,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+FreshTech,FoodTech,Grocery,Ahmedabad,Elevation Capital,Seed,598000,13-05-2020,Foodtech,Foodtech,medium,regex,FoodTech
+Cars24,Consumer Electronics,Smart Home,Noida,"LCatterton, Tiger Global Management",Series A,7671000,22-11-2021,Other,Ecommerce/D2C,high,name_lookup,Consumer Electronics
+DataHive,Consumer Electronics,Wearables,Gurugram,"Lightspeed India, Sequoia Capital India",Seed,927000,31-01-2025,Other,Other,low,fallback,Consumer Electronics
+LogiSense,FinTech,NeoBank,Noida,"IFC, Ribbit Capital, Sequoia Capital India",Seed,920000,20-01-2022,Fintech,Fintech,medium,regex,FinTech
+CloudSolutions,AgriTech,Supply Chain,Ahmedabad,Ribbit Capital,Debt,176000,17-09-2023,Agritech,Agritech,medium,regex,AgriTech
+DataAnalytics_423,E-commerce,Fashion,Kolkata,Mirae Asset,Pre-Series A,312000,25-01-2023,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+HyperLoop,RealEstate,Rental Tech,Bengaluru,Prosus Ventures,Seed,62000,17-09-2023,Proptech,Proptech,medium,regex,RealEstate
+SkillFlow,Media,Social,Chennai,"Kedaara Capital, Nexus Venture Partners",Series D,177214000,02-08-2020,Other,Other,low,fallback,Media
+Porter,Retail,E-Retail,Kolkata,Zodius Capital,Seed,255000,13-02-2021,Ecommerce/D2C,Logistics,high,name_lookup,Retail
+CloudPay,FoodTech,Food Delivery,Delhi,Prosus Ventures,Pre-Seed,154000,13-10-2022,Foodtech,Foodtech,medium,regex,FoodTech
+AgriHive,FinTech,Payments,Mumbai,"Nexus Venture Partners, Prosus Ventures",Angel,14000,06-09-2024,Fintech,Fintech,medium,regex,FinTech
+Bounce,Retail,Fashion,Mumbai,Ribbit Capital,Series B,6917000,26-07-2020,Ecommerce/D2C,EV/Cleantech,high,name_lookup,Retail
+AutoFlow,Logistics,Supply Chain,Kolkata,IFC,Seed,85000,23-07-2024,Logistics,Logistics,medium,regex,Logistics
+Cars24,SaaS,HRTech,Chennai,Sequoia Capital India,Series B,41297000,13-07-2020,SaaS/Enterprise,Ecommerce/D2C,high,name_lookup,SaaS
+FinSense,HealthTech,Pharmacy,Pune,"Matrix Partners India, Ventures India",Angel,32000,10-05-2025,Healthtech,Healthtech,medium,regex,HealthTech
+NimbusWorks,HealthTech,Telemedicine,Chennai,Zodius Capital,Pre-Series A,126000,23-07-2022,Healthtech,Healthtech,medium,regex,HealthTech
+GrowthCare,RealEstate,PropTech,Mumbai,Tiger Global Management,Seed,68000,27-01-2024,Proptech,Proptech,medium,regex,RealEstate
+NextSense,AgriTech,Smart Farming,Ahmedabad,Y Combinator,Series B,34916000,06-01-2021,Agritech,Agritech,medium,regex,AgriTech
+ClearTax,Enterprise,Automation,Delhi,LCatterton,Series A,1218000,26-09-2022,SaaS/Enterprise,Fintech,high,name_lookup,Enterprise
+Dailyhunt,FinTech,Payments,Hyderabad,"Falcon Edge, IFC, Ventures India",Series B,48819000,26-01-2020,Fintech,Other,high,name_lookup,FinTech
+Zepto,RealEstate,Home Services,Noida,"Accel, Prosus Ventures",Series A,6770000,05-12-2023,Proptech,Ecommerce/D2C,high,name_lookup,RealEstate
+LogiMart,RealEstate,Rental Tech,Chennai,"LCatterton, Omidyar Network",Seed,67000,19-08-2024,Proptech,Proptech,medium,regex,RealEstate
+MediSpace,HealthTech,Health Analytics,Kolkata,SoftBank Vision Fund,Growth,62547000,02-06-2020,Healthtech,Healthtech,medium,regex,HealthTech
+QuantumSolutions_441,EdTech,Coding Bootcamp,Chennai,"A91 Partners, Info Edge",Series C,289340000,10-06-2020,Edtech,Edtech,medium,regex,EdTech
+Unacademy,Enterprise,Security,Kolkata,"Accel, Kalaari Capital, Ribbit Capital",Seed,199000,15-10-2022,SaaS/Enterprise,Edtech,high,name_lookup,Enterprise
+Rapido,Enterprise,Analytics,Ahmedabad,LCatterton,Bridge,196000,29-07-2023,SaaS/Enterprise,EV/Cleantech,high,name_lookup,Enterprise
+CoreFlow,Consumer Electronics,Wearables,Pune,Zodius Capital,Series C,180699000,30-07-2024,Other,Other,low,fallback,Consumer Electronics
+FreshBox,AgriTech,Marketplace,Kolkata,"Accel, Info Edge, Prosus Ventures",Series B,69115000,14-01-2022,Agritech,Agritech,medium,regex,AgriTech
+Rapido,SaaS,HRTech,Hyderabad,"Accel, LCatterton, Mirae Asset",Series A,14442000,04-02-2022,SaaS/Enterprise,EV/Cleantech,high,name_lookup,SaaS
+Freshworks,E-commerce,D2C,Ahmedabad,"Lightspeed India, Zodius Capital",Seed,805000,04-09-2020,Ecommerce/D2C,SaaS/Enterprise,high,name_lookup,E-commerce
+FinFoods,E-commerce,Fashion,Bengaluru,"Bessemer Venture Partners, Info Edge, Omidyar Network",Angel,15000,11-09-2024,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+ClearDekho,HealthTech,Health Analytics,Bengaluru,"Peak XV, Zodius Capital",Series A,1254000,09-04-2020,Healthtech,Healthtech,medium,regex,HealthTech
+AgriHive,Retail,E-Retail,Ahmedabad,Accel,Seed,879000,27-07-2024,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+AgriSense,FoodTech,Food Delivery,Ahmedabad,Elevation Capital,Angel,27000,10-04-2024,Foodtech,Foodtech,medium,regex,FoodTech
+DataHive,Consumer Electronics,Audio,Delhi,"A91 Partners, Falcon Edge, Zodius Capital",Pre-Series A,266000,04-12-2023,Other,Other,low,fallback,Consumer Electronics
+HyperLabs,Mobility,Micro Mobility,Gurugram,"Elevation Capital, Prosus Ventures, SoftBank Vision Fund",Seed,1416000,02-07-2023,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+EduTech,Media,Streaming,Pune,A91 Partners,Series B,6806000,07-04-2024,Other,Other,low,fallback,Media
+SkillRise,Enterprise,Automation,Hyderabad,Falcon Edge,Growth,183477000,15-05-2022,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+GrowthFlow,FinTech,Payments,Gurugram,Tiger Global Management,Seed,52000,27-05-2024,Fintech,Fintech,medium,regex,FinTech
+AutoStack,FinTech,WealthTech,Gurugram,Zodius Capital,Series C,71157000,07-03-2020,Fintech,Fintech,medium,regex,FinTech
+Zomato,AgriTech,Marketplace,Noida,"A91 Partners, Bessemer Venture Partners, Matrix Partners India",Growth,58010000,29-02-2024,Agritech,Foodtech,high,name_lookup,AgriTech
+SmartTech,FinTech,InsurTech,Chennai,"A91 Partners, Sequoia Capital India, SoftBank Vision Fund",Pre-Series A,131000,02-06-2024,Fintech,Fintech,medium,regex,FinTech
+AutoStack,Enterprise,Security,Gurugram,"A91 Partners, Ribbit Capital, Ventures India",Angel,7000,14-12-2023,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+BlueRise,EdTech,UpSkilling,Kolkata,Blume Ventures,Seed,548000,30-10-2023,Edtech,Edtech,medium,regex,EdTech
+NoBroker,Media,Streaming,Mumbai,A91 Partners,Pre-Series A,557000,27-05-2022,Other,Proptech,high,name_lookup,Media
+LogiSense,Enterprise,Security,Bengaluru,Tiger Global,Seed,430000,24-12-2023,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+AgriSense,Retail,Fashion,Ahmedabad,"A91 Partners, Bessemer Venture Partners",Series D,458292000,08-09-2021,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+Groww,Retail,Fashion,Pune,Falcon Edge,Series A,2760000,13-05-2025,Ecommerce/D2C,Fintech,high,name_lookup,Retail
+ClearDekho,HealthTech,Health Analytics,Noida,Lightspeed India,Series A,2168000,07-07-2020,Healthtech,Healthtech,medium,regex,HealthTech
+Meesho,RealEstate,Home Services,Pune,"Falcon Edge, Tiger Global Management",Pre-Series A,739000,23-03-2021,Proptech,Ecommerce/D2C,high,name_lookup,RealEstate
+MediSpace,SaaS,MarTech,Gurugram,"Matrix Partners India, Tiger Global",Angel,10000,10-06-2023,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+AgriSense,Retail,E-Retail,Chennai,Sequoia Capital India,Seed,1746000,22-01-2024,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+NimbusWorks,Mobility,EV,Kolkata,"Falcon Edge, Lightspeed India, Peak XV",Pre-Seed,21000,13-01-2025,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+Dream11,Retail,Fashion,Noida,Prosus Ventures,Pre-Seed,187000,14-05-2020,Ecommerce/D2C,Other,high,name_lookup,Retail
+Meesho,Enterprise,Automation,Chennai,"IFC, Zodius Capital",Series D,55224000,25-02-2021,SaaS/Enterprise,Ecommerce/D2C,high,name_lookup,Enterprise
+DriveEdge,E-commerce,Marketplace,Bengaluru,Accel,Series A,11170000,10-11-2021,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+Udaan,HealthTech,Pharmacy,Noida,LCatterton,Seed,350000,09-08-2024,Healthtech,Ecommerce/D2C,high,name_lookup,HealthTech
+Freshworks,FoodTech,Food Delivery,Chennai,"Falcon Edge, Prosus Ventures",Series A,14717000,04-02-2020,Foodtech,SaaS/Enterprise,high,name_lookup,FoodTech
+Byju's,Retail,Fashion,Ahmedabad,Y Combinator,Pre-Seed,24000,03-10-2024,Ecommerce/D2C,Edtech,high,name_lookup,Retail
+AeroAnalytics,Retail,Fashion,Hyderabad,"Y Combinator, Zodius Capital",Series A,4481000,30-07-2021,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+ClearTax,Consumer Electronics,Audio,Noida,"Bessemer Venture Partners, IFC",Seed,1786000,09-03-2024,Other,Fintech,high,name_lookup,Consumer Electronics
+Urban Company,RealEstate,PropTech,Hyderabad,"Peak XV, Ribbit Capital, Sequoia Capital India",Series B,21323000,15-02-2025,Proptech,Proptech,high,name_lookup,RealEstate
+SmartCare,FinTech,NeoBank,Ahmedabad,Elevation Capital,Pre-Series A,426000,26-01-2023,Fintech,Fintech,medium,regex,FinTech
+FoodSolutions,RealEstate,Rental Tech,Delhi,"Lightspeed India, Zodius Capital",Seed,651000,28-03-2021,Proptech,Proptech,medium,regex,RealEstate
+BlueTech,AgriTech,Supply Chain,Noida,Elevation Capital,Series A,3424000,30-01-2023,Agritech,Agritech,medium,regex,AgriTech
+CRED,Logistics,Last Mile,Gurugram,Y Combinator,Series B,28486000,24-09-2022,Logistics,Fintech,high,name_lookup,Logistics
+FinSpace,AgriTech,Supply Chain,Gurugram,Ribbit Capital,Seed,432000,11-07-2022,Agritech,Agritech,medium,regex,AgriTech
+BigBasket,Media,Streaming,Delhi,Peak XV,Series A,11477000,16-01-2022,Other,Ecommerce/D2C,high,name_lookup,Media
+Lenskart,FinTech,WealthTech,Gurugram,"Elevation Capital, Ribbit Capital, Y Combinator",Series C,22619000,29-12-2023,Fintech,Ecommerce/D2C,high,name_lookup,FinTech
+FreshBox,Consumer Electronics,Wearables,Pune,"Accel, Ribbit Capital",Series C,42802000,24-09-2022,Other,Fintech,low,investor,Consumer Electronics
+HealthRise,Enterprise,Analytics,Noida,"Sequoia Capital India, Tiger Global",Seed,1666000,11-02-2024,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+ClearDekho,RealEstate,PropTech,Ahmedabad,"Lightspeed India, Sequoia Capital India",Series A,11144000,24-04-2024,Proptech,Proptech,medium,regex,RealEstate
+Swiggy,Mobility,Micro Mobility,Kolkata,Kalaari Capital,Series B,17686000,31-10-2020,EV/Cleantech,Foodtech,high,name_lookup,Mobility
+Cars24,HealthTech,Health Analytics,Noida,Falcon Edge,Series A,5362000,23-03-2022,Healthtech,Ecommerce/D2C,high,name_lookup,HealthTech
+MediWorks,Retail,Fashion,Delhi,"A91 Partners, Blume Ventures",Series C,42389000,14-10-2020,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+GreenConnect,Consumer Electronics,Wearables,Bengaluru,Tiger Global,Seed,100000,25-09-2022,Other,Other,low,fallback,Consumer Electronics
+Nykaa,EdTech,Test Prep,Gurugram,Kalaari Capital,Series A,3510000,08-06-2024,Edtech,Ecommerce/D2C,high,name_lookup,EdTech
+AutoFlow,FinTech,WealthTech,Mumbai,"Matrix Partners India, Zodius Capital",Series B,13318000,03-12-2022,Fintech,Fintech,medium,regex,FinTech
+NoBroker,FoodTech,Grocery,Chennai,Falcon Edge,Pre-Series A,383000,31-08-2023,Foodtech,Proptech,high,name_lookup,FoodTech
+UrbanSolutions,EdTech,Coding Bootcamp,Pune,"Bessemer Venture Partners, LCatterton",Series C,24686000,07-12-2021,Edtech,Edtech,medium,regex,EdTech
+MediHive,HealthTech,Health Analytics,Delhi,"Blume Ventures, Elevation Capital, Nexus Venture Partners",Seed,1820000,19-11-2022,Healthtech,Healthtech,medium,regex,HealthTech
+Housejoy,RealEstate,PropTech,Chennai,Mirae Asset,Series C,289004000,15-01-2024,Proptech,Proptech,medium,regex,RealEstate
+GrowthCare,AgriTech,Supply Chain,Chennai,A91 Partners,Pre-Seed,100000,29-03-2020,Agritech,Agritech,medium,regex,AgriTech
+BharatPe,HealthTech,Telemedicine,Ahmedabad,LCatterton,Seed,361000,06-12-2020,Healthtech,Fintech,high,name_lookup,HealthTech
+CoreConnect,AgriTech,Marketplace,Bengaluru,"Lightspeed India, Peak XV, Zodius Capital",Growth,113169000,30-01-2024,Agritech,Agritech,medium,regex,AgriTech
+CoreSpace,HealthTech,Diagnostics,Chennai,"Blume Ventures, Zodius Capital",Series A,9059000,15-06-2024,Healthtech,Healthtech,medium,regex,HealthTech
+CureFit,HealthTech,Pharmacy,Kolkata,Y Combinator,Series A,6387000,20-05-2020,Healthtech,Healthtech,high,name_lookup,HealthTech
+LogiSense,EdTech,Coding Bootcamp,Delhi,"LCatterton, Omidyar Network",Series A,1553000,29-12-2020,Edtech,Edtech,medium,regex,EdTech
+AeroAnalytics,E-commerce,Fashion,Delhi,LCatterton,Angel,77000,09-01-2023,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+Paytm,Mobility,EV,Pune,"Info Edge, Peak XV",Growth,438231000,29-11-2023,EV/Cleantech,Fintech,high,name_lookup,Mobility
+AgriHive,FoodTech,Food Delivery,Ahmedabad,"A91 Partners, Info Edge, Matrix Partners India",Series C,261867000,02-02-2025,Foodtech,Foodtech,medium,regex,FoodTech
+PharmEasy,Enterprise,Analytics,Hyderabad,"Matrix Partners India, Sequoia Capital India",Series A,7137000,18-01-2023,SaaS/Enterprise,Healthtech,high,name_lookup,Enterprise
+MediHive,E-commerce,Grocery,Bengaluru,"Accel, Bessemer Venture Partners, Kalaari Capital",Pre-Series A,411000,24-02-2021,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+DriveLoop,Logistics,Supply Chain,Noida,"Elevation Capital, Prosus Ventures",Pre-Series A,262000,18-01-2022,Logistics,Logistics,medium,regex,Logistics
+CoreFlow,Retail,Fashion,Kolkata,"Mirae Asset, Tiger Global Management",Seed,1560000,19-02-2023,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+FoodSolutions,FoodTech,Grocery,Delhi,Ventures India,Series D,367311000,12-09-2023,Foodtech,Foodtech,medium,regex,FoodTech
+EduMart,HealthTech,Telemedicine,Gurugram,Bessemer Venture Partners,Series A,1130000,28-05-2024,Healthtech,Healthtech,medium,regex,HealthTech
+Udaan,HealthTech,Health Analytics,Bengaluru,Mirae Asset,Series C,21480000,13-08-2024,Healthtech,Ecommerce/D2C,high,name_lookup,HealthTech
+DriveEdge,Logistics,Last Mile,Pune,"Omidyar Network, Tiger Global Management, Y Combinator",Seed,200000,18-03-2020,Logistics,Logistics,medium,regex,Logistics
+SmartTech,AgriTech,Supply Chain,Delhi,Lightspeed India,Series B,47312000,18-06-2022,Agritech,Agritech,medium,regex,AgriTech
+SmartTech,Retail,Fashion,Noida,"Blume Ventures, Sequoia Capital India",Series A,14492000,19-04-2021,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+MediWorks,HealthTech,Telemedicine,Hyderabad,"Falcon Edge, Kalaari Capital, Omidyar Network",Series C,30056000,24-12-2021,Healthtech,Healthtech,medium,regex,HealthTech
+CRED,E-commerce,Grocery,Hyderabad,"Tiger Global Management, Y Combinator",Series B,25964000,19-02-2023,Ecommerce/D2C,Fintech,high,name_lookup,E-commerce
+SkillSolutions,EdTech,Coding Bootcamp,Chennai,Kalaari Capital,Series A,2805000,18-06-2021,Edtech,Edtech,medium,regex,EdTech
+AeroStack,Mobility,EV,Pune,"IFC, Peak XV",Bridge,1790000,02-07-2024,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+AutoStack,FoodTech,Grocery,Kolkata,Peak XV,Series C,195631000,31-03-2024,Foodtech,Foodtech,medium,regex,FoodTech
+LogiRise,AgriTech,Supply Chain,Kolkata,"Ribbit Capital, Tiger Global Management",Seed,1102000,18-05-2020,Agritech,Agritech,medium,regex,AgriTech
+HomeFoods,FoodTech,Food Delivery,Noida,Matrix Partners India,Series A,3558000,06-12-2023,Foodtech,Foodtech,medium,regex,FoodTech
+Bounce,FoodTech,Grocery,Pune,Mirae Asset,Seed,231000,22-03-2025,Foodtech,EV/Cleantech,high,name_lookup,FoodTech
+AgriFit,AgriTech,Smart Farming,Delhi,Mirae Asset,Bridge,137000,31-10-2023,Agritech,Agritech,medium,regex,AgriTech
+CloudPay,EdTech,UpSkilling,Gurugram,Zodius Capital,Seed,62000,05-09-2024,Edtech,Edtech,medium,regex,EdTech
+Licious,HealthTech,Telemedicine,Mumbai,"IFC, Mirae Asset, Sequoia Capital India",Angel,67000,16-10-2023,Healthtech,Foodtech,high,name_lookup,HealthTech
+Razorpay,Enterprise,Security,Pune,"IFC, Mirae Asset",Series A,9037000,05-10-2022,SaaS/Enterprise,Fintech,high,name_lookup,Enterprise
+QuantumSolutions,Retail,Fashion,Delhi,"A91 Partners, Mirae Asset",Seed,1998000,24-06-2024,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+AeroAnalytics,Enterprise,Automation,Delhi,"Falcon Edge, Sequoia Capital India, SoftBank Vision Fund",Series A,14864000,03-09-2020,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+FarmTech,E-commerce,D2C,Pune,A91 Partners,Series A,4500000,15-06-2021,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+FinSpace,AgriTech,Smart Farming,Pune,Kalaari Capital,Seed,853000,18-05-2022,Agritech,Agritech,medium,regex,AgriTech
+NimbusWorks,FoodTech,Food Delivery,Kolkata,"Prosus Ventures, Zodius Capital",Seed,1631000,25-09-2020,Foodtech,Foodtech,medium,regex,FoodTech
+SkillFlow,Mobility,EV,Chennai,"Bessemer Venture Partners, Blume Ventures, Nexus Venture Partners",Seed,1149000,26-06-2024,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+Chargebee,HealthTech,Pharmacy,Kolkata,"Accel, Tiger Global",Seed,125000,25-02-2023,Healthtech,SaaS/Enterprise,high,name_lookup,HealthTech
+BharatPe,FinTech,Lending,Hyderabad,Info Edge,Series A,3388000,13-07-2023,Fintech,Fintech,high,name_lookup,FinTech
+WorkStack,SaaS,HRTech,Pune,IFC,Pre-Seed,27000,05-09-2020,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+BlueRise,RealEstate,Rental Tech,Noida,Y Combinator,Seed,1688000,17-05-2024,Proptech,Proptech,medium,regex,RealEstate
+Myntra,Retail,Fashion,Kolkata,"Elevation Capital, Ribbit Capital",Private Equity,403808000,19-02-2022,Ecommerce/D2C,Ecommerce/D2C,high,name_lookup,Retail
+GreenConnect,RealEstate,Home Services,Chennai,"IFC, Tiger Global",Series B,9425000,16-03-2023,Proptech,Proptech,medium,regex,RealEstate
+BharatPe,SaaS,DevTools,Pune,"Elevation Capital, Matrix Partners India, Ribbit Capital",Seed,596000,19-08-2021,SaaS/Enterprise,Fintech,high,name_lookup,SaaS
+Ola,Retail,Grocery,Ahmedabad,"Blume Ventures, IFC",Series A,5333000,11-07-2022,Ecommerce/D2C,EV/Cleantech,high,name_lookup,Retail
+FreshSolutions,RealEstate,Home Services,Mumbai,Accel,Seed,187000,24-03-2022,Proptech,Proptech,medium,regex,RealEstate
+FarmBox,FinTech,InsurTech,Noida,Matrix Partners India,Series C,27201000,19-06-2020,Fintech,Fintech,medium,regex,FinTech
+HyperLoop,FoodTech,Food Delivery,Gurugram,"Nexus Venture Partners, Ribbit Capital",Seed,595000,04-08-2021,Foodtech,Foodtech,medium,regex,FoodTech
+Lenskart,FinTech,Payments,Pune,"IFC, Mirae Asset",Growth,197383000,28-10-2021,Fintech,Ecommerce/D2C,high,name_lookup,FinTech
+SkillFlow,HealthTech,Diagnostics,Ahmedabad,"A91 Partners, Falcon Edge, Ribbit Capital",Series A,8097000,16-07-2023,Healthtech,Healthtech,medium,regex,HealthTech
+FreshTech,Consumer Electronics,Smart Home,Gurugram,Y Combinator,Series C,81807000,23-06-2022,Other,Other,low,fallback,Consumer Electronics
+Swiggy,HealthTech,Pharmacy,Bengaluru,SoftBank Vision Fund,Pre-Seed,142000,27-07-2024,Healthtech,Foodtech,high,name_lookup,HealthTech
+CoreSpace,Media,Content,Kolkata,"Bessemer Venture Partners, Omidyar Network",Seed,383000,17-04-2024,Other,Agritech,low,investor,Media
+MediHive,EdTech,Coding Bootcamp,Noida,Kedaara Capital,Series A,4568000,26-05-2021,Edtech,Edtech,medium,regex,EdTech
+UrbanDrive,EdTech,UpSkilling,Mumbai,"LCatterton, Ventures India",Pre-Series A,753000,05-05-2021,Edtech,Edtech,medium,regex,EdTech
+SkillFlow,Media,Streaming,Hyderabad,Blume Ventures,Pre-Series A,253000,13-10-2024,Other,SaaS/Enterprise,low,investor,Media
+Cars24,E-commerce,Fashion,Ahmedabad,"Mirae Asset, SoftBank Vision Fund",Series A,1438000,05-12-2023,Ecommerce/D2C,Ecommerce/D2C,high,name_lookup,E-commerce
+WorkPay_557,Mobility,Ride Sharing,Delhi,Nexus Venture Partners,Bridge,56000,31-07-2021,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+Dailyhunt,Media,Social,Gurugram,"Kalaari Capital, Lightspeed India",Seed,810000,31-01-2020,Other,Other,high,name_lookup,Media
+Chargebee,SaaS,MarTech,Bengaluru,Tiger Global,Seed,493000,23-09-2024,SaaS/Enterprise,SaaS/Enterprise,high,name_lookup,SaaS
+DriveFit_560,Consumer Electronics,Audio,Gurugram,"Nexus Venture Partners, Zodius Capital",Angel,41000,27-05-2021,Other,Other,low,fallback,Consumer Electronics
+LogiMart,Consumer Electronics,Audio,Bengaluru,Falcon Edge,Seed,110000,14-02-2024,Other,Deeptech,medium,regex,Consumer Electronics
+FarmTech,RealEstate,Home Services,Pune,Ventures India,Seed,83000,31-01-2024,Proptech,Proptech,medium,regex,RealEstate
+NeoTech,RealEstate,Home Services,Gurugram,"Accel, Lightspeed India, Ribbit Capital",Pre-Series A,103000,16-04-2020,Proptech,Proptech,medium,regex,RealEstate
+NeoSense_564,Retail,Grocery,Ahmedabad,Sequoia Capital India,Seed,182000,04-06-2024,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+Razorpay,AgriTech,Marketplace,Kolkata,Bessemer Venture Partners,Series B,25663000,13-11-2020,Agritech,Fintech,high,name_lookup,AgriTech
+LogiMart,E-commerce,Grocery,Pune,"Blume Ventures, Tiger Global, Y Combinator",Angel,16000,04-04-2024,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+AeroStack,EdTech,UpSkilling,Noida,Bessemer Venture Partners,Series C,65394000,29-03-2024,Edtech,Edtech,medium,regex,EdTech
+Dailyhunt,Media,Social,Bengaluru,"LCatterton, Mirae Asset, Nexus Venture Partners",Series B,61332000,03-01-2022,Other,Other,high,name_lookup,Media
+Dailyhunt,Mobility,EV,Noida,"Blume Ventures, Y Combinator",Series B,13131000,23-01-2021,EV/Cleantech,Other,high,name_lookup,Mobility
+InMobi,Logistics,Fleet Management,Noida,Info Edge,Seed,333000,23-12-2022,Logistics,Other,high,name_lookup,Logistics
+CureFit,Mobility,EV,Kolkata,"Blume Ventures, Y Combinator",Pre-Seed,122000,30-07-2023,EV/Cleantech,Healthtech,high,name_lookup,Mobility
+PhonePe,AgriTech,Smart Farming,Ahmedabad,Prosus Ventures,Seed,216000,16-01-2024,Agritech,Fintech,high,name_lookup,AgriTech
+UrbanDrive,RealEstate,Home Services,Noida,Kalaari Capital,Seed,496000,02-08-2021,Proptech,Proptech,medium,regex,RealEstate
+AgriSense,Mobility,Micro Mobility,Mumbai,Blume Ventures,Pre-Seed,146000,04-04-2025,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+GreenMart,Consumer Electronics,Audio,Mumbai,"Falcon Edge, Prosus Ventures",Pre-Seed,178000,07-08-2023,Other,Deeptech,medium,regex,Consumer Electronics
+CloudSolutions_576,EdTech,Test Prep,Bengaluru,"Accel, LCatterton, Mirae Asset",Angel,8000,03-03-2021,Edtech,Edtech,medium,regex,EdTech
+HealthWorks,Media,Content,Pune,"Matrix Partners India, Tiger Global",Series C,245913000,29-04-2020,Other,Other,low,fallback,Media
+Groww,Enterprise,Security,Mumbai,"Accel, Kedaara Capital",Bridge,307000,21-05-2025,SaaS/Enterprise,Fintech,high,name_lookup,Enterprise
+AeroHub,Mobility,Micro Mobility,Gurugram,A91 Partners,Series A,2012000,24-04-2025,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+SkillRise,Retail,Fashion,Ahmedabad,"Blume Ventures, IFC, Prosus Ventures",Pre-Series A,288000,28-07-2022,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+BlueTech,Mobility,EV,Delhi,"LCatterton, Peak XV",Series A,14210000,13-05-2023,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+NeoSense,FoodTech,Grocery,Chennai,"A91 Partners, Matrix Partners India",Series C,75927000,24-10-2021,Foodtech,Foodtech,medium,regex,FoodTech
+UrbanSolutions,Media,Content,Pune,Sequoia Capital India,Bridge,168000,05-07-2022,Other,Other,low,fallback,Media
+HealthAnalytics,Mobility,Ride Sharing,Hyderabad,IFC,Pre-Seed,86000,30-03-2021,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+DataAnalytics,Media,Content,Noida,"Blume Ventures, Sequoia Capital India",Series A,1916000,14-03-2023,Other,SaaS/Enterprise,low,investor,Media
+Licious,HealthTech,Diagnostics,Hyderabad,Matrix Partners India,Pre-Series A,119000,07-04-2023,Healthtech,Foodtech,high,name_lookup,HealthTech
+Delhivery,E-commerce,Grocery,Chennai,"Accel, Mirae Asset, SoftBank Vision Fund",Series A,1418000,21-03-2021,Ecommerce/D2C,Logistics,high,name_lookup,E-commerce
+Myntra,Enterprise,Automation,Ahmedabad,"Ribbit Capital, Sequoia Capital India",Series C,28289000,14-07-2020,SaaS/Enterprise,Ecommerce/D2C,high,name_lookup,Enterprise
+QuantumAnalytics_589,FinTech,WealthTech,Pune,"Nexus Venture Partners, Peak XV",Growth,74657000,08-06-2022,Fintech,Fintech,medium,regex,FinTech
+HomeFoods,Enterprise,Automation,Bengaluru,"Falcon Edge, Tiger Global",Series B,7347000,18-07-2023,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+FoodLoop,HealthTech,Pharmacy,Noida,Prosus Ventures,Series B,29557000,09-11-2020,Healthtech,Healthtech,medium,regex,HealthTech
+DriveFit,Retail,Fashion,Ahmedabad,"Elevation Capital, Kalaari Capital",Series A,1636000,30-03-2021,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+LogiSense,Consumer Electronics,Smart Home,Bengaluru,Kalaari Capital,Series A,2550000,21-06-2021,Other,Other,low,fallback,Consumer Electronics
+DriveEdge,HealthTech,Diagnostics,Kolkata,"Lightspeed India, Ribbit Capital",Series A,11342000,26-09-2022,Healthtech,Healthtech,medium,regex,HealthTech
+LogiMart,Logistics,Supply Chain,Pune,Accel,Series B,18607000,25-03-2023,Logistics,Logistics,medium,regex,Logistics
+Flipkart,FoodTech,Food Delivery,Pune,"Bessemer Venture Partners, Prosus Ventures",Seed,587000,06-12-2021,Foodtech,Ecommerce/D2C,high,name_lookup,FoodTech
+Lenskart,SaaS,MarTech,Ahmedabad,Lightspeed India,Seed,94000,01-04-2020,SaaS/Enterprise,Ecommerce/D2C,high,name_lookup,SaaS
+NimbusWorks,Media,Social,Mumbai,"IFC, Peak XV",Series B,8521000,12-05-2021,Other,Other,low,fallback,Media
+SmartTech_599,Media,Social,Hyderabad,Lightspeed India,Series A,1117000,16-02-2020,Other,Deeptech,medium,regex,Media
+Meesho,EdTech,UpSkilling,Noida,Kedaara Capital,Series A,1580000,03-02-2024,Edtech,Ecommerce/D2C,high,name_lookup,EdTech
+PhonePe,FoodTech,Grocery,Noida,Elevation Capital,Pre-Seed,38000,14-12-2020,Foodtech,Fintech,high,name_lookup,FoodTech
+SkillFlow_602,RealEstate,PropTech,Mumbai,"IFC, Prosus Ventures",Pre-Series A,150000,09-07-2021,Proptech,Proptech,medium,regex,RealEstate
+PhonePe,Logistics,Fleet Management,Chennai,"Accel, Tiger Global Management",Seed,69000,18-02-2022,Logistics,Fintech,high,name_lookup,Logistics
+HyperLabs,AgriTech,Marketplace,Mumbai,"A91 Partners, Kedaara Capital",Seed,78000,22-10-2022,Agritech,Agritech,medium,regex,AgriTech
+Razorpay,EdTech,UpSkilling,Pune,Sequoia Capital India,Series A,3483000,04-03-2024,Edtech,Fintech,high,name_lookup,EdTech
+AgriFit,Logistics,Last Mile,Noida,"Kalaari Capital, Matrix Partners India, Tiger Global Management",Seed,107000,06-05-2020,Logistics,Logistics,medium,regex,Logistics
+ClearTax,Mobility,EV,Gurugram,"Accel, Prosus Ventures",Seed,192000,11-01-2025,EV/Cleantech,Fintech,high,name_lookup,Mobility
+QuantumAnalytics,RealEstate,Rental Tech,Gurugram,Info Edge,Pre-Series A,319000,19-03-2023,Proptech,Proptech,medium,regex,RealEstate
+FreshTech,SaaS,MarTech,Noida,Omidyar Network,Seed,638000,29-08-2023,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+CloudPay,Logistics,Fleet Management,Noida,Prosus Ventures,Angel,6000,30-05-2022,Logistics,Logistics,medium,regex,Logistics
+NextSense,Mobility,Micro Mobility,Mumbai,Kedaara Capital,Seed,954000,15-09-2024,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+FoodLoop,FoodTech,Food Delivery,Hyderabad,"Bessemer Venture Partners, Elevation Capital, Peak XV",Series A,5476000,27-03-2025,Foodtech,Foodtech,medium,regex,FoodTech
+AeroStack,FinTech,NeoBank,Ahmedabad,Matrix Partners India,Seed,68000,07-03-2023,Fintech,Fintech,medium,regex,FinTech
+GrowthFlow,Media,Content,Delhi,"Kedaara Capital, Y Combinator",Series A,10651000,23-05-2023,Other,Other,low,fallback,Media
+UrbanDrive,HealthTech,Diagnostics,Gurugram,Peak XV,Seed,1494000,16-04-2022,Healthtech,Healthtech,medium,regex,HealthTech
+Flipkart,EdTech,K12,Gurugram,"IFC, Mirae Asset",Seed,63000,13-03-2025,Edtech,Ecommerce/D2C,high,name_lookup,EdTech
+NeoSense,EdTech,Coding Bootcamp,Chennai,"Kalaari Capital, Kedaara Capital, Zodius Capital",Series C,42331000,30-05-2023,Edtech,Edtech,medium,regex,EdTech
+GrowthConnect,Consumer Electronics,Wearables,Bengaluru,"Falcon Edge, Tiger Global Management",Growth,419740000,18-05-2021,Other,Other,low,fallback,Consumer Electronics
+Razorpay,Mobility,EV,Noida,Blume Ventures,Series C,151723000,25-05-2025,EV/Cleantech,Fintech,high,name_lookup,Mobility
+Dailyhunt,FoodTech,Food Delivery,Hyderabad,Omidyar Network,Series A,1648000,15-05-2022,Foodtech,Other,high,name_lookup,FoodTech
+Udaan,Media,Streaming,Delhi,"Accel, Falcon Edge",Series A,1763000,16-08-2023,Other,Ecommerce/D2C,high,name_lookup,Media
+BlueTech,Media,Streaming,Delhi,"Info Edge, Sequoia Capital India",Pre-Series A,235000,24-10-2021,Other,Other,low,fallback,Media
+CloudPay,E-commerce,D2C,Pune,"Bessemer Venture Partners, Kedaara Capital, Nexus Venture Partners",Series B,19160000,31-01-2025,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+Porter,Media,Content,Pune,"Kedaara Capital, Tiger Global Management",Seed,489000,19-12-2023,Other,Logistics,high,name_lookup,Media
+NextSense,FoodTech,Cloud Kitchen,Delhi,"Blume Ventures, IFC, Nexus Venture Partners",Angel,15000,04-03-2023,Foodtech,Foodtech,medium,regex,FoodTech
+Udaan,FoodTech,Food Delivery,Hyderabad,"Blume Ventures, Elevation Capital",Series B,18027000,22-05-2025,Foodtech,Ecommerce/D2C,high,name_lookup,FoodTech
+LogiSense,FinTech,NeoBank,Hyderabad,"A91 Partners, Sequoia Capital India",Pre-Seed,112000,16-10-2022,Fintech,Fintech,medium,regex,FinTech
+NimbusLabs,AgriTech,Marketplace,Kolkata,Omidyar Network,Series A,1104000,23-06-2022,Agritech,Agritech,medium,regex,AgriTech
+MediHive,Mobility,EV,Ahmedabad,Tiger Global,Series A,1981000,06-08-2024,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+GreenConnect_630,SaaS,B2B SaaS,Delhi,"Elevation Capital, Zodius Capital",Series D,258416000,28-09-2023,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+Unacademy,FinTech,Payments,Chennai,"Elevation Capital, Kedaara Capital, Prosus Ventures",Debt,26070000,26-11-2020,Fintech,Edtech,high,name_lookup,FinTech
+EduTech,Media,Streaming,Pune,SoftBank Vision Fund,Angel,23000,09-07-2020,Other,Other,low,fallback,Media
+QuantumAnalytics,Retail,Grocery,Noida,Nexus Venture Partners,Seed,356000,22-08-2022,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+SkillSolutions,FoodTech,Grocery,Gurugram,Accel,Series B,6730000,07-06-2023,Foodtech,Foodtech,medium,regex,FoodTech
+Unacademy,Consumer Electronics,Smart Home,Ahmedabad,Info Edge,Angel,19000,18-12-2023,Other,Edtech,high,name_lookup,Consumer Electronics
+FoodLoop,AgriTech,Marketplace,Pune,"Kedaara Capital, Mirae Asset",Angel,25000,12-06-2023,Agritech,Agritech,medium,regex,AgriTech
+Chargebee,Consumer Electronics,Audio,Ahmedabad,Sequoia Capital India,Seed,122000,17-08-2021,Other,SaaS/Enterprise,high,name_lookup,Consumer Electronics
+GrowthFlow,Retail,E-Retail,Gurugram,"Tiger Global, Y Combinator",Series C,41465000,29-04-2022,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+Meesho,FinTech,Lending,Hyderabad,Elevation Capital,Seed,201000,18-05-2020,Fintech,Ecommerce/D2C,high,name_lookup,FinTech
+AgriSense,E-commerce,D2C,Pune,"Peak XV, Zodius Capital",Pre-Series A,105000,11-03-2023,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+CloudLabs,SaaS,MarTech,Kolkata,Mirae Asset,Series C,47844000,15-08-2023,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+LogiRise,Mobility,EV,Kolkata,"A91 Partners, Falcon Edge, Tiger Global",Series C,35458000,27-04-2022,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+HyperLabs,FinTech,Lending,Ahmedabad,Tiger Global,Series B,12397000,25-06-2024,Fintech,Fintech,medium,regex,FinTech
+WorkPay,FinTech,WealthTech,Chennai,A91 Partners,Series A,1383000,21-09-2024,Fintech,Fintech,medium,regex,FinTech
+UrbanDrive,E-commerce,D2C,Pune,"Accel, IFC",Series B,59057000,10-07-2021,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+NimbusWorks,Logistics,Last Mile,Noida,Bessemer Venture Partners,Seed,447000,17-08-2020,Logistics,Logistics,medium,regex,Logistics
+CloudPay,Consumer Electronics,Smart Home,Bengaluru,"Blume Ventures, SoftBank Vision Fund",Series C,125810000,27-01-2025,Other,SaaS/Enterprise,low,investor,Consumer Electronics
+AgriHive,Mobility,EV,Pune,Zodius Capital,Seed,919000,20-11-2024,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+LogiSense,FinTech,InsurTech,Chennai,Sequoia Capital India,Series B,19914000,05-12-2022,Fintech,Fintech,medium,regex,FinTech
+FarmFit,AgriTech,Supply Chain,Pune,Falcon Edge,Series A,1265000,04-04-2020,Agritech,Agritech,medium,regex,AgriTech
+FreshTech_651,Retail,Grocery,Gurugram,Elevation Capital,Seed,363000,29-01-2021,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+FoodLoop,RealEstate,PropTech,Hyderabad,Sequoia Capital India,Seed,436000,14-07-2021,Proptech,Proptech,medium,regex,RealEstate
+Zomato,EdTech,UpSkilling,Noida,"A91 Partners, Bessemer Venture Partners, Blume Ventures",Seed,782000,16-10-2020,Edtech,Foodtech,high,name_lookup,EdTech
+FreshTech,SaaS,MarTech,Bengaluru,"Accel, Tiger Global, Y Combinator",Seed,246000,22-08-2022,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+DriveFit,AgriTech,Marketplace,Kolkata,Zodius Capital,Series A,1413000,01-10-2021,Agritech,Agritech,medium,regex,AgriTech
+HealthRise,Retail,Grocery,Ahmedabad,"Info Edge, Mirae Asset, Prosus Ventures",Seed,142000,22-07-2024,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+InMobi,Consumer Electronics,Audio,Gurugram,"Matrix Partners India, Y Combinator",Seed,191000,08-01-2025,Other,Other,high,name_lookup,Consumer Electronics
+BlueTech,RealEstate,Home Services,Pune,Mirae Asset,Series A,5750000,02-03-2020,Proptech,Proptech,medium,regex,RealEstate
+NextFlow,Enterprise,Analytics,Hyderabad,"Accel, Nexus Venture Partners",Series C,93825000,22-05-2023,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+AeroStack,RealEstate,PropTech,Hyderabad,"Kalaari Capital, Ribbit Capital",Series A,2623000,31-03-2022,Proptech,Proptech,medium,regex,RealEstate
+NextSense,FoodTech,Cloud Kitchen,Pune,"Info Edge, Tiger Global Management",Seed,1903000,22-11-2023,Foodtech,Foodtech,medium,regex,FoodTech
+DataHive,EdTech,K12,Mumbai,"Accel, Zodius Capital",Series B,26816000,28-12-2023,Edtech,Edtech,medium,regex,EdTech
+SmartMart,E-commerce,Fashion,Delhi,Omidyar Network,Seed,120000,11-04-2022,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+QuantumAnalytics,RealEstate,Rental Tech,Bengaluru,LCatterton,Seed,73000,31-07-2024,Proptech,Proptech,medium,regex,RealEstate
+Rapido,Retail,E-Retail,Delhi,"Info Edge, Ribbit Capital",Series A,1513000,19-08-2021,Ecommerce/D2C,EV/Cleantech,high,name_lookup,Retail
+CoreFlow,SaaS,HRTech,Ahmedabad,LCatterton,Series C,38931000,23-10-2023,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+DriveEdge,SaaS,B2B SaaS,Ahmedabad,IFC,Pre-Seed,29000,11-11-2022,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+HealthWorks,Mobility,Ride Sharing,Bengaluru,Accel,Series B,8387000,07-08-2024,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+HealthAnalytics,EdTech,Coding Bootcamp,Ahmedabad,"A91 Partners, Y Combinator",Pre-Series A,193000,13-10-2021,Edtech,Edtech,medium,regex,EdTech
+NoBroker,Consumer Electronics,Audio,Gurugram,Zodius Capital,Series A,1599000,23-09-2024,Other,Proptech,high,name_lookup,Consumer Electronics
+HyperLoop,Enterprise,Automation,Delhi,"Kedaara Capital, Mirae Asset, Sequoia Capital India",Seed,1367000,26-05-2020,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+DriveEdge,HealthTech,Telemedicine,Delhi,"Kedaara Capital, LCatterton",Series B,6246000,01-05-2022,Healthtech,Healthtech,medium,regex,HealthTech
+Innovaccer,AgriTech,Supply Chain,Kolkata,"Kalaari Capital, Lightspeed India",Series A,4139000,04-02-2023,Agritech,Healthtech,high,name_lookup,AgriTech
+Innovaccer,AgriTech,Supply Chain,Ahmedabad,Kedaara Capital,Series A,3039000,05-02-2024,Agritech,Healthtech,high,name_lookup,AgriTech
+NextStack,Mobility,Micro Mobility,Pune,"Mirae Asset, Y Combinator",Pre-Seed,192000,18-03-2020,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+AgriHive,E-commerce,Marketplace,Noida,Mirae Asset,Debt,201000,17-03-2024,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+HealthRise,AgriTech,Supply Chain,Gurugram,"Accel, Peak XV, Ribbit Capital",Series A,2937000,27-02-2024,Agritech,Agritech,medium,regex,AgriTech
+FreshTech,SaaS,B2B SaaS,Kolkata,"A91 Partners, SoftBank Vision Fund",Series A,13810000,29-01-2025,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+AgriFit,Retail,Grocery,Hyderabad,"Kedaara Capital, Ventures India",Seed,1218000,24-11-2023,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+Swiggy,FinTech,InsurTech,Ahmedabad,"Ribbit Capital, Tiger Global Management, Zodius Capital",Seed,1019000,15-04-2020,Fintech,Foodtech,high,name_lookup,FinTech
+SmartTech,HealthTech,Telemedicine,Hyderabad,Elevation Capital,Seed,129000,15-06-2023,Healthtech,Healthtech,medium,regex,HealthTech
+CloudSolutions_682,E-commerce,Grocery,Delhi,Prosus Ventures,Angel,8000,22-02-2024,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+Nykaa,Retail,E-Retail,Hyderabad,"Blume Ventures, Falcon Edge",Series C,122297000,28-04-2021,Ecommerce/D2C,Ecommerce/D2C,high,name_lookup,Retail
+GreenMart,E-commerce,Marketplace,Ahmedabad,"Kalaari Capital, Ventures India",Angel,81000,11-11-2020,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+AeroHub,Consumer Electronics,Smart Home,Delhi,Tiger Global,Seed,390000,12-02-2024,Other,Other,low,fallback,Consumer Electronics
+CureFit,Retail,E-Retail,Bengaluru,"Elevation Capital, Ventures India",Seed,412000,27-03-2022,Ecommerce/D2C,Healthtech,high,name_lookup,Retail
+PharmEasy,FoodTech,Grocery,Chennai,"IFC, Sequoia Capital India",Series A,2134000,24-10-2020,Foodtech,Healthtech,high,name_lookup,FoodTech
+EduMart,SaaS,B2B SaaS,Mumbai,Peak XV,Angel,50000,29-07-2023,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+Paytm,AgriTech,Marketplace,Hyderabad,Matrix Partners India,Seed,100000,30-06-2021,Agritech,Fintech,high,name_lookup,AgriTech
+DriveFit,RealEstate,Rental Tech,Gurugram,Falcon Edge,Series B,12266000,20-04-2023,Proptech,Proptech,medium,regex,RealEstate
+BlueTech,FinTech,Payments,Mumbai,"Accel, Info Edge",Pre-Seed,53000,19-07-2020,Fintech,Fintech,medium,regex,FinTech
+HomeAnalytics,Logistics,Last Mile,Bengaluru,Peak XV,Pre-Seed,64000,07-07-2020,Logistics,Logistics,medium,regex,Logistics
+GreenEdge,RealEstate,PropTech,Mumbai,Y Combinator,Seed,122000,23-05-2023,Proptech,Proptech,medium,regex,RealEstate
+DataEdge,Media,Social,Hyderabad,Ribbit Capital,Seed,76000,14-09-2023,Other,Fintech,low,investor,Media
+SkillSolutions,Media,Streaming,Pune,Elevation Capital,Seed,476000,17-05-2024,Other,Other,low,fallback,Media
+HealthWorks,SaaS,B2B SaaS,Hyderabad,Info Edge,Bridge,145000,26-06-2021,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+NeoLabs,EdTech,Coding Bootcamp,Delhi,A91 Partners,Series B,25052000,10-08-2020,Edtech,Edtech,medium,regex,EdTech
+Paytm,EdTech,Test Prep,Kolkata,Tiger Global,Series B,7671000,30-07-2020,Edtech,Fintech,high,name_lookup,EdTech
+AutoStack,FinTech,InsurTech,Delhi,Prosus Ventures,Series B,18981000,02-01-2020,Fintech,Fintech,medium,regex,FinTech
+NextStack,SaaS,MarTech,Ahmedabad,"Kalaari Capital, Mirae Asset",Pre-Seed,68000,20-12-2023,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+CRED,Mobility,Ride Sharing,Bengaluru,"Falcon Edge, Nexus Venture Partners",Pre-Series A,113000,12-11-2023,EV/Cleantech,Fintech,high,name_lookup,Mobility
+Licious,SaaS,HRTech,Chennai,"Accel, Falcon Edge, Peak XV",Seed,173000,17-05-2025,SaaS/Enterprise,Foodtech,high,name_lookup,SaaS
+HealthRise,Retail,Grocery,Gurugram,"Elevation Capital, Prosus Ventures",Seed,82000,21-03-2020,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+UrbanDrive,RealEstate,Rental Tech,Pune,"Blume Ventures, Info Edge, Sequoia Capital India",Series A,1187000,17-12-2024,Proptech,Proptech,medium,regex,RealEstate
+GrowthFlow,AgriTech,Supply Chain,Kolkata,"Mirae Asset, Ribbit Capital",Pre-Series A,977000,11-06-2024,Agritech,Agritech,medium,regex,AgriTech
+EduBox,FinTech,Payments,Pune,"Bessemer Venture Partners, Nexus Venture Partners, Tiger Global",Seed,164000,01-06-2024,Fintech,Fintech,medium,regex,FinTech
+LogiRise,Enterprise,Automation,Delhi,Sequoia Capital India,Series B,47223000,22-04-2021,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+SmartCare,FinTech,InsurTech,Ahmedabad,"Blume Ventures, Nexus Venture Partners, Tiger Global",Pre-Seed,36000,07-12-2023,Fintech,Fintech,medium,regex,FinTech
+BigBasket,Enterprise,Analytics,Kolkata,"Tiger Global, Zodius Capital",Series A,6332000,06-09-2024,SaaS/Enterprise,Ecommerce/D2C,high,name_lookup,Enterprise
+Porter,Consumer Electronics,Smart Home,Ahmedabad,Info Edge,Seed,826000,05-07-2024,Other,Logistics,high,name_lookup,Consumer Electronics
+FoodFit,RealEstate,Rental Tech,Noida,Ventures India,Seed,450000,09-09-2024,Proptech,Proptech,medium,regex,RealEstate
+NoBroker,SaaS,B2B SaaS,Mumbai,"Blume Ventures, Y Combinator",Seed,285000,31-03-2024,SaaS/Enterprise,Proptech,high,name_lookup,SaaS
+Dream11,Consumer Electronics,Audio,Ahmedabad,"Bessemer Venture Partners, Omidyar Network, Sequoia Capital India",Pre-Seed,52000,23-07-2020,Other,Other,high,name_lookup,Consumer Electronics
+Myntra,E-commerce,Quick Commerce,Bengaluru,"Kalaari Capital, LCatterton, Ribbit Capital",Seed,181000,01-07-2020,Ecommerce/D2C,Ecommerce/D2C,high,name_lookup,E-commerce
+FarmBox,EdTech,K12,Hyderabad,Peak XV,Series A,12394000,23-04-2022,Edtech,Edtech,medium,regex,EdTech
+GrowthConnect,Media,Content,Ahmedabad,Y Combinator,Bridge,1071000,08-07-2023,Other,Other,low,fallback,Media
+MediHive,EdTech,Test Prep,Noida,IFC,Bridge,1758000,21-06-2023,Edtech,Edtech,medium,regex,EdTech
+ClearDekho,EdTech,Coding Bootcamp,Gurugram,Bessemer Venture Partners,Seed,79000,31-01-2021,Edtech,Edtech,medium,regex,EdTech
+FarmBox,HealthTech,Telemedicine,Bengaluru,Info Edge,Series B,37933000,06-08-2021,Healthtech,Healthtech,medium,regex,HealthTech
+WorkStack,Retail,Grocery,Bengaluru,"Bessemer Venture Partners, Blume Ventures",Seed,1593000,17-04-2020,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+Myntra,Mobility,Ride Sharing,Mumbai,"Omidyar Network, SoftBank Vision Fund",Angel,9000,17-01-2024,EV/Cleantech,Ecommerce/D2C,high,name_lookup,Mobility
+BlueRise,SaaS,DevTools,Mumbai,Ventures India,Seed,64000,19-07-2020,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+CloudPay,EdTech,Test Prep,Kolkata,"Nexus Venture Partners, Peak XV",Series A,7441000,21-04-2020,Edtech,Edtech,medium,regex,EdTech
+AutoFlow,SaaS,DevTools,Kolkata,Tiger Global Management,Series B,24587000,18-07-2023,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+CloudPay,FinTech,NeoBank,Bengaluru,"Blume Ventures, Info Edge",Seed,1116000,15-08-2020,Fintech,Fintech,medium,regex,FinTech
+DataHive,Logistics,Fleet Management,Delhi,"LCatterton, Omidyar Network",Series C,29202000,30-07-2023,Logistics,Logistics,medium,regex,Logistics
+HomeFoods,Enterprise,Automation,Kolkata,Mirae Asset,Growth,407801000,19-03-2021,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+UrbanStack,Media,Social,Gurugram,LCatterton,Seed,105000,01-04-2023,Other,Ecommerce/D2C,low,investor,Media
+WorkPay,FinTech,InsurTech,Bengaluru,"Falcon Edge, Sequoia Capital India, Ventures India",Pre-Seed,29000,21-08-2022,Fintech,Fintech,medium,regex,FinTech
+GrowthCare,Media,Social,Kolkata,"Kedaara Capital, Ventures India",Series A,1560000,19-06-2020,Other,Deeptech,medium,regex,Media
+Freshworks,EdTech,K12,Pune,Sequoia Capital India,Seed,1009000,19-08-2023,Edtech,SaaS/Enterprise,high,name_lookup,EdTech
+BigBasket,HealthTech,Health Analytics,Ahmedabad,"Mirae Asset, Nexus Venture Partners",Series B,31619000,19-02-2020,Healthtech,Ecommerce/D2C,high,name_lookup,HealthTech
+CoreConnect,Enterprise,Security,Kolkata,"LCatterton, SoftBank Vision Fund, Tiger Global",Series B,21321000,03-01-2020,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+GreenMart,Retail,Grocery,Ahmedabad,Bessemer Venture Partners,Series A,2643000,15-06-2024,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+HealthRise,SaaS,B2B SaaS,Noida,LCatterton,Bridge,1271000,13-10-2023,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+FreshToHome,FoodTech,Food Delivery,Kolkata,Blume Ventures,Series A,2894000,18-01-2022,Foodtech,Foodtech,high,name_lookup,FoodTech
+CRED,Mobility,Micro Mobility,Gurugram,A91 Partners,Seed,1017000,16-11-2021,EV/Cleantech,Fintech,high,name_lookup,Mobility
+GrowthCare,Retail,Fashion,Gurugram,SoftBank Vision Fund,Series C,65689000,07-04-2024,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+NextStack,FoodTech,Food Delivery,Bengaluru,"Falcon Edge, Mirae Asset",Seed,201000,08-12-2021,Foodtech,Foodtech,medium,regex,FoodTech
+NeoTech,Mobility,Micro Mobility,Noida,"Prosus Ventures, Y Combinator",Angel,20000,14-07-2022,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+Byju's,EdTech,Coding Bootcamp,Mumbai,Elevation Capital,Seed,152000,12-01-2025,Edtech,Edtech,high,name_lookup,EdTech
+Dunzo,E-commerce,Marketplace,Hyderabad,"Lightspeed India, Nexus Venture Partners",Seed,788000,30-10-2020,Ecommerce/D2C,Ecommerce/D2C,high,name_lookup,E-commerce
+DataAnalytics,RealEstate,Rental Tech,Delhi,"Sequoia Capital India, Ventures India",Series A,3902000,10-05-2022,Proptech,Proptech,medium,regex,RealEstate
+FinFoods_744,Enterprise,Analytics,Noida,"Ribbit Capital, SoftBank Vision Fund",Series B,9519000,23-04-2022,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+NeoSense,RealEstate,Rental Tech,Noida,"Elevation Capital, Nexus Venture Partners",Series D,396775000,30-06-2022,Proptech,Proptech,medium,regex,RealEstate
+BigBasket,HealthTech,Pharmacy,Gurugram,Bessemer Venture Partners,Series A,2828000,11-06-2025,Healthtech,Ecommerce/D2C,high,name_lookup,HealthTech
+Postman,HealthTech,Pharmacy,Hyderabad,"Kedaara Capital, Peak XV",Series A,4358000,06-12-2020,Healthtech,SaaS/Enterprise,high,name_lookup,HealthTech
+SmartTech,HealthTech,Diagnostics,Delhi,A91 Partners,Seed,1416000,25-03-2020,Healthtech,Healthtech,medium,regex,HealthTech
+Dailyhunt,Logistics,Supply Chain,Delhi,Prosus Ventures,Seed,500000,19-12-2023,Logistics,Other,high,name_lookup,Logistics
+FoodSolutions,Consumer Electronics,Smart Home,Delhi,Kalaari Capital,Series A,1372000,05-09-2020,Other,Other,low,fallback,Consumer Electronics
+Chargebee,Retail,E-Retail,Kolkata,Tiger Global Management,Angel,84000,15-11-2020,Ecommerce/D2C,SaaS/Enterprise,high,name_lookup,Retail
+ClearDekho,SaaS,HRTech,Kolkata,"Bessemer Venture Partners, Prosus Ventures",Angel,33000,08-06-2025,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+Ola,SaaS,B2B SaaS,Kolkata,"A91 Partners, Kalaari Capital, SoftBank Vision Fund",Angel,14000,12-10-2020,SaaS/Enterprise,EV/Cleantech,high,name_lookup,SaaS
+HomeAnalytics,E-commerce,D2C,Bengaluru,"Bessemer Venture Partners, Falcon Edge",Series A,1458000,03-02-2021,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+QuantumSolutions,E-commerce,Grocery,Kolkata,Tiger Global Management,Series B,45193000,15-05-2025,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+DriveFit,SaaS,B2B SaaS,Pune,Y Combinator,Pre-Series A,417000,06-01-2024,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+HealthAnalytics,Logistics,Supply Chain,Noida,"Kalaari Capital, Ventures India",Seed,358000,30-01-2024,Logistics,Logistics,medium,regex,Logistics
+Ola,Logistics,Last Mile,Chennai,Zodius Capital,Series B,59611000,28-04-2022,Logistics,EV/Cleantech,high,name_lookup,Logistics
+Unacademy,HealthTech,Diagnostics,Hyderabad,"Tiger Global, Tiger Global Management",Series A,8462000,11-11-2024,Healthtech,Edtech,high,name_lookup,HealthTech
+UrbanSolutions,FoodTech,Grocery,Hyderabad,"Kedaara Capital, Ventures India",Pre-Series A,142000,12-02-2023,Foodtech,Foodtech,medium,regex,FoodTech
+FinSense,Enterprise,Security,Hyderabad,Zodius Capital,Series A,2326000,27-03-2020,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+Oyo,Consumer Electronics,Smart Home,Kolkata,Blume Ventures,Seed,125000,08-06-2024,Other,Proptech,high,name_lookup,Consumer Electronics
+Delhivery,RealEstate,Rental Tech,Kolkata,Kalaari Capital,Seed,778000,25-09-2023,Proptech,Logistics,high,name_lookup,RealEstate
+NeoLabs,RealEstate,PropTech,Bengaluru,"Tiger Global, Tiger Global Management",Seed,57000,21-07-2021,Proptech,Proptech,medium,regex,RealEstate
+ShareChat,AgriTech,Smart Farming,Ahmedabad,"Prosus Ventures, Tiger Global Management, Zodius Capital",Series A,4680000,12-06-2021,Agritech,Other,high,name_lookup,AgriTech
+NimbusWorks,AgriTech,Supply Chain,Hyderabad,SoftBank Vision Fund,Seed,833000,29-04-2020,Agritech,Agritech,medium,regex,AgriTech
+HyperSpace,FinTech,WealthTech,Pune,Tiger Global,Pre-Series A,753000,10-02-2025,Fintech,Fintech,medium,regex,FinTech
+Cars24,Mobility,Micro Mobility,Mumbai,"Accel, Blume Ventures, Ventures India",Series A,2525000,18-04-2024,EV/Cleantech,Ecommerce/D2C,high,name_lookup,Mobility
+AgriSense,Enterprise,Automation,Hyderabad,"Falcon Edge, Y Combinator",Seed,1034000,30-11-2023,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+SmartCare_770,Mobility,EV,Pune,LCatterton,Series C,26986000,23-04-2022,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+BharatPe,E-commerce,Marketplace,Delhi,Bessemer Venture Partners,Series A,9897000,30-08-2024,Ecommerce/D2C,Fintech,high,name_lookup,E-commerce
+Porter,FoodTech,Food Delivery,Mumbai,Mirae Asset,Seed,80000,25-09-2020,Foodtech,Logistics,high,name_lookup,FoodTech
+FreshTech,HealthTech,Health Analytics,Ahmedabad,Blume Ventures,Series A,2933000,09-06-2025,Healthtech,Healthtech,medium,regex,HealthTech
+Oyo,FinTech,Payments,Gurugram,Prosus Ventures,Seed,947000,22-11-2023,Fintech,Proptech,high,name_lookup,FinTech
+BigBasket,HealthTech,Diagnostics,Delhi,"Accel, Sequoia Capital India, Ventures India",Debt,254000,20-05-2022,Healthtech,Ecommerce/D2C,high,name_lookup,HealthTech
+AgriHive,FinTech,Lending,Mumbai,"Mirae Asset, Omidyar Network",Pre-Seed,34000,13-09-2023,Fintech,Fintech,medium,regex,FinTech
+AutoStack_777,Logistics,Fleet Management,Bengaluru,LCatterton,Series C,141405000,21-05-2024,Logistics,Logistics,medium,regex,Logistics
+CoreFlow,EdTech,K12,Pune,"Peak XV, Y Combinator",Pre-Seed,105000,25-10-2020,Edtech,Edtech,medium,regex,EdTech
+BharatPe,Enterprise,Automation,Ahmedabad,Accel,Seed,532000,13-03-2023,SaaS/Enterprise,Fintech,high,name_lookup,Enterprise
+UrbanStack,Media,Social,Hyderabad,"Kedaara Capital, Sequoia Capital India",Seed,647000,24-03-2024,Other,Other,low,fallback,Media
+Meesho,Mobility,Micro Mobility,Kolkata,Info Edge,Pre-Series A,349000,22-04-2023,EV/Cleantech,Ecommerce/D2C,high,name_lookup,Mobility
+AeroStack,SaaS,MarTech,Chennai,"Accel, Tiger Global Management",Seed,127000,11-04-2021,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+NeoTech,Mobility,Ride Sharing,Kolkata,A91 Partners,Series C,51004000,14-12-2023,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+Razorpay,E-commerce,D2C,Kolkata,"Omidyar Network, SoftBank Vision Fund",Seed,98000,03-08-2021,Ecommerce/D2C,Fintech,high,name_lookup,E-commerce
+Ola,EdTech,Coding Bootcamp,Hyderabad,IFC,Debt,28306000,26-05-2022,Edtech,EV/Cleantech,high,name_lookup,EdTech
+FarmBox,SaaS,DevTools,Bengaluru,"Accel, Info Edge, Prosus Ventures",Debt,3755000,03-10-2022,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+WorkFit,FoodTech,Food Delivery,Ahmedabad,Tiger Global,Bridge,219000,27-02-2024,Foodtech,Foodtech,medium,regex,FoodTech
+BlueRise,AgriTech,Smart Farming,Mumbai,"Mirae Asset, Ventures India",Seed,275000,19-05-2022,Agritech,Agritech,medium,regex,AgriTech
+SkillFlow,Retail,Fashion,Chennai,"Peak XV, Tiger Global Management",Pre-Series A,886000,27-09-2023,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+QuantumSolutions,Consumer Electronics,Audio,Mumbai,Ribbit Capital,Seed,88000,15-10-2022,Other,Fintech,low,investor,Consumer Electronics
+HyperSpace_791,Media,Social,Mumbai,Y Combinator,Series A,4892000,24-02-2020,Other,Other,low,fallback,Media
+NeoSense,AgriTech,Marketplace,Mumbai,"Bessemer Venture Partners, Ventures India",Series C,78705000,15-09-2023,Agritech,Agritech,medium,regex,AgriTech
+CloudPay,Consumer Electronics,Wearables,Noida,"A91 Partners, Peak XV",Seed,477000,04-12-2021,Other,Other,low,fallback,Consumer Electronics
+GreenMart,E-commerce,Fashion,Kolkata,"Info Edge, Sequoia Capital India",Seed,53000,09-02-2022,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+Oyo,Media,Social,Kolkata,"A91 Partners, Kalaari Capital, Ventures India",Series A,10610000,01-10-2021,Other,Proptech,high,name_lookup,Media
+NeoLabs,RealEstate,Rental Tech,Ahmedabad,Falcon Edge,Series A,12481000,25-02-2023,Proptech,Proptech,medium,regex,RealEstate
+DriveFit,AgriTech,Smart Farming,Ahmedabad,SoftBank Vision Fund,Series B,23958000,18-04-2024,Agritech,Agritech,medium,regex,AgriTech
+ClearTax,AgriTech,Supply Chain,Delhi,"Omidyar Network, Ribbit Capital, Ventures India",Series D,248669000,15-12-2021,Agritech,Fintech,high,name_lookup,AgriTech
+QuantumAnalytics,SaaS,HRTech,Chennai,Matrix Partners India,Pre-Series A,837000,16-09-2023,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+FreshTech,Media,Social,Hyderabad,Falcon Edge,Seed,679000,13-12-2020,Other,Other,low,fallback,Media
+GrowthConnect,Enterprise,Security,Ahmedabad,Sequoia Capital India,Series A,1511000,12-05-2022,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+CoreSpace,SaaS,MarTech,Ahmedabad,Zodius Capital,Pre-Series A,377000,18-03-2023,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+Practo,Media,Streaming,Gurugram,"Omidyar Network, SoftBank Vision Fund, Y Combinator",Seed,469000,26-10-2022,Other,Healthtech,high,name_lookup,Media
+DriveEdge,RealEstate,PropTech,Noida,Elevation Capital,Seed,239000,27-06-2021,Proptech,Proptech,medium,regex,RealEstate
+FoodFit,AgriTech,Marketplace,Mumbai,Omidyar Network,Series B,38525000,30-03-2023,Agritech,Agritech,medium,regex,AgriTech
+SkillFlow_806,Retail,Fashion,Kolkata,Ribbit Capital,Pre-Series A,860000,12-12-2021,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+Oyo,Mobility,EV,Chennai,Kalaari Capital,Series B,65083000,03-10-2021,EV/Cleantech,Proptech,high,name_lookup,Mobility
+AutoStack,Consumer Electronics,Smart Home,Noida,"A91 Partners, IFC, Kedaara Capital",Seed,264000,08-02-2020,Other,Other,low,fallback,Consumer Electronics
+Meesho,RealEstate,Rental Tech,Kolkata,"IFC, Zodius Capital",Seed,76000,30-07-2023,Proptech,Ecommerce/D2C,high,name_lookup,RealEstate
+DriveEdge,Media,Streaming,Bengaluru,Nexus Venture Partners,Series A,14397000,16-01-2022,Other,Other,low,fallback,Media
+Delhivery,Enterprise,Security,Chennai,Ribbit Capital,Seed,1104000,27-08-2024,SaaS/Enterprise,Logistics,high,name_lookup,Enterprise
+Flipkart,Logistics,Supply Chain,Delhi,Kalaari Capital,Seed,79000,16-05-2023,Logistics,Ecommerce/D2C,high,name_lookup,Logistics
+Porter,HealthTech,Diagnostics,Bengaluru,Mirae Asset,Seed,1494000,21-08-2024,Healthtech,Logistics,high,name_lookup,HealthTech
+DriveEdge,FinTech,Lending,Delhi,Bessemer Venture Partners,Seed,1238000,29-02-2020,Fintech,Fintech,medium,regex,FinTech
+QuantumSolutions,HealthTech,Telemedicine,Kolkata,SoftBank Vision Fund,Series C,81514000,23-04-2020,Healthtech,Healthtech,medium,regex,HealthTech
+Delhivery,Enterprise,Analytics,Chennai,"Kalaari Capital, LCatterton, Zodius Capital",Angel,29000,07-10-2023,SaaS/Enterprise,Logistics,high,name_lookup,Enterprise
+FinSense,AgriTech,Marketplace,Noida,"Peak XV, Zodius Capital",Angel,17000,04-12-2022,Agritech,Agritech,medium,regex,AgriTech
+AutoStack,E-commerce,Marketplace,Ahmedabad,SoftBank Vision Fund,Seed,61000,10-07-2024,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+UrbanDrive,Media,Social,Chennai,Lightspeed India,Seed,172000,06-08-2020,Other,Other,low,fallback,Media
+SkillSolutions,Logistics,Fleet Management,Bengaluru,"Info Edge, Peak XV, SoftBank Vision Fund",Series A,8795000,06-02-2022,Logistics,Logistics,medium,regex,Logistics
+LogiMart,Retail,E-Retail,Pune,Sequoia Capital India,Series A,1013000,23-01-2022,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+GreenMart,RealEstate,PropTech,Gurugram,Ribbit Capital,Seed,171000,26-02-2022,Proptech,Proptech,medium,regex,RealEstate
+ShareChat,Retail,Fashion,Mumbai,"Kalaari Capital, LCatterton",Series A,2940000,29-04-2021,Ecommerce/D2C,Other,high,name_lookup,Retail
+DriveFit,Logistics,Supply Chain,Mumbai,Elevation Capital,Angel,25000,29-03-2024,Logistics,Logistics,medium,regex,Logistics
+BharatPe,Consumer Electronics,Smart Home,Pune,"IFC, Kalaari Capital, Sequoia Capital India",Growth,566555000,19-04-2024,Other,Fintech,high,name_lookup,Consumer Electronics
+NeoLabs,FoodTech,Food Delivery,Chennai,Zodius Capital,Growth,124717000,06-08-2024,Foodtech,Foodtech,medium,regex,FoodTech
+Swiggy,Mobility,Ride Sharing,Pune,"Info Edge, Ventures India",Pre-Series A,222000,02-02-2024,EV/Cleantech,Foodtech,high,name_lookup,Mobility
+ClearTax,Retail,E-Retail,Delhi,"Kalaari Capital, Nexus Venture Partners, Ribbit Capital",Series B,38638000,08-06-2024,Ecommerce/D2C,Fintech,high,name_lookup,Retail
+HyperLabs,E-commerce,Marketplace,Gurugram,"IFC, Prosus Ventures, Ventures India",Series A,3403000,08-06-2025,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+FoodLoop,Enterprise,Automation,Delhi,"Bessemer Venture Partners, Zodius Capital",Seed,114000,08-11-2023,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+BlueRise,SaaS,DevTools,Chennai,"Lightspeed India, Peak XV",Growth,165015000,18-04-2025,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+HomeFoods,Consumer Electronics,Audio,Hyderabad,Kalaari Capital,Series B,7389000,11-12-2020,Other,Other,low,fallback,Consumer Electronics
+DriveLoop,HealthTech,Telemedicine,Pune,Sequoia Capital India,Seed,96000,07-03-2023,Healthtech,Healthtech,medium,regex,HealthTech
+DriveEdge,Consumer Electronics,Smart Home,Kolkata,Blume Ventures,Seed,314000,01-01-2024,Other,SaaS/Enterprise,low,investor,Consumer Electronics
+NextStack,Consumer Electronics,Wearables,Delhi,"Lightspeed India, Zodius Capital",Series A,3110000,27-02-2021,Other,Other,low,fallback,Consumer Electronics
+FinFoods,FoodTech,Cloud Kitchen,Bengaluru,Ribbit Capital,Seed,1461000,20-06-2021,Foodtech,Foodtech,medium,regex,FoodTech
+LogiMart,RealEstate,Rental Tech,Kolkata,IFC,Seed,190000,18-08-2022,Proptech,Proptech,medium,regex,RealEstate
+AutoMart,Media,Content,Chennai,Accel,Series B,25007000,08-06-2021,Other,Deeptech,medium,regex,Media
+HealthWorks_839,EdTech,Coding Bootcamp,Pune,"Omidyar Network, Tiger Global Management, Ventures India",Debt,5087000,07-04-2025,Edtech,Edtech,medium,regex,EdTech
+FarmFit_840,Mobility,Micro Mobility,Chennai,"A91 Partners, Tiger Global Management, Y Combinator",Seed,52000,19-03-2022,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+EduTech,Mobility,EV,Pune,SoftBank Vision Fund,Growth,288051000,27-09-2020,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+Paytm,HealthTech,Pharmacy,Mumbai,Mirae Asset,Seed,96000,27-06-2025,Healthtech,Fintech,high,name_lookup,HealthTech
+QuantumSolutions,FoodTech,Food Delivery,Hyderabad,Falcon Edge,Series A,13499000,08-04-2024,Foodtech,Foodtech,medium,regex,FoodTech
+DriveEdge,SaaS,MarTech,Delhi,"Blume Ventures, Info Edge, Ribbit Capital",Series A,1496000,05-03-2025,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+Udaan,EdTech,K12,Bengaluru,"LCatterton, Mirae Asset, Nexus Venture Partners",Series A,3074000,30-11-2020,Edtech,Ecommerce/D2C,high,name_lookup,EdTech
+NimbusLabs_846,SaaS,MarTech,Kolkata,"Accel, IFC, Nexus Venture Partners",Series A,1260000,28-09-2024,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+HealthAnalytics,HealthTech,Pharmacy,Ahmedabad,Omidyar Network,Angel,99000,14-04-2023,Healthtech,Healthtech,medium,regex,HealthTech
+MediHive,AgriTech,Supply Chain,Chennai,"LCatterton, Prosus Ventures",Angel,23000,19-05-2021,Agritech,Agritech,medium,regex,AgriTech
+GrowthFlow,RealEstate,PropTech,Chennai,Zodius Capital,Pre-Series A,394000,17-03-2025,Proptech,Proptech,medium,regex,RealEstate
+HyperLoop_850,Consumer Electronics,Smart Home,Kolkata,Omidyar Network,Series A,1199000,10-05-2025,Other,Agritech,low,investor,Consumer Electronics
+MediHive,FinTech,NeoBank,Kolkata,"Bessemer Venture Partners, LCatterton, Nexus Venture Partners",Seed,795000,07-02-2024,Fintech,Fintech,medium,regex,FinTech
+Postman,Retail,Fashion,Hyderabad,"Peak XV, Tiger Global, Y Combinator",Seed,108000,23-04-2020,Ecommerce/D2C,SaaS/Enterprise,high,name_lookup,Retail
+FoodFit,EdTech,Coding Bootcamp,Mumbai,Kalaari Capital,Pre-Seed,158000,02-03-2021,Edtech,Edtech,medium,regex,EdTech
+CoreConnect,Retail,Fashion,Delhi,"LCatterton, Ventures India",Seed,107000,02-10-2022,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+LogiSense,E-commerce,D2C,Noida,"A91 Partners, Mirae Asset",Seed,101000,01-07-2022,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+Innovaccer,E-commerce,Fashion,Pune,"Info Edge, SoftBank Vision Fund, Tiger Global",Series A,1104000,08-06-2022,Ecommerce/D2C,Healthtech,high,name_lookup,E-commerce
+SmartMart,RealEstate,Rental Tech,Delhi,"Accel, Mirae Asset, Ribbit Capital",Angel,21000,15-12-2022,Proptech,Proptech,medium,regex,RealEstate
+HealthRise,Consumer Electronics,Wearables,Delhi,Zodius Capital,Debt,3346000,02-11-2023,Other,Other,low,fallback,Consumer Electronics
+DriveLoop,FinTech,NeoBank,Mumbai,Falcon Edge,Angel,6000,17-11-2022,Fintech,Fintech,medium,regex,FinTech
+Flipkart,E-commerce,Fashion,Ahmedabad,Omidyar Network,Series C,163351000,28-12-2021,Ecommerce/D2C,Ecommerce/D2C,high,name_lookup,E-commerce
+AeroAnalytics_861,Media,Streaming,Kolkata,"Kalaari Capital, Tiger Global",Seed,266000,08-01-2021,Other,Other,low,fallback,Media
+Delhivery,SaaS,MarTech,Kolkata,Tiger Global Management,Series A,4137000,26-06-2021,SaaS/Enterprise,Logistics,high,name_lookup,SaaS
+DataEdge,E-commerce,Grocery,Hyderabad,"Falcon Edge, Sequoia Capital India",Growth,160008000,05-08-2020,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+Porter,FinTech,Lending,Kolkata,"Mirae Asset, Omidyar Network, Tiger Global Management",Series A,2960000,09-04-2022,Fintech,Logistics,high,name_lookup,FinTech
+ShareChat,Media,Streaming,Chennai,Nexus Venture Partners,Series C,91037000,28-06-2020,Other,Other,high,name_lookup,Media
+FinFoods,FinTech,Lending,Bengaluru,Ribbit Capital,Seed,89000,21-08-2023,Fintech,Fintech,medium,regex,FinTech
+DriveEdge,Enterprise,Automation,Gurugram,"Kalaari Capital, Nexus Venture Partners",Seed,98000,25-04-2024,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+Porter,HealthTech,Diagnostics,Kolkata,IFC,Bridge,1201000,23-08-2022,Healthtech,Logistics,high,name_lookup,HealthTech
+HomeMart,AgriTech,Smart Farming,Bengaluru,"IFC, Info Edge, Kalaari Capital",Seed,1639000,29-07-2020,Agritech,Agritech,medium,regex,AgriTech
+NimbusLabs,AgriTech,Marketplace,Noida,"Falcon Edge, Kalaari Capital",Debt,1018000,16-03-2020,Agritech,Agritech,medium,regex,AgriTech
+Myntra,EdTech,Test Prep,Noida,A91 Partners,Pre-Seed,37000,26-03-2023,Edtech,Ecommerce/D2C,high,name_lookup,EdTech
+NextStack,FoodTech,Food Delivery,Mumbai,"Kedaara Capital, Sequoia Capital India, Y Combinator",Series A,5720000,06-04-2025,Foodtech,Foodtech,medium,regex,FoodTech
+SmartTech,Consumer Electronics,Wearables,Kolkata,"LCatterton, SoftBank Vision Fund",Seed,226000,25-03-2021,Other,Deeptech,medium,regex,Consumer Electronics
+InMobi,HealthTech,Pharmacy,Chennai,"Mirae Asset, Ribbit Capital, Y Combinator",Bridge,55000,02-09-2024,Healthtech,Other,high,name_lookup,HealthTech
+BharatPe,AgriTech,Supply Chain,Hyderabad,"Blume Ventures, Mirae Asset",Series B,7709000,25-06-2020,Agritech,Fintech,high,name_lookup,AgriTech
+NeoLabs,FoodTech,Food Delivery,Hyderabad,Tiger Global Management,Seed,701000,14-02-2023,Foodtech,Foodtech,medium,regex,FoodTech
+Licious,Logistics,Supply Chain,Delhi,"Sequoia Capital India, Tiger Global",Seed,568000,26-10-2024,Logistics,Foodtech,high,name_lookup,Logistics
+Paytm,E-commerce,Grocery,Gurugram,"Matrix Partners India, SoftBank Vision Fund",Seed,55000,03-04-2021,Ecommerce/D2C,Fintech,high,name_lookup,E-commerce
+AgriFit,Retail,Fashion,Hyderabad,"Accel, IFC, Omidyar Network",Angel,10000,13-10-2024,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+Postman,Consumer Electronics,Wearables,Mumbai,"IFC, Omidyar Network",Bridge,117000,19-05-2024,Other,SaaS/Enterprise,high,name_lookup,Consumer Electronics
+Zomato,Enterprise,Automation,Bengaluru,"Lightspeed India, Nexus Venture Partners, Y Combinator",Series A,6169000,08-12-2020,SaaS/Enterprise,Foodtech,high,name_lookup,Enterprise
+Cars24,Media,Content,Noida,Blume Ventures,Series A,1055000,17-11-2024,Other,Ecommerce/D2C,high,name_lookup,Media
+Mobikwik,SaaS,DevTools,Mumbai,"Sequoia Capital India, Ventures India",Series D,63545000,18-06-2022,SaaS/Enterprise,Fintech,high,name_lookup,SaaS
+FarmBox,Mobility,Ride Sharing,Mumbai,"Prosus Ventures, Y Combinator",Seed,956000,04-01-2024,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+WorkPay,Mobility,EV,Gurugram,LCatterton,Seed,97000,28-05-2022,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+ShareChat,FinTech,InsurTech,Delhi,"Accel, Peak XV",Series C,117144000,09-01-2024,Fintech,Other,high,name_lookup,FinTech
+HyperLabs,Retail,E-Retail,Chennai,Prosus Ventures,Seed,120000,03-04-2024,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+WorkPay,FinTech,NeoBank,Hyderabad,"IFC, Kedaara Capital",Pre-Series A,126000,19-12-2024,Fintech,Fintech,medium,regex,FinTech
+HyperLabs,FinTech,WealthTech,Noida,"Kalaari Capital, LCatterton, Ribbit Capital",Series A,1932000,27-10-2020,Fintech,Fintech,medium,regex,FinTech
+Ola,Media,Content,Chennai,Accel,Series C,141411000,09-12-2024,Other,EV/Cleantech,high,name_lookup,Media
+WorkStack,Media,Streaming,Delhi,Lightspeed India,Series A,10148000,12-01-2023,Other,Other,low,fallback,Media
+FreshTech,Retail,Fashion,Delhi,"Matrix Partners India, Omidyar Network",Pre-Seed,135000,28-12-2024,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+Oyo,Media,Content,Noida,Matrix Partners India,Seed,216000,02-05-2020,Other,Proptech,high,name_lookup,Media
+ClearDekho,SaaS,B2B SaaS,Bengaluru,Info Edge,Series C,122112000,11-04-2025,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+MediHive,EdTech,K12,Pune,"A91 Partners, Nexus Venture Partners, Y Combinator",Seed,107000,27-09-2023,Edtech,Edtech,medium,regex,EdTech
+LogiMart,Mobility,Micro Mobility,Gurugram,"Accel, Kedaara Capital",Series C,44238000,09-01-2022,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+Flipkart,E-commerce,Quick Commerce,Bengaluru,"Accel, Lightspeed India",Pre-Series A,788000,23-09-2020,Ecommerce/D2C,Ecommerce/D2C,high,name_lookup,E-commerce
+CoreConnect,Mobility,EV,Hyderabad,"Prosus Ventures, Tiger Global Management",Series A,1036000,27-07-2023,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+NeoLabs,FoodTech,Cloud Kitchen,Delhi,"Falcon Edge, Info Edge, Tiger Global Management",Series A,1261000,19-09-2022,Foodtech,Foodtech,medium,regex,FoodTech
+Housejoy,Media,Social,Kolkata,Peak XV,Series A,1756000,08-03-2024,Other,Other,low,fallback,Media
+Nykaa,E-commerce,Grocery,Chennai,"Elevation Capital, Falcon Edge",Seed,55000,26-01-2022,Ecommerce/D2C,Ecommerce/D2C,high,name_lookup,E-commerce
+Housejoy,SaaS,HRTech,Pune,Bessemer Venture Partners,Seed,98000,22-09-2022,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+SmartCare,FoodTech,Cloud Kitchen,Hyderabad,Zodius Capital,Private Equity,382861000,17-03-2021,Foodtech,Foodtech,medium,regex,FoodTech
+NeoLabs_904,Mobility,EV,Mumbai,A91 Partners,Growth,152047000,05-05-2022,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+BlueSpace,Consumer Electronics,Smart Home,Ahmedabad,"Ribbit Capital, Ventures India",Seed,1346000,10-10-2020,Other,Fintech,low,investor,Consumer Electronics
+EduMart,Media,Content,Mumbai,"Kalaari Capital, Matrix Partners India",Series C,182986000,22-09-2023,Other,Deeptech,medium,regex,Media
+AutoMart,FinTech,InsurTech,Hyderabad,Kedaara Capital,Series B,12899000,08-11-2024,Fintech,Fintech,medium,regex,FinTech
+FreshTech,E-commerce,Grocery,Mumbai,"A91 Partners, Tiger Global",Seed,130000,21-06-2023,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+FinFoods,Mobility,Ride Sharing,Mumbai,Tiger Global Management,Series B,14327000,25-12-2022,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+SkillSolutions,EdTech,Coding Bootcamp,Mumbai,Kalaari Capital,Series C,98917000,27-05-2023,Edtech,Edtech,medium,regex,EdTech
+FarmFit,FinTech,WealthTech,Chennai,"Matrix Partners India, SoftBank Vision Fund",Seed,134000,19-02-2020,Fintech,Fintech,medium,regex,FinTech
+Porter,E-commerce,Grocery,Delhi,Ventures India,Seed,500000,09-01-2021,Ecommerce/D2C,Logistics,high,name_lookup,E-commerce
+HyperLoop,FoodTech,Grocery,Delhi,Blume Ventures,Seed,226000,22-05-2025,Foodtech,Foodtech,medium,regex,FoodTech
+NimbusMart,E-commerce,D2C,Delhi,Y Combinator,Pre-Series A,356000,25-10-2021,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+Housejoy,FinTech,Lending,Gurugram,Mirae Asset,Series C,65156000,15-04-2023,Fintech,Fintech,medium,regex,FinTech
+ClearDekho,FoodTech,Cloud Kitchen,Hyderabad,"Kalaari Capital, Mirae Asset",Seed,148000,09-08-2022,Foodtech,Foodtech,medium,regex,FoodTech
+Freshworks,RealEstate,PropTech,Bengaluru,"Matrix Partners India, Prosus Ventures",Seed,1654000,27-05-2025,Proptech,SaaS/Enterprise,high,name_lookup,RealEstate
+FreshSolutions,FoodTech,Food Delivery,Mumbai,Bessemer Venture Partners,Series D,290119000,21-10-2022,Foodtech,Foodtech,medium,regex,FoodTech
+SmartCare,HealthTech,Diagnostics,Noida,"Info Edge, Sequoia Capital India",Bridge,84000,22-05-2025,Healthtech,Healthtech,medium,regex,HealthTech
+SmartMart,AgriTech,Smart Farming,Delhi,"Elevation Capital, Matrix Partners India",Pre-Seed,148000,26-03-2025,Agritech,Agritech,medium,regex,AgriTech
+QuantumAnalytics,Enterprise,Automation,Gurugram,Tiger Global,Series A,3743000,11-11-2022,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+CRED,Logistics,Last Mile,Chennai,Kedaara Capital,Series B,59720000,27-08-2024,Logistics,Fintech,high,name_lookup,Logistics
+QuantumSolutions,EdTech,UpSkilling,Pune,"Info Edge, Matrix Partners India, Tiger Global Management",Series B,45929000,29-06-2025,Edtech,Edtech,medium,regex,EdTech
+DataHive,AgriTech,Smart Farming,Bengaluru,"LCatterton, Omidyar Network, Sequoia Capital India",Angel,18000,30-09-2020,Agritech,Agritech,medium,regex,AgriTech
+MediSpace,FoodTech,Grocery,Kolkata,Bessemer Venture Partners,Series C,21255000,07-01-2023,Foodtech,Foodtech,medium,regex,FoodTech
+Dunzo,Mobility,Ride Sharing,Kolkata,"Y Combinator, Zodius Capital",Series B,10531000,23-12-2021,EV/Cleantech,Ecommerce/D2C,high,name_lookup,Mobility
+EduTech,Retail,Fashion,Bengaluru,Info Edge,Seed,369000,28-01-2022,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+HomeAnalytics,Retail,Grocery,Pune,"Ribbit Capital, Zodius Capital",Seed,517000,29-07-2024,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+HomeAnalytics,Consumer Electronics,Wearables,Bengaluru,"Kedaara Capital, Lightspeed India",Seed,129000,26-01-2025,Other,Other,low,fallback,Consumer Electronics
+AutoMart,Logistics,Fleet Management,Noida,Prosus Ventures,Series A,1458000,04-02-2023,Logistics,Logistics,medium,regex,Logistics
+NoBroker,E-commerce,Grocery,Delhi,Peak XV,Series B,50620000,17-09-2020,Ecommerce/D2C,Proptech,high,name_lookup,E-commerce
+HomeFoods,Media,Content,Gurugram,"Omidyar Network, Prosus Ventures",Series D,482361000,17-02-2020,Other,Agritech,low,investor,Media
+AutoFlow_933,FoodTech,Grocery,Bengaluru,"Kalaari Capital, Zodius Capital",Series D,167749000,23-10-2021,Foodtech,Foodtech,medium,regex,FoodTech
+NeoTech,Consumer Electronics,Wearables,Pune,"Elevation Capital, Kalaari Capital, Lightspeed India",Series A,1592000,30-03-2020,Other,Other,low,fallback,Consumer Electronics
+EduMart,FoodTech,Cloud Kitchen,Pune,Tiger Global Management,Seed,137000,17-03-2023,Foodtech,Foodtech,medium,regex,FoodTech
+Zepto,Media,Content,Mumbai,SoftBank Vision Fund,Angel,5000,07-02-2021,Other,Ecommerce/D2C,high,name_lookup,Media
+Byju's,RealEstate,Rental Tech,Mumbai,Omidyar Network,Pre-Seed,164000,03-06-2022,Proptech,Edtech,high,name_lookup,RealEstate
+WorkStack,EdTech,Test Prep,Kolkata,Zodius Capital,Seed,77000,28-11-2021,Edtech,Edtech,medium,regex,EdTech
+FinSpace,Retail,Fashion,Ahmedabad,"Info Edge, Nexus Venture Partners, Tiger Global Management",Series A,4765000,14-07-2020,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+GreenMart,Enterprise,Automation,Mumbai,"Omidyar Network, Tiger Global",Series C,42009000,06-05-2020,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+Paytm,E-commerce,Quick Commerce,Bengaluru,"Kalaari Capital, Ribbit Capital",Series A,4485000,26-08-2021,Ecommerce/D2C,Fintech,high,name_lookup,E-commerce
+Flipkart,EdTech,Test Prep,Kolkata,"IFC, Ribbit Capital",Pre-Series A,448000,16-06-2024,Edtech,Ecommerce/D2C,high,name_lookup,EdTech
+BlueSpace,RealEstate,PropTech,Kolkata,Accel,Series A,9459000,18-04-2023,Proptech,Proptech,medium,regex,RealEstate
+UrbanStack,E-commerce,Grocery,Gurugram,"Falcon Edge, Mirae Asset, Y Combinator",Angel,9000,15-09-2020,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+Ola,HealthTech,Diagnostics,Delhi,SoftBank Vision Fund,Series C,20605000,03-05-2020,Healthtech,EV/Cleantech,high,name_lookup,HealthTech
+DriveEdge,RealEstate,Home Services,Hyderabad,Nexus Venture Partners,Series A,1449000,13-01-2023,Proptech,Proptech,medium,regex,RealEstate
+FreshTech,Logistics,Supply Chain,Bengaluru,"Matrix Partners India, Nexus Venture Partners, Zodius Capital",Series A,11442000,08-09-2023,Logistics,Logistics,medium,regex,Logistics
+Udaan,FoodTech,Food Delivery,Gurugram,Bessemer Venture Partners,Bridge,1256000,04-08-2023,Foodtech,Ecommerce/D2C,high,name_lookup,FoodTech
+DataHive,Consumer Electronics,Smart Home,Kolkata,"A91 Partners, SoftBank Vision Fund",Series A,5042000,09-11-2021,Other,Other,low,fallback,Consumer Electronics
+Delhivery,FoodTech,Food Delivery,Delhi,Mirae Asset,Seed,458000,29-11-2024,Foodtech,Logistics,high,name_lookup,FoodTech
+Rapido,RealEstate,PropTech,Gurugram,Mirae Asset,Series A,6055000,12-03-2021,Proptech,EV/Cleantech,high,name_lookup,RealEstate
+FreshBox,FoodTech,Cloud Kitchen,Chennai,Sequoia Capital India,Seed,95000,14-01-2020,Foodtech,Foodtech,medium,regex,FoodTech
+Licious,FinTech,NeoBank,Mumbai,Ribbit Capital,Seed,1459000,20-06-2022,Fintech,Foodtech,high,name_lookup,FinTech
+ShareChat,FinTech,Payments,Gurugram,LCatterton,Seed,234000,22-12-2020,Fintech,Other,high,name_lookup,FinTech
+NoBroker,SaaS,DevTools,Delhi,LCatterton,Seed,205000,26-12-2020,SaaS/Enterprise,Proptech,high,name_lookup,SaaS
+DataAnalytics,HealthTech,Health Analytics,Mumbai,Info Edge,Seed,339000,06-03-2021,Healthtech,Healthtech,medium,regex,HealthTech
+Nykaa,Retail,Grocery,Delhi,IFC,Bridge,59000,24-06-2025,Ecommerce/D2C,Ecommerce/D2C,high,name_lookup,Retail
+Byju's,E-commerce,Marketplace,Delhi,Y Combinator,Series C,31376000,27-01-2021,Ecommerce/D2C,Edtech,high,name_lookup,E-commerce
+DriveLoop,EdTech,Test Prep,Ahmedabad,"Elevation Capital, Nexus Venture Partners",Series A,7379000,15-10-2024,Edtech,Edtech,medium,regex,EdTech
+LogiMart_960,Retail,Grocery,Delhi,"LCatterton, Lightspeed India",Series D,60502000,06-06-2025,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+HealthRise,Retail,Fashion,Ahmedabad,"Ribbit Capital, Ventures India",Seed,463000,07-11-2022,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+NimbusWorks,Consumer Electronics,Audio,Pune,"Mirae Asset, Peak XV",Series B,9872000,12-12-2022,Other,Other,low,fallback,Consumer Electronics
+FoodFit,Retail,Fashion,Bengaluru,Info Edge,Seed,210000,06-01-2025,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+FinSpace,Logistics,Supply Chain,Chennai,Matrix Partners India,Series A,2185000,30-03-2025,Logistics,Logistics,medium,regex,Logistics
+WorkFit,E-commerce,D2C,Kolkata,"Falcon Edge, Tiger Global",Series A,2620000,16-04-2021,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+BlueSpace,Consumer Electronics,Wearables,Chennai,Elevation Capital,Pre-Series A,524000,15-10-2022,Other,Other,low,fallback,Consumer Electronics
+GrowthFlow,EdTech,UpSkilling,Mumbai,Zodius Capital,Pre-Series A,198000,17-06-2020,Edtech,Edtech,medium,regex,EdTech
+HealthRise,EdTech,Test Prep,Mumbai,Lightspeed India,Seed,404000,19-03-2020,Edtech,Edtech,medium,regex,EdTech
+FreshBox,Media,Streaming,Hyderabad,Tiger Global Management,Seed,289000,22-05-2023,Other,Other,low,fallback,Media
+Swiggy,FinTech,WealthTech,Hyderabad,"Peak XV, Zodius Capital",Series C,120661000,22-05-2024,Fintech,Foodtech,high,name_lookup,FinTech
+UrbanStack,Mobility,Ride Sharing,Chennai,"Lightspeed India, Matrix Partners India, Omidyar Network",Seed,1584000,21-01-2024,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+InMobi,Media,Content,Pune,Info Edge,Series C,145412000,03-10-2021,Other,Other,high,name_lookup,Media
+SkillRise,Consumer Electronics,Smart Home,Bengaluru,Elevation Capital,Pre-Series A,164000,28-03-2023,Other,Other,low,fallback,Consumer Electronics
+MediSpace,RealEstate,Home Services,Pune,"Prosus Ventures, Ventures India",Seed,56000,21-05-2022,Proptech,Proptech,medium,regex,RealEstate
+Delhivery,SaaS,B2B SaaS,Ahmedabad,Nexus Venture Partners,Series C,40689000,03-03-2025,SaaS/Enterprise,Logistics,high,name_lookup,SaaS
+FreshBox,Retail,Fashion,Ahmedabad,"Kalaari Capital, Lightspeed India",Series A,5010000,11-03-2022,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+AeroHub,E-commerce,D2C,Ahmedabad,Accel,Bridge,60000,01-08-2023,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+Zomato,RealEstate,Rental Tech,Delhi,"Blume Ventures, Mirae Asset",Pre-Seed,63000,12-11-2023,Proptech,Foodtech,high,name_lookup,RealEstate
+CRED,FoodTech,Food Delivery,Gurugram,Tiger Global,Seed,452000,12-09-2023,Foodtech,Fintech,high,name_lookup,FoodTech
+MediSpace,Enterprise,Security,Chennai,Falcon Edge,Seed,172000,14-08-2020,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+GrowthCare,FoodTech,Cloud Kitchen,Delhi,"Prosus Ventures, Zodius Capital",Growth,382414000,26-09-2021,Foodtech,Foodtech,medium,regex,FoodTech
+NextSense,Logistics,Fleet Management,Gurugram,"Elevation Capital, Sequoia Capital India",Series A,1335000,03-11-2023,Logistics,Logistics,medium,regex,Logistics
+SmartCare,Enterprise,Security,Ahmedabad,LCatterton,Series C,24513000,12-12-2022,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+NeoLabs,AgriTech,Supply Chain,Mumbai,"Y Combinator, Zodius Capital",Seed,734000,09-12-2024,Agritech,Agritech,medium,regex,AgriTech
+Delhivery,FoodTech,Grocery,Delhi,"Info Edge, Ventures India",Pre-Series A,313000,02-01-2021,Foodtech,Logistics,high,name_lookup,FoodTech
+BlueTech,E-commerce,Fashion,Bengaluru,Elevation Capital,Seed,634000,17-11-2024,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+Cars24,RealEstate,PropTech,Gurugram,"Nexus Venture Partners, Y Combinator",Angel,18000,22-04-2022,Proptech,Ecommerce/D2C,high,name_lookup,RealEstate
+Zomato,Mobility,EV,Chennai,Falcon Edge,Series A,1949000,01-06-2021,EV/Cleantech,Foodtech,high,name_lookup,Mobility
+SmartMart_989,RealEstate,Rental Tech,Kolkata,"IFC, Kalaari Capital",Pre-Series A,659000,07-03-2024,Proptech,Proptech,medium,regex,RealEstate
+MediSpace,Media,Social,Pune,"Accel, Info Edge",Series B,45874000,08-08-2022,Other,Other,low,fallback,Media
+HomeMart,Consumer Electronics,Audio,Kolkata,Blume Ventures,Series C,131237000,19-09-2024,Other,Deeptech,medium,regex,Consumer Electronics
+PhonePe,AgriTech,Supply Chain,Delhi,"Accel, Kalaari Capital, Ventures India",Seed,136000,30-12-2022,Agritech,Fintech,high,name_lookup,AgriTech
+SkillFlow,SaaS,DevTools,Gurugram,"Falcon Edge, Info Edge, Tiger Global",Series B,25685000,02-01-2025,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+Zomato,FoodTech,Grocery,Hyderabad,Tiger Global,Series A,2658000,10-05-2023,Foodtech,Foodtech,high,name_lookup,FoodTech
+UrbanSolutions,EdTech,UpSkilling,Gurugram,Sequoia Capital India,Seed,70000,02-02-2020,Edtech,Edtech,medium,regex,EdTech
+CloudLabs,E-commerce,Marketplace,Mumbai,"Blume Ventures, Kalaari Capital",Series C,239814000,27-08-2024,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+AeroStack,SaaS,DevTools,Ahmedabad,"Nexus Venture Partners, Peak XV",Seed,83000,14-01-2023,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+Meesho,E-commerce,D2C,Pune,"Info Edge, Kalaari Capital, SoftBank Vision Fund",Seed,1665000,03-04-2022,Ecommerce/D2C,Ecommerce/D2C,high,name_lookup,E-commerce
+Byju's,RealEstate,Home Services,Ahmedabad,Kalaari Capital,Pre-Series A,279000,17-05-2020,Proptech,Edtech,high,name_lookup,RealEstate
+Chargebee,E-commerce,Grocery,Ahmedabad,Omidyar Network,Seed,99000,18-05-2025,Ecommerce/D2C,SaaS/Enterprise,high,name_lookup,E-commerce
+UrbanDrive,Retail,Fashion,Delhi,"IFC, Mirae Asset, SoftBank Vision Fund",Seed,369000,25-07-2023,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+WorkStack_1002,AgriTech,Smart Farming,Chennai,Falcon Edge,Series A,10633000,28-02-2024,Agritech,Agritech,medium,regex,AgriTech
+UrbanStack,AgriTech,Supply Chain,Hyderabad,Ribbit Capital,Seed,745000,27-05-2022,Agritech,Agritech,medium,regex,AgriTech
+HealthWorks,Consumer Electronics,Wearables,Gurugram,"Omidyar Network, Peak XV, Sequoia Capital India",Seed,980000,22-02-2021,Other,Agritech,low,investor,Consumer Electronics
+Ola,Media,Content,Delhi,Falcon Edge,Seed,568000,11-08-2023,Other,EV/Cleantech,high,name_lookup,Media
+SkillRise,Logistics,Last Mile,Gurugram,Matrix Partners India,Series D,246176000,09-11-2021,Logistics,Logistics,medium,regex,Logistics
+Udaan,RealEstate,PropTech,Gurugram,"Info Edge, SoftBank Vision Fund",Series A,9971000,20-02-2022,Proptech,Ecommerce/D2C,high,name_lookup,RealEstate
+MediHive_1008,Consumer Electronics,Audio,Gurugram,Nexus Venture Partners,Seed,126000,16-10-2020,Other,Other,low,fallback,Consumer Electronics
+NoBroker,AgriTech,Marketplace,Gurugram,"Kedaara Capital, SoftBank Vision Fund",Seed,304000,09-06-2020,Agritech,Proptech,high,name_lookup,AgriTech
+BlueRise,HealthTech,Diagnostics,Hyderabad,"IFC, Lightspeed India, Mirae Asset",Seed,113000,07-07-2022,Healthtech,Healthtech,medium,regex,HealthTech
+ShareChat,FoodTech,Food Delivery,Delhi,"Info Edge, Omidyar Network",Series A,14507000,15-05-2022,Foodtech,Other,high,name_lookup,FoodTech
+HyperLoop,Retail,Grocery,Bengaluru,Ventures India,Series C,257828000,25-05-2022,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+Delhivery,AgriTech,Marketplace,Delhi,Y Combinator,Series A,1113000,25-12-2020,Agritech,Logistics,high,name_lookup,AgriTech
+BigBasket,Consumer Electronics,Wearables,Chennai,SoftBank Vision Fund,Series A,6758000,11-09-2022,Other,Ecommerce/D2C,high,name_lookup,Consumer Electronics
+CoreSpace,EdTech,Test Prep,Bengaluru,"Kalaari Capital, Y Combinator",Growth,574676000,04-02-2024,Edtech,Edtech,medium,regex,EdTech
+AutoMart,SaaS,MarTech,Kolkata,Kalaari Capital,Seed,97000,19-04-2023,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+GrowthConnect,E-commerce,Fashion,Ahmedabad,"Bessemer Venture Partners, Peak XV",Seed,406000,11-04-2024,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+NextFlow,Consumer Electronics,Smart Home,Pune,"Peak XV, Ventures India",Series B,63289000,26-08-2023,Other,Other,low,fallback,Consumer Electronics
+HomeMart,Enterprise,Security,Bengaluru,Matrix Partners India,Series B,5493000,14-08-2023,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+AutoFlow,HealthTech,Pharmacy,Gurugram,"Bessemer Venture Partners, Sequoia Capital India, Zodius Capital",Series A,6610000,03-05-2025,Healthtech,Healthtech,medium,regex,HealthTech
+AeroHub,AgriTech,Supply Chain,Noida,"Blume Ventures, Info Edge",Angel,12000,29-11-2024,Agritech,Agritech,medium,regex,AgriTech
+Oyo,Mobility,Micro Mobility,Chennai,"Peak XV, Ventures India",Series A,12223000,12-02-2024,EV/Cleantech,Proptech,high,name_lookup,Mobility
+Unacademy,E-commerce,Grocery,Pune,"Kedaara Capital, Lightspeed India, Ventures India",Series C,277385000,04-07-2021,Ecommerce/D2C,Edtech,high,name_lookup,E-commerce
+MediHive,Enterprise,Security,Bengaluru,"Elevation Capital, Kalaari Capital",Seed,1628000,03-05-2024,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+Paytm,HealthTech,Diagnostics,Pune,Mirae Asset,Seed,288000,02-10-2020,Healthtech,Fintech,high,name_lookup,HealthTech
+AeroAnalytics,Consumer Electronics,Smart Home,Gurugram,"Blume Ventures, Matrix Partners India, Ventures India",Seed,1202000,30-04-2020,Other,SaaS/Enterprise,low,investor,Consumer Electronics
+Freshworks,Consumer Electronics,Smart Home,Ahmedabad,Accel,Seed,1127000,27-07-2023,Other,SaaS/Enterprise,high,name_lookup,Consumer Electronics
+WorkFit,Logistics,Last Mile,Pune,"Mirae Asset, Ventures India",Pre-Seed,42000,25-04-2021,Logistics,Logistics,medium,regex,Logistics
+MediSpace_1029,Retail,E-Retail,Ahmedabad,Lightspeed India,Series C,188760000,26-03-2020,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+MediHive,Mobility,EV,Kolkata,"Info Edge, Y Combinator",Series A,1105000,21-11-2021,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+DataHive,Enterprise,Analytics,Pune,"Tiger Global, Y Combinator",Series B,26119000,14-02-2022,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+FreshBox,FinTech,InsurTech,Chennai,Sequoia Capital India,Series B,9461000,23-12-2024,Fintech,Fintech,medium,regex,FinTech
+NeoTech,Logistics,Fleet Management,Gurugram,"Kalaari Capital, Mirae Asset, Prosus Ventures",Pre-Series A,132000,20-06-2023,Logistics,Logistics,medium,regex,Logistics
+FinFoods_1034,RealEstate,Home Services,Bengaluru,Tiger Global Management,Series B,6189000,23-11-2024,Proptech,Proptech,medium,regex,RealEstate
+NeoSense,EdTech,Coding Bootcamp,Chennai,Y Combinator,Series B,34466000,14-06-2024,Edtech,Edtech,medium,regex,EdTech
+FarmBox,Enterprise,Automation,Mumbai,"Lightspeed India, Nexus Venture Partners",Series B,12830000,24-08-2021,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+ClearDekho,FinTech,Lending,Kolkata,"Mirae Asset, Tiger Global Management",Series C,142371000,09-09-2021,Fintech,Fintech,medium,regex,FinTech
+EduMart,Consumer Electronics,Smart Home,Noida,Ventures India,Seed,64000,09-03-2021,Other,Deeptech,medium,regex,Consumer Electronics
+Unacademy,E-commerce,Fashion,Bengaluru,LCatterton,Seed,160000,17-03-2025,Ecommerce/D2C,Edtech,high,name_lookup,E-commerce
+QuantumSolutions,Logistics,Fleet Management,Kolkata,Prosus Ventures,Bridge,366000,05-10-2023,Logistics,Logistics,medium,regex,Logistics
+NeoLabs,Media,Content,Gurugram,"SoftBank Vision Fund, Tiger Global",Angel,53000,18-04-2024,Other,Other,low,fallback,Media
+QuantumAnalytics,Retail,Fashion,Chennai,Nexus Venture Partners,Series C,47415000,02-04-2021,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+Unacademy,E-commerce,Quick Commerce,Pune,Ventures India,Series B,28354000,03-04-2025,Ecommerce/D2C,Edtech,high,name_lookup,E-commerce
+Porter,AgriTech,Smart Farming,Delhi,"A91 Partners, Sequoia Capital India",Series D,384546000,07-05-2025,Agritech,Logistics,high,name_lookup,AgriTech
+HealthWorks,EdTech,Coding Bootcamp,Chennai,"Nexus Venture Partners, Peak XV, Prosus Ventures",Seed,485000,17-01-2022,Edtech,Edtech,medium,regex,EdTech
+HomeAnalytics,FinTech,NeoBank,Kolkata,Zodius Capital,Seed,118000,29-07-2024,Fintech,Fintech,medium,regex,FinTech
+Chargebee,RealEstate,Home Services,Delhi,"Bessemer Venture Partners, Kedaara Capital, Prosus Ventures",Series A,1068000,25-10-2020,Proptech,SaaS/Enterprise,high,name_lookup,RealEstate
+FoodLoop,Media,Social,Hyderabad,"Mirae Asset, Zodius Capital",Debt,22303000,17-12-2023,Other,Other,low,fallback,Media
+NimbusLabs,FoodTech,Cloud Kitchen,Pune,IFC,Seed,54000,07-01-2024,Foodtech,Foodtech,medium,regex,FoodTech
+Zepto,Media,Streaming,Bengaluru,IFC,Angel,69000,08-05-2024,Other,Ecommerce/D2C,high,name_lookup,Media
+DriveFit,Enterprise,Automation,Delhi,"Prosus Ventures, SoftBank Vision Fund",Debt,2677000,27-01-2023,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+NextFlow,FoodTech,Cloud Kitchen,Noida,"A91 Partners, Kedaara Capital, LCatterton",Series B,67565000,01-08-2021,Foodtech,Foodtech,medium,regex,FoodTech
+Wakefit,HealthTech,Pharmacy,Ahmedabad,"Elevation Capital, Omidyar Network, Prosus Ventures",Growth,411602000,20-04-2020,Healthtech,Ecommerce/D2C,high,name_lookup,HealthTech
+Ola,Media,Content,Hyderabad,Bessemer Venture Partners,Angel,99000,05-03-2021,Other,EV/Cleantech,high,name_lookup,Media
+BlueRise,FinTech,WealthTech,Ahmedabad,Y Combinator,Seed,182000,27-05-2024,Fintech,Fintech,medium,regex,FinTech
+DriveLoop,HealthTech,Telemedicine,Mumbai,Peak XV,Pre-Series A,585000,28-08-2022,Healthtech,Healthtech,medium,regex,HealthTech
+Housejoy,Mobility,Micro Mobility,Pune,Ribbit Capital,Series A,2970000,09-06-2025,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+CoreConnect,E-commerce,Marketplace,Chennai,"Peak XV, Ribbit Capital",Series A,3668000,09-11-2023,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+UrbanSolutions,Retail,Fashion,Mumbai,"Info Edge, Ribbit Capital, Y Combinator",Series C,109404000,06-11-2024,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+MediSpace,E-commerce,Quick Commerce,Kolkata,"Lightspeed India, Omidyar Network",Series B,56361000,03-02-2025,Ecommerce/D2C,Ecommerce/D2C,medium,regex,E-commerce
+GrowthCare,Media,Social,Ahmedabad,"Elevation Capital, Kedaara Capital, Nexus Venture Partners",Seed,1886000,18-09-2022,Other,Deeptech,medium,regex,Media
+NeoSense_1062,Enterprise,Automation,Delhi,Kalaari Capital,Pre-Series A,587000,06-12-2023,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+NeoLabs_1063,Enterprise,Automation,Noida,"Nexus Venture Partners, Tiger Global Management, Ventures India",Series B,15923000,06-06-2024,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+Housejoy,HealthTech,Diagnostics,Bengaluru,Nexus Venture Partners,Series A,3130000,27-06-2024,Healthtech,Healthtech,medium,regex,HealthTech
+FreshSolutions,RealEstate,PropTech,Mumbai,Accel,Series A,7370000,09-10-2024,Proptech,Proptech,medium,regex,RealEstate
+NeoTech,SaaS,DevTools,Chennai,Matrix Partners India,Bridge,121000,09-09-2023,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+FarmFit,Mobility,EV,Noida,"Falcon Edge, Kedaara Capital",Series A,1349000,27-03-2023,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+AgriFit,Mobility,Ride Sharing,Mumbai,Sequoia Capital India,Series B,13365000,01-04-2020,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+SmartCare,Enterprise,Analytics,Delhi,"Nexus Venture Partners, Y Combinator",Series A,2177000,18-03-2021,SaaS/Enterprise,SaaS/Enterprise,medium,regex,Enterprise
+Innovaccer,E-commerce,Grocery,Hyderabad,Kalaari Capital,Seed,149000,23-08-2023,Ecommerce/D2C,Healthtech,high,name_lookup,E-commerce
+WorkFit,RealEstate,Home Services,Delhi,"Kedaara Capital, Tiger Global Management, Ventures India",Series A,1883000,24-05-2020,Proptech,Proptech,medium,regex,RealEstate
+CloudLabs,AgriTech,Marketplace,Noida,SoftBank Vision Fund,Series A,1121000,09-05-2022,Agritech,Agritech,medium,regex,AgriTech
+DriveEdge,AgriTech,Supply Chain,Mumbai,Prosus Ventures,Seed,53000,24-12-2022,Agritech,Agritech,medium,regex,AgriTech
+Freshworks,E-commerce,D2C,Mumbai,Nexus Venture Partners,Pre-Series A,972000,14-11-2021,Ecommerce/D2C,SaaS/Enterprise,high,name_lookup,E-commerce
+Zepto,Logistics,Last Mile,Mumbai,Y Combinator,Pre-Series A,268000,07-06-2025,Logistics,Ecommerce/D2C,high,name_lookup,Logistics
+Zomato,Retail,E-Retail,Delhi,Omidyar Network,Series A,2831000,28-11-2024,Ecommerce/D2C,Foodtech,high,name_lookup,Retail
+NeoLabs,SaaS,HRTech,Noida,Blume Ventures,Seed,613000,21-07-2020,SaaS/Enterprise,SaaS/Enterprise,medium,regex,SaaS
+UrbanDrive,Retail,Fashion,Noida,"Mirae Asset, Nexus Venture Partners",Series A,1806000,11-12-2024,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+MediSpace,Media,Social,Delhi,"LCatterton, Matrix Partners India, Ribbit Capital",Seed,1663000,08-03-2023,Other,Ecommerce/D2C,low,investor,Media
+Nykaa,Media,Social,Ahmedabad,Info Edge,Pre-Series A,611000,26-07-2022,Other,Ecommerce/D2C,high,name_lookup,Media
+AgriFit,Mobility,EV,Hyderabad,"Elevation Capital, IFC, Zodius Capital",Bridge,70000,02-12-2022,EV/Cleantech,EV/Cleantech,medium,regex,Mobility
+Unacademy,Logistics,Supply Chain,Pune,Tiger Global,Series D,130783000,23-07-2023,Logistics,Edtech,high,name_lookup,Logistics
+MediWorks,HealthTech,Telemedicine,Mumbai,"Sequoia Capital India, Zodius Capital",Series B,57218000,08-02-2023,Healthtech,Healthtech,medium,regex,HealthTech
+Innovaccer,RealEstate,Rental Tech,Delhi,"Kedaara Capital, LCatterton, Tiger Global Management",Series A,12915000,20-11-2022,Proptech,Healthtech,high,name_lookup,RealEstate
+CoreConnect_1085,EdTech,Test Prep,Chennai,Matrix Partners India,Series B,18272000,15-03-2024,Edtech,Edtech,medium,regex,EdTech
+Razorpay,AgriTech,Smart Farming,Delhi,"Blume Ventures, LCatterton",Series B,27390000,11-12-2024,Agritech,Fintech,high,name_lookup,AgriTech
+Mobikwik,Enterprise,Analytics,Noida,"Blume Ventures, Mirae Asset",Pre-Series A,147000,14-04-2020,SaaS/Enterprise,Fintech,high,name_lookup,Enterprise
+FreshToHome,SaaS,DevTools,Noida,Elevation Capital,Series D,489935000,22-10-2024,SaaS/Enterprise,Foodtech,high,name_lookup,SaaS
+AgriHive,EdTech,Test Prep,Ahmedabad,Peak XV,Pre-Series A,170000,05-03-2025,Edtech,Edtech,medium,regex,EdTech
+GrowthConnect,AgriTech,Smart Farming,Bengaluru,"SoftBank Vision Fund, Y Combinator",Pre-Series A,876000,14-06-2023,Agritech,Agritech,medium,regex,AgriTech
+MediHive,Media,Social,Chennai,"Accel, Mirae Asset",Pre-Series A,446000,26-07-2020,Other,Other,low,fallback,Media
+HyperLoop,Consumer Electronics,Audio,Delhi,Mirae Asset,Series C,103701000,27-05-2021,Other,Other,low,fallback,Consumer Electronics
+NimbusWorks,FoodTech,Cloud Kitchen,Noida,"Info Edge, Prosus Ventures",Series C,80168000,10-08-2020,Foodtech,Foodtech,medium,regex,FoodTech
+FinSense,FoodTech,Cloud Kitchen,Pune,Accel,Private Equity,170086000,23-12-2023,Foodtech,Foodtech,medium,regex,FoodTech
+HealthAnalytics_1095,FoodTech,Food Delivery,Pune,"Lightspeed India, Mirae Asset, Prosus Ventures",Angel,8000,24-11-2020,Foodtech,Foodtech,medium,regex,FoodTech
+NextStack,Consumer Electronics,Smart Home,Kolkata,SoftBank Vision Fund,Series C,36336000,02-01-2024,Other,Other,low,fallback,Consumer Electronics
+FoodFit,Media,Content,Delhi,Nexus Venture Partners,Seed,99000,08-08-2020,Other,Other,low,fallback,Media
+FoodSolutions,Retail,Fashion,Gurugram,Info Edge,Seed,887000,26-08-2024,Ecommerce/D2C,Ecommerce/D2C,medium,regex,Retail
+MediSpace,Logistics,Supply Chain,Kolkata,Ribbit Capital,Seed,182000,28-05-2022,Logistics,Logistics,medium,regex,Logistics
